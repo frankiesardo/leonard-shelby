@@ -35,7 +35,7 @@ The core. The operating system underneath everything else.
 | Maps of Meaning | Jordan Peterson | `evergreen` |
 | 12 Rules for Life | Jordan Peterson | `evergreen` |
 | 12 More Rules for Life | Jordan Peterson | `evergreen` |
-| The Courage of Being Disliked | Ichiro Kishimi & Fumitake Koga | `evergreen` |
+| The Courage to Be Disliked | Ichiro Kishimi & Fumitake Koga | `evergreen` |
 | The Subtle Art of Not Giving a F\*ck | Mark Manson | `evergreen` |
 | Everything is F\*cked | Mark Manson | `evergreen` |
 | The Challenge to Succeed (seminar) | Jim Rohn | `evergreen` |
@@ -53,7 +53,7 @@ How thinking actually works, not how we wish it worked.
 | The Science of Storytelling | Will Storr | `evergreen` |
 | The Happiness Hypothesis | Jonathan Haidt | `evergreen` |
 | Drive | Daniel Pink | `evergreen` |
-| The Art of Learning | Josh Waitzkin | `evergreen` |
+| [The Art of Learning](../sources/books/the-art-of-learning/summary.md) | Josh Waitzkin | `evergreen` |
 | Atomic Habits | James Clear | `evergreen` |
 
 ## Systems thinking & big ideas
@@ -114,8 +114,8 @@ The craft of making ideas transmissible. I think in bullet points. I aspire to w
 
 | Source | Author | Tier |
 |--------|--------|------|
-| Several Short Sentences About Writing | Verlyn Klinkenborg | `evergreen` |
-| On Writing Well | William Zinsser | `evergreen` |
+| [Several Short Sentences About Writing](../sources/books/several-short-sentences-about-writing/summary.md) | Verlyn Klinkenborg | `evergreen` |
+| [On Writing Well](../sources/books/on-writing-well/summary.md) | William Zinsser | `evergreen` |
 | Slate Star Codex (blog) | Scott Alexander | `evergreen` |
 
 ## Fiction that reframes reality
@@ -158,7 +158,7 @@ Not books — living streams of ideas I draw from regularly.
 
 These resources shaped the *method* of the garden itself:
 
-- [Concept Handles](https://slatestarcodex.com/2016/02/20/writing-advice/) — Scott Alexander on naming ideas so they become usable
-- [Evergreen Notes](https://notes.andymatuschak.org/Evergreen_notes) — Andy Matuschak on atomic, concept-oriented notes
-- [Evergreen Notes](https://stephango.com/evergreen-notes) — Steph Ango's take on the same idea
+- [Nonfiction Writing Advice](../sources/essays/nonfiction-writing-advice/summary.md) — Scott Alexander on naming ideas so they become usable
+- [Evergreen Notes](../sources/essays/evergreen-notes-matuschak/summary.md) — Andy Matuschak on atomic, concept-oriented notes
+- [Evergreen Notes](../sources/essays/evergreen-notes-ango/summary.md) — Steph Ango's take on the same idea
 - The Zettelkasten method — Luhmann's slip-box system for building a web of ideas
