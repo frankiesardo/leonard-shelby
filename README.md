@@ -1,0 +1,83 @@
+# The Garden
+
+A digital garden for deep thinking. Not a blog. Not a wiki. A living structure where ideas take root, connect, and grow over time.
+
+## Why this exists
+
+I read widely — philosophy, cognitive science, management, history, fiction — and I've noticed that the most powerful moments in my intellectual life happen when ideas from different domains collide. Antifragility meets stoicism. Lakoff's embodied cognition meets tai chi. The hero's journey meets startup building. These collisions don't happen by accident; they happen when you give ideas a place to live and bump into each other.
+
+Most note-taking systems fail me in one of two ways: either everything is flat (and a foundational book drowns alongside an article of the week), or the system demands so much structure that I stop using it. This garden is designed to solve both problems.
+
+## Core principles
+
+**1. Not all knowledge is equally load-bearing.**
+Marcus Aurelius' Meditations is not the same kind of object as a podcast episode, even if they share an insight about resilience. The garden has explicit depth tiers — from bedrock philosophy to timely articles — so that foundational ideas maintain their gravitational pull without excluding fresh thinking.
+
+**2. Sources and ideas are separate layers.**
+A book is a *source*. "Antifragility" is an *idea*. Sources have tiers and permanence. Ideas are atomic, free-floating, and connect to each other as peers — regardless of whether they came from Taleb or a Tuesday blog post. The ideas form the web; the sources form the root system.
+
+**3. The garden is readable by both humans and machines.**
+Every note uses plain Markdown with YAML frontmatter. No proprietary format. No lock-in. This is deliberate: I want to be able to converse with an AI agent that is *grounded* in this garden — that knows my foundations, understands my vocabulary, and can help me think from a shared vantage point. Feed it a new article, and it should be able to say: "This connects to your thinking on X, and it challenges what you took from Y."
+
+**4. Things grow upward, not outward.**
+New content enters as a seedling. Some seedlings prove important and put down roots, becoming evergreen ideas connected to the core. Others stay seasonal — interesting, useful, but not identity-level. The system should make it easy to promote, but never pressure you to connect everything to everything.
+
+**5. Simplicity is a feature.**
+Plain markdown. Git. A directory structure you can hold in your head. Complexity can be layered on top (build steps, viewers, SRS) but the foundation must remain something you can edit with any text editor and navigate with `ls` and `grep`.
+
+## The tier system
+
+Sources (books, talks, articles) are classified by how deeply they've shaped my thinking:
+
+| Tier | Name | What it means | Examples |
+|------|------|--------------|----------|
+| `perennial` | Deep roots | Identity-level. Frameworks I think *through*, not just *about*. Revisited for years. | Meditations, 7 Habits, Society of Mind |
+| `evergreen` | Strong branches | Proven ideas that connect broadly. Well-integrated into my thinking. | Antifragile, Sapiens, Radical Candor |
+| `seasonal` | Current growth | Interesting and timely. May become evergreen with time, or may fade naturally. | A good podcast episode, a thought-provoking article |
+| `seedling` | Just planted | Captured but not yet processed. In the inbox, waiting to be read or digested. | A URL someone shared, a book on the to-read list |
+
+Ideas (evergreen notes / concept handles) don't have tiers — they connect freely. But they do accumulate *weight* naturally through how many connections they have and how often they're revisited.
+
+## What's in the garden
+
+See [STRUCTURE.md](STRUCTURE.md) for the full layout. The short version:
+
+```
+sources/       → Books, talks, articles, podcasts. The root system.
+ideas/         → Evergreen notes. Atomic concepts. The connective tissue.
+reflections/   → Personal notes. My thinking in my voice.
+maps/          → Thematic indexes. Curated entry points into clusters of ideas.
+inbox/         → Unprocessed captures. The compost pile.
+```
+
+## My intellectual roots
+
+This garden didn't start from nothing. These are the domains that form my foundation — where I think most naturally and where new ideas tend to get anchored:
+
+- **Stoicism & Eastern philosophy** — The quest to become a true person. Cutting through noise. I studied tai chi and martial arts for years; the parallels between stoicism, Taoism, and the Jungian journey are central to how I see the world.
+- **Cognitive science & how minds work** — Minsky's Society of Mind, Lakoff's embodied cognition, Dawkins' selfish gene. How thinking actually works, not how we wish it worked.
+- **Building things & leading people** — Engineering management, startups, product thinking. How small teams create outsized impact. Why candor matters. Why systems beat goals.
+- **History & the long arc** — Sapiens, Guns Germs and Steel, Lessons of History. Where we came from, why things are the way they are, where we might be going.
+- **Writing & communication** — I think in bullet points and aspire to write in short, incisive prose. The craft of making ideas transmissible.
+- **Fiction that reframes reality** — Dystopias, myths, stories that make you see the world differently.
+
+## The long-term vision
+
+Today this is a GitHub repo of markdown files. Tomorrow it might power:
+
+- **Conversational exploration** — An AI agent grounded in this garden that can discuss new ideas from my existing vantage point, find novel connections, and challenge my thinking.
+- **Spaced repetition** — Flashcards generated from concept handles and key ideas, so foundational knowledge stays accessible.
+- **Content creation** — The garden as a launchpad for writing, speaking, and sharing — including letting an agent draft posts grounded in ideas I actually hold.
+- **Visual exploration** — A graph view or map view to see clusters, gaps, and unexpected bridges between domains.
+
+But those are layers on top. The foundation is just markdown, links, and clear structure.
+
+## How to use this garden
+
+**As a human:** Browse `maps/` for thematic entry points. Read `sources/` for my notes on specific books and talks. Explore `ideas/` for atomic concepts. Follow the links.
+
+**As an agent:** Read `STRUCTURE.md` for conventions. Parse YAML frontmatter for metadata. Use `maps/` as high-level context. Use `ideas/` as the primary knowledge graph. Use source tiers to weight relevance.
+
+---
+
+*"The impediment to action advances action. What stands in the way becomes the way." — Marcus Aurelius*
