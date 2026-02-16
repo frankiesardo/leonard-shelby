@@ -14,6 +14,8 @@ related:
   - building-your-trigger
   - the-downward-spiral
   - making-smaller-circles
+  - p-pc-balance
+  - quadrant-ii
 ---
 
 # Stress and Recovery
@@ -40,4 +42,6 @@ With incremental training, recovery time can become nearly instantaneous -- tiny
 - Prevents [The Downward Spiral](the-downward-spiral.md) -- micro-recoveries between moments of intensity keep errors from compounding
 - Uses the same condensing logic as [Making Smaller Circles](making-smaller-circles.md) -- shrink recovery intervals while maintaining their effect
 - The physiological foundation for [Building Your Trigger](building-your-trigger.md) -- you must be able to release before you can re-enter the zone
+- Covey's [P/PC Balance](p-pc-balance.md) is the macro version — Production Capability (the goose) requires recovery, not just production (the eggs)
+- Recovery is a [Quadrant II](quadrant-ii.md) activity — important but never urgent, always the first thing cut under pressure
 - Discussed in [The Art of Learning](../sources/books/the-art-of-learning/summary.md)

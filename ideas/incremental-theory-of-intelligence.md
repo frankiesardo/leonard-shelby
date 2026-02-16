@@ -14,6 +14,8 @@ related:
   - investment-in-loss
   - the-downward-spiral
   - process-over-product
+  - inside-out
+  - abundance-mentality
 ---
 
 # Incremental Theory of Intelligence
@@ -38,4 +40,6 @@ The hermit crab metaphor is useful: growth requires leaving the old shell and be
 - Protects against [The Downward Spiral](the-downward-spiral.md) — incremental thinkers recover from mistakes instead of compounding them
 - Dweck's work is the academic foundation; Waitzkin's contribution is showing what it looks like in practice across decades
 - Zinsser's [Process over Product](process-over-product.md) is the same insight applied to writing: value the work, not the result
+- Covey's [Inside-Out](inside-out.md) principle requires believing change is possible — entity theorists can't change from within because they don't think change is real
+- The [Abundance Mentality](abundance-mentality.md) maps to incremental thinking: if ability grows, there's enough success for everyone
 - Discussed in [The Art of Learning](../sources/books/the-art-of-learning/summary.md)

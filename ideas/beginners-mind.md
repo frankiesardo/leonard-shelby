@@ -13,6 +13,7 @@ related:
   - investment-in-loss
   - incremental-theory-of-intelligence
   - numbers-to-leave-numbers
+  - circle-of-influence
 ---
 
 # Beginner's Mind
@@ -36,4 +37,5 @@ The enemy is the protective ego. The person who needs to look good at all times 
 - Enables [Investment in Loss](investment-in-loss.md) — you can only invest in loss if you can tolerate being a beginner again
 - Related to [Incremental Theory of Intelligence](incremental-theory-of-intelligence.md) — only incremental thinkers can embrace the vulnerability of starting over
 - The inverse of [Numbers to Leave Numbers](numbers-to-leave-numbers.md) — periodically you must return to the numbers
+- Related to Covey's [Circle of Influence](circle-of-influence.md) — accepting what is before trying to change it; letting go of the need to control
 - Discussed in [The Art of Learning](../sources/books/the-art-of-learning/summary.md)

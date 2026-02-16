@@ -13,6 +13,7 @@ related:
   - the-downward-spiral
   - making-sandals
   - stress-and-recovery
+  - circle-of-influence
 ---
 
 # The Soft Zone
@@ -36,4 +37,5 @@ The progression is three stages: first, learn to flow with distraction (survive 
 - Prevents [The Downward Spiral](the-downward-spiral.md) — soft zone practitioners recover from mistakes instead of freezing
 - Foundation for [Making Sandals](making-sandals.md) — the internal solution to external problems
 - Complements [Stress and Recovery](stress-and-recovery.md) — the soft zone is what you return to during recovery
+- Covey's [Circle of Influence](circle-of-influence.md) is the same idea at a life level — don't waste energy on what you can't control; focus on your response
 - Discussed in [The Art of Learning](../sources/books/the-art-of-learning/summary.md)

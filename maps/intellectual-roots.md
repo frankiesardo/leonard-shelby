@@ -28,7 +28,7 @@ The core. The operating system underneath everything else.
 | Source | Author | Tier |
 |--------|--------|------|
 | Meditations | Marcus Aurelius | `perennial` |
-| 7 Habits of Highly Effective People | Stephen Covey | `perennial` |
+| [The 7 Habits of Highly Effective People](../sources/books/the-7-habits-of-highly-effective-people/summary.md) | Stephen Covey | `perennial` |
 | The 8th Habit | Stephen Covey | `perennial` |
 | Man's Search for Meaning | Viktor Frankl | `perennial` |
 | The Hero with a Thousand Faces | Joseph Campbell | `perennial` |

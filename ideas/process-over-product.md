@@ -15,6 +15,8 @@ related:
   - quality-is-its-own-reward
   - unity-of-form
   - incremental-theory-of-intelligence
+  - two-creations
+  - p-pc-balance
 ---
 
 # Process over Product
@@ -37,4 +39,6 @@ The tyranny of the final product is the tyranny of skipping the messy, uncertain
 - A good process starts with [Unity of Form](unity-of-form.md) — making reductive decisions early
 - The standard that keeps the process honest is [Quality Is Its Own Reward](quality-is-its-own-reward.md)
 - Waitzkin's [Incremental Theory of Intelligence](incremental-theory-of-intelligence.md) is the psychological foundation — process-orientation requires believing ability grows through effort
+- Covey's [Two Creations](two-creations.md) is the same principle at life scale — get the first creation (vision, plan) right before optimizing the second (execution)
+- [P/PC Balance](p-pc-balance.md) — investing in process is investing in Production Capability
 - Discussed in [On Writing Well](../sources/books/on-writing-well/summary.md)
