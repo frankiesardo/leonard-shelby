@@ -15,6 +15,7 @@ related:
   - slowing-down-time
   - building-your-trigger
   - think-small
+  - theory-of-constraints
 ---
 
 # Making Smaller Circles

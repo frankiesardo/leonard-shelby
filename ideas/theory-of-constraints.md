@@ -6,10 +6,12 @@ aliases:
   - Goldratt's theory
 sources:
   - the-goal
+  - the-art-of-learning
 domains:
   - systems-thinking
   - management
   - product
+  - personal-development
 related:
   - bottleneck
   - the-five-focusing-steps
@@ -17,6 +19,8 @@ related:
   - drum-buffer-rope
   - non-bottleneck-utilization
   - dependent-events-and-statistical-fluctuations
+  - making-smaller-circles
+  - numbers-to-leave-numbers
 ---
 
 # Theory of Constraints
@@ -32,6 +36,12 @@ The practical method is the [Five Focusing Steps](the-five-focusing-steps.md): i
 Most organizations optimize locally. They chase efficiency metrics at every work center, celebrate when individual departments hit targets, and wonder why the system as a whole doesn't improve. TOC explains why: improving a non-constraint doesn't improve the system. It just builds inventory (in manufacturing) or creates queues (in software, hospitals, anywhere work flows through dependent steps).
 
 The metaphor is a chain: you don't strengthen a chain by thickening every link. You find the weakest link and strengthen that one. Then you find the next weakest. This is obvious once stated, but the entire apparatus of cost accounting and efficiency measurement works against it.
+
+## TOC applied to learning
+
+Waitzkin's chess education is the Theory of Constraints applied to skill acquisition. His teacher started him with king and pawn vs. king — the endgame, the constraint every game funnels into. Other kids memorized 20 moves of the Sicilian and won quick games on tricks. They were optimizing the opening — a non-bottleneck. When the tricks stopped working, they had nothing. They'd been running every machine at 100% efficiency while the bottleneck starved.
+
+Every chess game eventually becomes an endgame. The endgame is the constraint. Waitzkin's teacher identified it, exploited it (deep study of fundamentals with minimal pieces), and subordinated everything else to it (no opening theory until the endgame was internalized). The opening-memorizers are plant managers celebrating local efficiencies while throughput collapses.
 
 ## Connections
 

@@ -13,6 +13,7 @@ related:
   - making-smaller-circles
   - slowing-down-time
   - beginners-mind
+  - theory-of-constraints
 ---
 
 # Numbers to Leave Numbers
