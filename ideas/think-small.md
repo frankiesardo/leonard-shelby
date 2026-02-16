@@ -15,6 +15,7 @@ related:
   - process-over-product
   - simplicity-in-writing
   - making-smaller-circles
+  - focus-is-saying-no
 ---
 
 # Think Small

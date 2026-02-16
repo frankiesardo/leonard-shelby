@@ -7,6 +7,7 @@ aliases:
 sources:
   - everything-is-fucked
   - the-science-of-storytelling
+  - the-happiness-hypothesis
 domains:
   - cognitive-science
   - personal-development
@@ -20,6 +21,7 @@ related:
   - the-brain-as-model-maker
   - the-hero-maker-narrative
   - the-formula-of-humanity
+  - the-rider-and-the-elephant
 ---
 
 # Thinking Brain vs Feeling Brain

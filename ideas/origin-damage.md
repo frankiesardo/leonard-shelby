@@ -6,6 +6,7 @@ aliases:
   - the source of the flaw
 sources:
   - the-science-of-storytelling
+  - steve-jobs
 domains:
   - writing
   - cognitive-science
@@ -17,6 +18,7 @@ related:
   - the-dramatic-question
   - the-hero-maker-narrative
   - incremental-theory-of-intelligence
+  - reality-distortion-field
 ---
 
 # Origin Damage
@@ -38,4 +40,5 @@ For life, the concept is humbling. Our personalities are shaped by events we may
 - [The Sacred Flaw](the-sacred-flaw.md) -- origin damage produces the flaw; the flaw is then made sacred
 - [Incremental Theory of Intelligence](incremental-theory-of-intelligence.md) -- entity theorists are often shaped by origin damage in the form of identity-based praise ("you're so smart") that makes failure an identity crisis
 - [The Hero-Maker Narrative](the-hero-maker-narrative.md) -- the brain constructs a heroic story around the damage to make it feel like a virtue
-- Discussed in [The Science of Storytelling](../sources/books/the-science-of-storytelling/summary.md)
+- Jobs's adoption is a textbook case of origin damage. Being abandoned at birth created a lifelong oscillation between the need to control everything (you can't be abandoned if you're in charge) and the capacity for magical thinking (the adopted child who is "special" and "chosen"). Isaacson traces how this wound produced both the [Reality Distortion Field](reality-distortion-field.md) and the cruelty -- the same damage that drove extraordinary creation also drove extraordinary destruction of relationships.
+- Discussed in [The Science of Storytelling](../sources/books/the-science-of-storytelling/summary.md) and [Steve Jobs](../sources/books/steve-jobs/summary.md)

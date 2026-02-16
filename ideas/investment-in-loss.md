@@ -29,6 +29,7 @@ related:
   - making-sandals
   - meaning-through-suffering
   - pain-as-universal-constant
+  - failure-as-investment
 ---
 
 # Investment in Loss
@@ -63,4 +64,5 @@ If a student of any discipline could avoid repeating the same mistake twice — 
 - Epstein's [Sampling Period](the-sampling-period.md) is investment in loss at the career level -- being a beginner in many domains means losing status repeatedly
 - [Match Quality](match-quality.md) requires investment in loss -- every career pivot means abandoning accumulated competence
 - [Desirable Difficulties](desirable-difficulties.md) are the cognitive version -- struggling, failing, and spacing practice are all investments in loss that pay off long-term
-- Discussed in [The Art of Learning](../sources/books/the-art-of-learning/summary.md) and [Range](../sources/books/range/summary.md)
+- Catmull's [Failure as Investment](failure-as-investment.md) is the organizational-scale version: Pixar invests in failure deliberately, treating scrapped shorts and bad first drafts as the cost of innovation, not as waste. "Better to have train wrecks with miniature trains than with real ones."
+- Discussed in [The Art of Learning](../sources/books/the-art-of-learning/summary.md), [Range](../sources/books/range/summary.md), and [Creativity, Inc.](../sources/books/creativity-inc/summary.md)

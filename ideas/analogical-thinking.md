@@ -18,6 +18,8 @@ related:
   - cognitive-entrenchment
   - lateral-thinking-with-withered-technology
   - deliberate-amateurs
+  - the-whole-customer-journey
+  - the-intersection-of-humanities-and-technology
 ---
 
 # Analogical Thinking

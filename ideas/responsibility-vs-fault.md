@@ -19,6 +19,7 @@ related:
   - separation-of-tasks
   - teleology-vs-etiology
   - the-hero-maker-narrative
+  - ruinous-empathy
 ---
 
 # Responsibility vs. Fault

@@ -7,6 +7,7 @@ aliases:
   - do not intrude on other people's tasks
 sources:
   - the-courage-to-be-disliked
+  - radical-candor
 domains:
   - philosophy
   - personal-development
@@ -19,6 +20,9 @@ related:
   - community-feeling
   - horizontal-relationships
   - the-last-human-freedom
+  - radical-candor
+  - ruinous-empathy
+  - it-is-not-mean-it-is-clear
 ---
 
 # Separation of Tasks
@@ -45,4 +49,5 @@ Most interpersonal suffering comes from two sources: intruding on other people's
 - [All Problems Are Interpersonal](all-problems-are-interpersonal.md) explains why this tool works: if all problems are relational, restructuring relational boundaries restructures everything
 - [Community Feeling](community-feeling.md) is the goal that separation of tasks serves -- not isolation, but healthy connection
 - [Horizontal Relationships](horizontal-relationships.md) are the relationship structure that makes separation of tasks natural rather than painful
-- Discussed in [The Courage to Be Disliked](../sources/books/the-courage-to-be-disliked/summary.md)
+- Kim Scott's [Radical Candor](radical-candor.md) implicitly relies on task separation: giving honest feedback is *your* task as a manager; how the other person responds is *their* task. [Ruinous Empathy](ruinous-empathy.md) is a boundary violation -- taking ownership of someone else's emotional reaction and letting that prevent you from doing your job. [It's Not Mean, It's Clear](it-is-not-mean-it-is-clear.md) is the practical application: clarity about the work is your task; the other person's feelings about that clarity are theirs.
+- Discussed in [The Courage to Be Disliked](../sources/books/the-courage-to-be-disliked/summary.md) and [Radical Candor](../sources/books/radical-candor/summary.md)

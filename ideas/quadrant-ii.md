@@ -20,6 +20,7 @@ related:
   - choose-your-struggle
   - life-as-a-series-of-moments
   - the-existential-vacuum
+  - focus-is-saying-no
 ---
 
 # Quadrant II

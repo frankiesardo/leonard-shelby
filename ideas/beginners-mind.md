@@ -7,6 +7,8 @@ sources:
   - the-art-of-learning
   - jim-rohn-challenges-succeed-seminar-anaheim
   - range
+  - creativity-inc
+  - steve-jobs
 domains:
   - personal-development
   - cognitive-science
@@ -25,6 +27,9 @@ related:
   - kind-vs-wicked-learning-environments
   - match-quality
   - the-outsider-advantage
+  - mental-models-for-uncertainty
+  - failure-as-investment
+  - protect-the-new
 ---
 
 # Beginner's Mind
@@ -55,4 +60,8 @@ The enemy is the protective ego. The person who needs to look good at all times 
 - [Cognitive Entrenchment](cognitive-entrenchment.md) is what happens when beginner's mind is lost -- the expert becomes rigid
 - [Deliberate Amateurs](deliberate-amateurs.md) cultivate beginner's mind alongside deep expertise -- the Smithies and Geims of the world
 - [Dropping Your Familiar Tools](dropping-your-familiar-tools.md) requires returning to beginner's mind under extreme pressure
-- Discussed in [The Art of Learning](../sources/books/the-art-of-learning/summary.md), [Challenges to Succeed](../sources/transcripts/jim-rohn-challenges-succeed-seminar-anaheim/summary.md), and [Range](../sources/books/range/summary.md)
+- Catmull argues that beginner's mind must be *institutionalized*: Pixar University puts everyone -- from engineers to accountants -- back in the position of a novice, dissolving hierarchy and opening communication. Even elementary school kids lose creative freedom once they become self-conscious about their drawing. The organizational immune system works the same way: success breeds the fear of looking foolish, which kills the openness that made the success possible in the first place.
+- [Mental Models for Uncertainty](mental-models-for-uncertainty.md) -- the directors' mental models are tools for staying in the beginner's space when the pressure mounts to retreat to the known
+- [Failure as Investment](failure-as-investment.md) -- beginner's mind requires accepting failure as the cost of entry
+- Jobs's Zen training and his "Stay Hungry, Stay Foolish" mantra were expressions of shoshin. His calligraphy class at Reed College -- taken purely out of curiosity after dropping out -- gave the Macintosh its beautiful typography a decade later. The dropout as the ultimate beginner.
+- Discussed in [The Art of Learning](../sources/books/the-art-of-learning/summary.md), [Challenges to Succeed](../sources/transcripts/jim-rohn-challenges-succeed-seminar-anaheim/summary.md), [Range](../sources/books/range/summary.md), [Creativity, Inc.](../sources/books/creativity-inc/summary.md), and [Steve Jobs](../sources/books/steve-jobs/summary.md)

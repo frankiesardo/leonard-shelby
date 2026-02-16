@@ -7,6 +7,7 @@ aliases:
   - encouragement over praise
 sources:
   - the-courage-to-be-disliked
+  - radical-candor
 domains:
   - philosophy
   - management
@@ -18,6 +19,8 @@ related:
   - socratic-method-in-management
   - emotional-bank-account
   - empathic-listening
+  - radical-candor
+  - it-is-not-mean-it-is-clear
 ---
 
 # Horizontal Relationships
@@ -41,4 +44,5 @@ This maps directly onto the [Socratic method](socratic-method-in-management.md):
 - [Socratic Method in Management](socratic-method-in-management.md) is horizontal relationship applied to teaching and leadership
 - [Emotional Bank Account](emotional-bank-account.md) works better in horizontal relationships, where deposits feel like genuine connection rather than manipulation
 - [Empathic Listening](empathic-listening.md) is inherently horizontal -- you cannot truly listen while positioned above
-- Discussed in [The Courage to Be Disliked](../sources/books/the-courage-to-be-disliked/summary.md)
+- Kim Scott's [Radical Candor](radical-candor.md) is an explicitly horizontal management framework: the boss gives feedback not from a position of judgment but from a position of care. The "care personally" axis is what makes challenge horizontal rather than vertical. Scott insists that feedback should flow up (from reports to boss) as much as down. [It's Not Mean, It's Clear](it-is-not-mean-it-is-clear.md) captures the horizontal version of direct feedback -- one equal helping another.
+- Discussed in [The Courage to Be Disliked](../sources/books/the-courage-to-be-disliked/summary.md) and [Radical Candor](../sources/books/radical-candor/summary.md)

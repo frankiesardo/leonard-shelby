@@ -18,6 +18,8 @@ related:
   - beginners-mind
   - investment-in-loss
   - kind-vs-wicked-learning-environments
+  - rock-stars-and-superstars
+  - growth-trajectories
 ---
 
 # Match Quality

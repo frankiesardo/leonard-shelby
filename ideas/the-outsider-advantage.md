@@ -17,6 +17,7 @@ related:
   - lateral-thinking-with-withered-technology
   - beginners-mind
   - deliberate-amateurs
+  - the-intersection-of-humanities-and-technology
 ---
 
 # The Outsider Advantage

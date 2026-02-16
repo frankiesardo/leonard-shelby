@@ -24,6 +24,7 @@ related:
   - teleology-vs-etiology
   - the-art-of-competing
   - the-courage-to-be-normal
+  - painkillers-not-vitamins
 ---
 
 # Choose Your Struggle

@@ -7,6 +7,7 @@ aliases:
   - the curse of expertise
 sources:
   - range
+  - creativity-inc
 domains:
   - cognitive-science
   - management
@@ -19,6 +20,8 @@ related:
   - beginners-mind
   - certainty-is-the-enemy-of-growth
   - lateral-thinking-with-withered-technology
+  - the-hidden-and-the-unseen
+  - candor-as-survival-mechanism
 ---
 
 # Cognitive Entrenchment
@@ -45,4 +48,6 @@ Dane's suggestions for avoiding it are the polar opposite of narrow specializati
 - [Dropping Your Familiar Tools](dropping-your-familiar-tools.md) is what entrenchment prevents you from doing
 - The expertise version of what [Certainty Is the Enemy of Growth](certainty-is-the-enemy-of-growth.md) describes at the identity level
 - The inverse of [Beginner's Mind](beginners-mind.md) -- entrenchment is what happens when you've been an expert too long without returning to the beginner's perspective
-- Discussed in [Range](../sources/books/range/summary.md)
+- Catmull describes the organizational version: successful companies "cast off the startup mentality because they tell themselves they have figured out what to do." They stop being beginners, and by resisting beginner's mind, they become more prone to repeat themselves than to create something new. [The Hidden and the Unseen](the-hidden-and-the-unseen.md) is what accumulates when entrenchment goes unchecked at the organizational level.
+- [Candor as Survival Mechanism](candor-as-survival-mechanism.md) -- one antidote to organizational entrenchment: external perspectives that bypass internal blind spots
+- Discussed in [Range](../sources/books/range/summary.md) and [Creativity, Inc.](../sources/books/creativity-inc/summary.md)

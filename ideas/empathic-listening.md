@@ -6,6 +6,7 @@ aliases:
   - diagnosis before prescription
 sources:
   - the-7-habits-of-highly-effective-people
+  - radical-candor
 domains:
   - communication
   - management
@@ -15,6 +16,8 @@ related:
   - abundance-mentality
   - inside-out
   - horizontal-relationships
+  - radical-candor
+  - the-get-stuff-done-wheel
 ---
 
 # Empathic Listening
@@ -53,4 +56,5 @@ This applies everywhere: management, parenting, marriage, negotiation, sales. Th
 - [Emotional Bank Account](emotional-bank-account.md) — empathic listening is the single biggest deposit
 - [Abundance Mentality](abundance-mentality.md) — required to listen without defensiveness; you must believe that understanding someone else's view doesn't diminish your own
 - [Inside-Out](inside-out.md) — listening requires changing yourself first (your frame of reference) before trying to change the other person
-- Discussed in [The 7 Habits of Highly Effective People](../sources/books/the-7-habits-of-highly-effective-people/summary.md)
+- The first step of Kim Scott's [GSD Wheel](the-get-stuff-done-wheel.md) is Listen -- and she means empathic listening, not just hearing words. Her first act as a Google manager (unilaterally restructuring teams) was a failure of listening. [Radical Candor](radical-candor.md) requires empathic listening as a foundation: you can't challenge someone effectively if you haven't first understood their world
+- Discussed in [The 7 Habits of Highly Effective People](../sources/books/the-7-habits-of-highly-effective-people/summary.md) and [Radical Candor](../sources/books/radical-candor/summary.md)

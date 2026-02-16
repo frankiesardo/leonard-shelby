@@ -6,6 +6,7 @@ aliases:
 sources:
   - on-writing-well
   - jim-rohn-challenges-succeed-seminar-anaheim
+  - steve-jobs
 domains:
   - craft
   - work
@@ -15,6 +16,9 @@ related:
   - process-over-product
   - write-for-yourself
   - get-on-the-plane
+  - taste-as-competitive-advantage
+  - end-to-end-integration
+  - products-not-profits
 ---
 
 # Quality Is Its Own Reward
@@ -38,4 +42,7 @@ The opposite is common and visible everywhere: people who calibrate their effort
 - Quality sustained over time requires [Process over Product](process-over-product.md) -- the focus must be on the work, not the result
 - An internal standard of quality is the backbone of [Writing for Yourself](write-for-yourself.md) -- you're the first judge
 - Rohn's millionaire friends who keep working 10-12 hour days making more millions — "not because they need the money, but because they need the joy and the satisfaction." The journey, not the money.
-- Discussed in [On Writing Well](../sources/books/on-writing-well/summary.md) and [Challenges to Succeed](../sources/transcripts/jim-rohn-challenges-succeed-seminar-anaheim/summary.md)
+- Jobs learned the principle from his father Paul: "When you're a carpenter making a beautiful chest of drawers, you're not going to use a piece of plywood on the back, even though it faces the wall." The original Macintosh team signed their names inside the case, where no user would ever see them. This is the same ethic as DiMaggio's -- the standard doesn't change based on who's watching.
+- [Taste as Competitive Advantage](taste-as-competitive-advantage.md) is this principle applied at scale -- Jobs made the unseen craft into Apple's defining characteristic
+- [End-to-End Integration](end-to-end-integration.md) is the organizational structure that makes quality-everywhere possible
+- Discussed in [On Writing Well](../sources/books/on-writing-well/summary.md), [Challenges to Succeed](../sources/transcripts/jim-rohn-challenges-succeed-seminar-anaheim/summary.md), and [Steve Jobs](../sources/books/steve-jobs/summary.md)

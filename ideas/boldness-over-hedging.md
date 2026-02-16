@@ -14,6 +14,9 @@ related:
   - clutter
   - style-is-organic
   - write-for-yourself
+  - opinion-driven-decisions
+  - mission-driven-assholes
+  - reality-distortion-field
 ---
 
 # Boldness over Hedging

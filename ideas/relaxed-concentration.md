@@ -19,6 +19,7 @@ related:
   - building-your-trigger
   - stress-and-recovery
   - slowing-down-time
+  - mental-models-for-uncertainty
 ---
 
 # Relaxed Concentration
@@ -54,4 +55,5 @@ The deeper insight: the zone cannot be controlled by Self 1. You cannot try your
 - [Building Your Trigger](building-your-trigger.md) is Waitzkin's systematized version of Gallwey's between-points breathing -- a reliable path back to focused states
 - [Stress and Recovery](stress-and-recovery.md) -- the oscillation between focused exertion and brief release that sustains concentration over long periods
 - Enables [Slowing Down Time](slowing-down-time.md) -- deep focus is the prerequisite for the perception shift where time appears to expand
-- Discussed in [The Inner Game of Tennis](../sources/books/the-inner-game-of-tennis/summary.md)
+- Brad Bird's skiing metaphor in [Creativity, Inc.](../sources/books/creativity-inc/summary.md) is a perfect echo: he crashed when he tried too hard not to crash, and stopped crashing when he relaxed and pushed the mountain away. His principle for directing -- "tell yourself you have time even when you don't" -- is relaxed concentration applied to creative leadership. See [Mental Models for Uncertainty](mental-models-for-uncertainty.md).
+- Discussed in [The Inner Game of Tennis](../sources/books/the-inner-game-of-tennis/summary.md) and [Creativity, Inc.](../sources/books/creativity-inc/summary.md)

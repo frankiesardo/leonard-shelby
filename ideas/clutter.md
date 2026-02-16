@@ -15,6 +15,8 @@ related:
   - boldness-over-hedging
   - clear-thinking-clear-writing
   - trust-your-material
+  - taste-as-competitive-advantage
+  - focus-is-saying-no
 ---
 
 # Clutter

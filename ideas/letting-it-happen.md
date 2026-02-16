@@ -19,6 +19,7 @@ related:
   - investment-in-loss
   - numbers-to-leave-numbers
   - making-smaller-circles
+  - mental-models-for-uncertainty
 ---
 
 # Letting It Happen
@@ -55,4 +56,5 @@ This insight applies everywhere: the writer who overwrites because he can't trus
 - [Investment in Loss](investment-in-loss.md) requires the same surrender of ego control
 - Waitzkin's [Numbers to Leave Numbers](numbers-to-leave-numbers.md) describes the endpoint: technique so internalized that letting it happen is the only way to access it
 - [Making Smaller Circles](making-smaller-circles.md) is the training process that builds the trust -- condense until Self 2 owns the movement
-- Discussed in [The Inner Game of Tennis](../sources/books/the-inner-game-of-tennis/summary.md)
+- Catmull describes the same phenomenon in directing: "If you think, you stink." Byron Howard does his best storyboard work when he's "zipping through the scene, not overthinking." Andrew Stanton's "hurry up and fail" approach is letting it happen at the decision-making level -- be decisive, trust the process, correct later. See [Mental Models for Uncertainty](mental-models-for-uncertainty.md).
+- Discussed in [The Inner Game of Tennis](../sources/books/the-inner-game-of-tennis/summary.md) and [Creativity, Inc.](../sources/books/creativity-inc/summary.md)

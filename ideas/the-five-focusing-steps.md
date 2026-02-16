@@ -18,6 +18,7 @@ related:
   - drum-buffer-rope
   - non-bottleneck-utilization
   - history-repeats-in-outline
+  - heartbeats-and-handcuffs
 ---
 
 # The Five Focusing Steps

@@ -18,6 +18,7 @@ related:
   - the-sampling-period
   - beginners-mind
   - kind-vs-wicked-learning-environments
+  - the-intersection-of-humanities-and-technology
 ---
 
 # Deliberate Amateurs

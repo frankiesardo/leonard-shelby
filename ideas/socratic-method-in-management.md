@@ -7,6 +7,7 @@ aliases:
 sources:
   - the-goal
   - the-courage-to-be-disliked
+  - radical-candor
 domains:
   - management
   - communication
@@ -16,6 +17,12 @@ related:
   - reasons-before-answers
   - will-to-meaning
   - horizontal-relationships
+  - candor-as-survival-mechanism
+  - the-braintrust
+  - mission-driven-assholes
+  - radical-candor
+  - the-get-stuff-done-wheel
+  - a-players-only
 ---
 
 # The Socratic Method in Management
@@ -39,4 +46,6 @@ The limitation Goldratt acknowledges through Julie: pure Socratic questioning, w
 - Mirrors the concept of [Reasons Before Answers](reasons-before-answers.md)
 - Central to how the [Theory of Constraints](theory-of-constraints.md) is taught in *The Goal*
 - Adler's [Horizontal Relationships](horizontal-relationships.md) explains *why* the Socratic method works: it treats the learner as an equal, not a subordinate. Praise and direct instruction are vertical acts; questions are horizontal. The philosopher in *The Courage to Be Disliked* uses exactly this method with the youth -- five nights of dialogue, never giving answers, always drawing them out.
-- Discussed in [The Goal](../sources/books/the-goal/summary.md) and [The Courage to Be Disliked](../sources/books/the-courage-to-be-disliked/summary.md)
+- Pixar's [Braintrust](the-braintrust.md) is a structural mechanism built on the same principle: give feedback through questions and diagnosis ("here's where I got confused"), not prescriptions ("you should change this"). [Candor as Survival Mechanism](candor-as-survival-mechanism.md) extends the principle from individual teaching to organizational culture.
+- Kim Scott's [GSD Wheel](the-get-stuff-done-wheel.md) operationalizes this: the Listen and Clarify steps are fundamentally Socratic -- the boss asks questions to draw out ideas rather than imposing conclusions. Scott learned the hard way that telling people what to do (even when you're right) destroys teams.
+- Discussed in [The Goal](../sources/books/the-goal/summary.md), [The Courage to Be Disliked](../sources/books/the-courage-to-be-disliked/summary.md), [Creativity, Inc.](../sources/books/creativity-inc/summary.md), and [Radical Candor](../sources/books/radical-candor/summary.md)

@@ -13,6 +13,7 @@ related:
   - simplicity-in-writing
   - process-over-product
   - think-small
+  - taste-as-competitive-advantage
 ---
 
 # Unity of Form

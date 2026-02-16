@@ -24,6 +24,7 @@ related:
   - the-sacred-flaw
   - desirable-difficulties
   - beginners-mind
+  - growth-trajectories
 ---
 
 # Incremental Theory of Intelligence

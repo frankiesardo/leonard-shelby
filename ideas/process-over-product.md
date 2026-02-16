@@ -6,6 +6,7 @@ aliases:
 sources:
   - on-writing-well
   - jim-rohn-challenges-succeed-seminar-anaheim
+  - creativity-inc
 domains:
   - writing
   - creative-process
@@ -29,6 +30,13 @@ related:
   - life-as-a-series-of-moments
   - self-transcendence
   - think-small
+  - the-hungry-beast-and-the-ugly-baby
+  - the-braintrust
+  - failure-as-investment
+  - the-whole-customer-journey
+  - three-generations-to-profitability
+  - heartbeats-and-handcuffs
+  - products-not-profits
 ---
 
 # Process over Product
@@ -55,4 +63,6 @@ The tyranny of the final product is the tyranny of skipping the messy, uncertain
 - [P/PC Balance](p-pc-balance.md) — investing in process is investing in Production Capability
 - Rohn's [Work on Yourself](work-on-yourself.md) frames this for life: "The major question to ask on the job is not what are you getting — but what are you becoming." Becoming is process; getting is product.
 - Gallwey's [Art of Competing](the-art-of-competing.md) says it explicitly: "The process can be more rewarding than the victory itself." The surfer waits for the big wave not for the ride to the beach but for the experience of overcoming the obstacle. [Nonjudgmental Awareness](nonjudgmental-awareness.md) is process-oriented by nature -- it attends to what is happening now, not to the final score.
-- Discussed in [On Writing Well](../sources/books/on-writing-well/summary.md), [Challenges to Succeed](../sources/transcripts/jim-rohn-challenges-succeed-seminar-anaheim/summary.md), and [The Inner Game of Tennis](../sources/books/the-inner-game-of-tennis/summary.md)
+- Catmull captures the tension precisely: "Don't confuse the process with the goal. Making the product great is the goal." But the book's deeper message is that postmortems, dailies, the Braintrust, and research trips -- all process investments -- are what produce great products. The [Hungry Beast](the-hungry-beast-and-the-ugly-baby.md) demands product; [Ugly Babies](the-hungry-beast-and-the-ugly-baby.md) are pure process. Balancing them is management's central challenge.
+- [Failure as Investment](failure-as-investment.md) -- a process orientation treats failure as useful information, not as waste
+- Discussed in [On Writing Well](../sources/books/on-writing-well/summary.md), [Challenges to Succeed](../sources/transcripts/jim-rohn-challenges-succeed-seminar-anaheim/summary.md), [The Inner Game of Tennis](../sources/books/the-inner-game-of-tennis/summary.md), and [Creativity, Inc.](../sources/books/creativity-inc/summary.md)

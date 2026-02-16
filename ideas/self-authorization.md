@@ -13,6 +13,7 @@ related:
   - noticing-as-discipline
   - write-for-yourself
   - trust-the-reader
+  - reality-distortion-field
 ---
 
 # Self-Authorization

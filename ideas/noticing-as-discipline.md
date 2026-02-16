@@ -6,6 +6,7 @@ aliases:
 sources:
   - several-short-sentences-about-writing
   - the-inner-game-of-tennis
+  - creativity-inc
 domains:
   - attention
   - creativity
@@ -16,6 +17,8 @@ related:
   - self-1-vs-self-2
   - guard-the-door-of-your-mind
   - unexpected-change-as-story-engine
+  - the-hidden-and-the-unseen
+  - mental-models-for-uncertainty
 ---
 
 # Noticing as Discipline
@@ -38,4 +41,5 @@ This is also a practice of patience. "Rushing to notice never works, nor does tr
 
 - Related to [Self-Authorization](self-authorization.md) — you can't notice what you don't feel permitted to notice
 - Gallwey's [Nonjudgmental Awareness](nonjudgmental-awareness.md) is the same discipline applied to performance: observe your racket position, your footwork, where the ball lands -- without labeling it good or bad. The parallels are striking -- both Klinkenborg and Gallwey insist that attention without judgment is the upstream skill of all improvement.
-- Discussed in [Several Short Sentences About Writing](../sources/books/several-short-sentences-about-writing/summary.md) and [The Inner Game of Tennis](../sources/books/the-inner-game-of-tennis/summary.md)
+- Catmull describes learning to draw as learning to see past preconceptions: artists don't see better because they have better eyes, but because they've learned to turn off the brain's "recognizer function" that imposes models on raw perception. Drawing the negative space around a chair -- the "un-chair" -- is a metaphor for noticing by looking at what surrounds a problem rather than at the problem directly. [The Hidden and the Unseen](the-hidden-and-the-unseen.md) is what you miss when noticing breaks down at the organizational level.
+- Discussed in [Several Short Sentences About Writing](../sources/books/several-short-sentences-about-writing/summary.md), [The Inner Game of Tennis](../sources/books/the-inner-game-of-tennis/summary.md), and [Creativity, Inc.](../sources/books/creativity-inc/summary.md)

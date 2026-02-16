@@ -5,6 +5,7 @@ aliases:
   - relationship deposits
 sources:
   - the-7-habits-of-highly-effective-people
+  - radical-candor
 domains:
   - management
   - communication
@@ -16,6 +17,9 @@ related:
   - newtons-laws-of-emotion
   - horizontal-relationships
   - status-games
+  - radical-candor
+  - ruinous-empathy
+  - seed-crystals
 ---
 
 # Emotional Bank Account
@@ -45,4 +49,5 @@ Integrity (#5) is the hardest and most consequential. Being loyal to the absent 
 - [Abundance Mentality](abundance-mentality.md) enables generous deposits; Scarcity Mentality makes every interaction transactional
 - [Empathic Listening](empathic-listening.md) is the single biggest deposit you can make — understanding someone's world from their frame of reference
 - [Inside-Out](inside-out.md) — the account reflects your character, not your techniques
-- Discussed in [The 7 Habits of Highly Effective People](../sources/books/the-7-habits-of-highly-effective-people/summary.md)
+- Kim Scott's [Radical Candor](radical-candor.md) framework depends on this: "care personally" is making deposits; "challenge directly" is a withdrawal that only works with a high balance. [Ruinous Empathy](ruinous-empathy.md) is the fear of making withdrawals, even when they'd be net-positive for the relationship
+- Discussed in [The 7 Habits of Highly Effective People](../sources/books/the-7-habits-of-highly-effective-people/summary.md) and [Radical Candor](../sources/books/radical-candor/summary.md)

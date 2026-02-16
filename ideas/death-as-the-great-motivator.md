@@ -7,6 +7,7 @@ aliases:
   - the bitter antidote
 sources:
   - the-subtle-art-of-not-giving-a-fuck
+  - steve-jobs
 domains:
   - philosophy
   - personal-development
@@ -16,6 +17,7 @@ related:
   - choose-your-struggle
   - the-day-that-turns-your-life-around
   - the-uncomfortable-truth
+  - focus-is-saying-no
 ---
 
 # Death as the Great Motivator
@@ -40,4 +42,5 @@ This is the ultimate trump card against the Feedback Loop from Hell, the Backwar
 - [The Backwards Law](the-backwards-law.md) — chasing immortality is the ultimate expression of the Backwards Law
 - [Choose Your Struggle](choose-your-struggle.md) — death forces the question: what struggle is worth the finite time you have?
 - [The Day That Turns Your Life Around](the-day-that-turns-your-life-around.md) — Josh's death is Manson's version of the pivotal moment that restructures everything
-- Discussed in [The Subtle Art of Not Giving a F*ck](../sources/books/the-subtle-art-of-not-giving-a-fuck/summary.md)
+- Jobs's Stanford commencement speech is the most famous modern articulation: "Remembering that I'll be dead soon is the most important tool I've ever encountered to help me make the big choices in life." His cancer diagnosis crystallized his [Focus Is Saying No](focus-is-saying-no.md) -- death as the ultimate filter for what matters.
+- Discussed in [The Subtle Art of Not Giving a F*ck](../sources/books/the-subtle-art-of-not-giving-a-fuck/summary.md) and [Steve Jobs](../sources/books/steve-jobs/summary.md)

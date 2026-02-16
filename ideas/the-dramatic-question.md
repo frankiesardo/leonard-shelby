@@ -18,6 +18,7 @@ related:
   - trust-the-reader
   - status-games
   - unexpected-change-as-story-engine
+  - the-virus-of-doubt
 ---
 
 # The Dramatic Question

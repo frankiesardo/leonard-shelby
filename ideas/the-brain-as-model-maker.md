@@ -17,6 +17,8 @@ related:
   - trust-the-reader
   - theory-of-control
   - unexpected-change-as-story-engine
+  - the-hidden-and-the-unseen
+  - mental-models-for-uncertainty
 ---
 
 # The Brain as Model-Maker
@@ -39,4 +41,6 @@ For writers, the practical implication is that description is never neutral. Eve
 - [The Uncomfortable Truth](the-uncomfortable-truth.md) -- the brain builds its hallucination partly to shield us from cosmic insignificance
 - [The Sacred Flaw](the-sacred-flaw.md) -- flaws get built into the model and become literally invisible to their owner
 - [Trust the Reader](trust-the-reader.md) -- the reader's model-making brain does half the work; over-explaining shuts down the process
-- Discussed in [The Science of Storytelling](../sources/books/the-science-of-storytelling/summary.md)
+- Catmull's description of learning to draw is a perfect illustration: we draw noses, eyes, and mouths too large and foreheads too small because our model overweights the "important" features. Training artists to draw negative space or upside-down objects is literally training them to bypass the model-maker. At the organizational level, [The Hidden and the Unseen](the-hidden-and-the-unseen.md) is what accumulates when leaders' models prevent them from seeing reality clearly.
+- [Mental Models for Uncertainty](mental-models-for-uncertainty.md) shows how directors deliberately construct useful models (tunnels, mazes, sailing) to navigate creative uncertainty -- the constructive use of the brain's model-making tendency.
+- Discussed in [The Science of Storytelling](../sources/books/the-science-of-storytelling/summary.md) and [Creativity, Inc.](../sources/books/creativity-inc/summary.md)

@@ -15,6 +15,7 @@ related:
   - think-small
   - trust-your-material
   - unity-of-form
+  - taste-as-competitive-advantage
 ---
 
 # Simplicity in Writing
