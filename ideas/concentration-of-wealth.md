@@ -6,6 +6,7 @@ aliases:
   - redistribution cycle
 sources:
   - the-lessons-of-history
+  - sapiens
 domains:
   - history
   - systems-thinking
@@ -16,6 +17,7 @@ related:
   - bottleneck
   - history-repeats-in-outline
   - war-as-the-norm
+  - money-as-universal-fiction
 ---
 
 # Concentration of Wealth
@@ -36,4 +38,5 @@ This is not a left-wing or right-wing insight. It is a pattern that has repeated
 
 - [Freedom vs Equality](freedom-vs-equality.md) is the political expression of this cycle — freedom accelerates concentration, redistribution constrains it
 - [The Biological Lessons of History](the-biological-lessons-of-history.md) explains *why* ability concentrates: life is selection, and inequality grows with the complexity of civilization
-- [Bottleneck](bottleneck.md) from *The Goal* is a related systems concept — in economics, the bottleneck is the point where concentration creates systemic fragility
+- [Bottleneck](bottleneck.md) from *The Goal* is a related systems concept -- in economics, the bottleneck is the point where concentration creates systemic fragility
+- [Money as Universal Fiction](money-as-universal-fiction.md) -- Harari in [Sapiens](../sources/books/sapiens/summary.md) shows that money's universal convertibility is the engine that accelerates concentration: it transforms everything into a single measurable quantity, making accumulation compound

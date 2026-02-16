@@ -27,6 +27,9 @@ related:
   - certainty-is-the-enemy-of-growth
   - death-as-the-great-motivator
   - the-art-of-competing
+  - the-hedonic-treadmill
+  - conspicuous-vs-inconspicuous-consumption
+  - the-ethic-of-divinity
 ---
 
 # Good and Bad Values

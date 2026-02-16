@@ -15,6 +15,7 @@ related:
   - emotional-bank-account
   - incremental-theory-of-intelligence
   - empathic-listening
+  - protect-the-new
 ---
 
 # Abundance Mentality

@@ -25,6 +25,10 @@ related:
   - the-art-of-competing
   - the-courage-to-be-normal
   - painkillers-not-vitamins
+  - the-progress-principle
+  - the-happiness-formula
+  - failure-as-investment
+  - the-luxury-trap
 ---
 
 # Choose Your Struggle

@@ -17,6 +17,10 @@ related:
   - empathic-listening
   - all-problems-are-interpersonal
   - separation-of-tasks
+  - cognitive-entrenchment
+  - failure-as-investment
+  - the-hungry-beast-and-the-ugly-baby
+  - protect-the-new
 ---
 
 # Candor as Survival Mechanism

@@ -16,6 +16,7 @@ related:
   - incremental-theory-of-intelligence
   - process-over-product
   - difficulty-as-engagement
+  - failure-as-investment
 ---
 
 # Desirable Difficulties

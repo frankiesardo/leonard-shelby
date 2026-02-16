@@ -20,6 +20,7 @@ related:
   - community-feeling
   - emotional-bank-account
   - all-problems-are-interpersonal
+  - the-ethic-of-divinity
 ---
 
 # Happiness Comes from Between

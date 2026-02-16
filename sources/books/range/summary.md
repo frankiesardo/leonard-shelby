@@ -22,6 +22,10 @@ ideas:
   - desirable-difficulties
   - cognitive-entrenchment
   - dropping-your-familiar-tools
+  - beginners-mind
+  - certainty-is-the-enemy-of-growth
+  - incremental-theory-of-intelligence
+  - investment-in-loss
 ---
 
 # Range: Why Generalists Triumph in a Specialized World

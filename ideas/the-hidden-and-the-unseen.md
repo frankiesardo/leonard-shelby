@@ -17,6 +17,7 @@ related:
   - cognitive-entrenchment
   - noticing-as-discipline
   - the-blue-dot-effect
+  - mental-models-for-uncertainty
 ---
 
 # The Hidden and the Unseen

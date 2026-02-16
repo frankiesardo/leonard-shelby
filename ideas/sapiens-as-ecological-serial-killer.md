@@ -14,6 +14,7 @@ related:
   - the-cognitive-revolution
   - the-agricultural-revolution-as-fraud
   - the-biological-lessons-of-history
+  - war-as-the-norm
 ---
 
 # Sapiens as Ecological Serial Killer

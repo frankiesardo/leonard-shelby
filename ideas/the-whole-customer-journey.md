@@ -15,6 +15,7 @@ related:
   - the-virus-of-doubt
   - analogical-thinking
   - process-over-product
+  - three-generations-to-profitability
 ---
 
 # The Whole Customer Journey

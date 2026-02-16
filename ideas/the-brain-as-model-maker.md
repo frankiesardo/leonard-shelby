@@ -6,11 +6,13 @@ aliases:
   - the brain's model of reality
 sources:
   - the-science-of-storytelling
+  - sapiens
 domains:
   - cognitive-science
   - writing
   - philosophy
 related:
+  - the-cognitive-revolution
   - thinking-brain-vs-feeling-brain
   - the-uncomfortable-truth
   - the-sacred-flaw

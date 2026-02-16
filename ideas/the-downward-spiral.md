@@ -14,6 +14,7 @@ related:
   - incremental-theory-of-intelligence
   - stress-and-recovery
   - the-feedback-loop-from-hell
+  - the-luxury-trap
 ---
 
 # The Downward Spiral

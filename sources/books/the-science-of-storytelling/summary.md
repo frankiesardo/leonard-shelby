@@ -19,6 +19,8 @@ ideas:
   - status-games
   - the-hero-maker-narrative
   - origin-damage
+  - the-uncomfortable-truth
+  - thinking-brain-vs-feeling-brain
 ---
 
 # The Science of Storytelling

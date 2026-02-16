@@ -21,6 +21,7 @@ ideas:
   - stress-and-recovery
   - building-your-trigger
   - making-sandals
+  - theory-of-constraints
 ---
 
 # The Art of Learning — Josh Waitzkin

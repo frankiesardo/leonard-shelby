@@ -7,11 +7,14 @@ aliases:
 sources:
   - the-subtle-art-of-not-giving-a-fuck
   - the-courage-to-be-disliked
+  - the-happiness-hypothesis
+  - sapiens
 domains:
   - philosophy
   - personal-development
   - cognitive-science
 related:
+  - happiness-as-biochemical-setpoint
   - choose-your-struggle
   - the-feedback-loop-from-hell
   - inside-out
@@ -26,6 +29,12 @@ related:
   - good-and-bad-values
   - nonjudgmental-awareness
   - teleology-vs-etiology
+  - the-hedonic-treadmill
+  - the-rider-and-the-elephant
+  - the-happiness-formula
+  - failure-as-investment
+  - happiness-comes-from-between
+  - the-progress-principle
 ---
 
 # The Backwards Law
@@ -51,4 +60,6 @@ The practical move is counterintuitive: instead of asking "how do I feel good?" 
 - Gallwey's [Letting It Happen](letting-it-happen.md) is the Backwards Law applied to performance: the harder you try to hit the ball well (Self 1 taking over), the worse you hit it. Stop trying, let Self 2 do its thing, and the ball goes where you want. [Self 1 vs Self 2](self-1-vs-self-2.md) provides the mechanism.
 - Adler's [Self-Acceptance vs. Self-Affirmation](self-acceptance-vs-self-affirmation.md) is the Backwards Law applied to identity: self-affirmation ("I can do it!") reinforces what you lack; self-acceptance ("I'm at sixty percent") breaks the cycle
 - [The Courage to Be Normal](the-courage-to-be-normal.md) is the Backwards Law applied to the desire for specialness: pursuing exceptionality makes you feel more ordinary
-- Discussed in [The Subtle Art of Not Giving a F*ck](../sources/books/the-subtle-art-of-not-giving-a-fuck/summary.md) and [The Courage to Be Disliked](../sources/books/the-courage-to-be-disliked/summary.md)
+- Haidt's [The Hedonic Treadmill](the-hedonic-treadmill.md) is the empirical mechanism behind the Backwards Law: each gain resets the baseline, so pursuit never delivers lasting satisfaction
+- [The Rider and the Elephant](the-rider-and-the-elephant.md) explains why the Backwards Law is so hard to escape: the elephant pursues status and pleasure automatically, regardless of the rider's knowledge
+- Discussed in [The Subtle Art of Not Giving a F*ck](../sources/books/the-subtle-art-of-not-giving-a-fuck/summary.md), [The Courage to Be Disliked](../sources/books/the-courage-to-be-disliked/summary.md), and [The Happiness Hypothesis](../sources/books/the-happiness-hypothesis/summary.md)

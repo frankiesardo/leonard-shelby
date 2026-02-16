@@ -18,6 +18,7 @@ related:
   - simplicity-in-writing
   - unity-of-form
   - clutter
+  - products-not-profits
 ---
 
 # Taste as Competitive Advantage

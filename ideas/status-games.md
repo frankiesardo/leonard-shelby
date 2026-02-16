@@ -7,6 +7,7 @@ aliases:
   - status as drama
 sources:
   - the-science-of-storytelling
+  - the-happiness-hypothesis
 domains:
   - cognitive-science
   - writing
@@ -18,6 +19,8 @@ related:
   - the-sacred-flaw
   - good-and-bad-values
   - emotional-bank-account
+  - conspicuous-vs-inconspicuous-consumption
+  - the-hedonic-treadmill
 ---
 
 # Status Games
@@ -39,4 +42,6 @@ Status play permeates every effective story. Hard to conceive of one that does n
 - [The Hero-Maker Narrative](the-hero-maker-narrative.md) -- the brain uses the hero-maker to maintain or raise perceived status
 - [Good and Bad Values](good-and-bad-values.md) -- "always being the center of attention" and "dominance through manipulation" are bad values that are essentially status-seeking pathologies
 - [Emotional Bank Account](emotional-bank-account.md) -- Covey's metaphor maps to the "getting along" half of the dual drive
-- Discussed in [The Science of Storytelling](../sources/books/the-science-of-storytelling/summary.md)
+- Haidt's [Conspicuous vs. Inconspicuous Consumption](conspicuous-vs-inconspicuous-consumption.md) shows how status games drive self-defeating spending patterns -- people overinvest in visible markers of rank and underinvest in things that actually produce lasting well-being
+- [The Hedonic Treadmill](the-hedonic-treadmill.md) is the mechanism that makes status games futile -- each gain resets the baseline and the race starts again
+- Discussed in [The Science of Storytelling](../sources/books/the-science-of-storytelling/summary.md) and [The Happiness Hypothesis](../sources/books/the-happiness-hypothesis/summary.md)

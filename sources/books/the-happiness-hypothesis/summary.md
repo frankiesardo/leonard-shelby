@@ -19,6 +19,13 @@ ideas:
   - the-ethic-of-divinity
   - posttraumatic-growth
   - conspicuous-vs-inconspicuous-consumption
+  - inside-out
+  - meaning-through-suffering
+  - nonjudgmental-awareness
+  - self-1-vs-self-2
+  - status-games
+  - the-backwards-law
+  - thinking-brain-vs-feeling-brain
 ---
 
 # The Happiness Hypothesis -- Jonathan Haidt

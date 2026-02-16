@@ -16,6 +16,7 @@ related:
   - boldness-over-hedging
   - self-authorization
   - the-hero-maker-narrative
+  - origin-damage
 ---
 
 # Reality Distortion Field

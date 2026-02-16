@@ -18,6 +18,9 @@ related:
   - empathic-listening
   - socratic-method-in-management
   - separation-of-tasks
+  - growth-trajectories
+  - rock-stars-and-superstars
+  - the-get-stuff-done-wheel
 ---
 
 # Radical Candor

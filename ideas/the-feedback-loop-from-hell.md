@@ -18,6 +18,8 @@ related:
   - the-existential-vacuum
   - thinking-brain-vs-feeling-brain
   - all-problems-are-interpersonal
+  - the-rider-and-the-elephant
+  - the-luxury-trap
 ---
 
 # The Feedback Loop from Hell

@@ -19,6 +19,8 @@ related:
   - inside-out
   - circle-of-influence
   - choose-your-struggle
+  - posttraumatic-growth
+  - the-rider-and-the-elephant
 ---
 
 # The Happiness Formula

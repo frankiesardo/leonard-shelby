@@ -17,6 +17,8 @@ related:
   - three-generations-to-profitability
   - reasons-before-answers
   - boldness-over-hedging
+  - heartbeats-and-handcuffs
+  - mission-driven-assholes
 ---
 
 # Opinion-Driven Decisions

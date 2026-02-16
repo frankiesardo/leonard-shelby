@@ -18,6 +18,8 @@ related:
   - choose-your-struggle
   - desirable-difficulties
   - the-backwards-law
+  - process-over-product
+  - protect-the-new
 ---
 
 # Failure as Investment

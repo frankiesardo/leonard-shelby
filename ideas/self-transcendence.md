@@ -18,6 +18,8 @@ related:
   - work-on-yourself
   - process-over-product
   - community-feeling
+  - happiness-comes-from-between
+  - the-ethic-of-divinity
 ---
 
 # Self-Transcendence

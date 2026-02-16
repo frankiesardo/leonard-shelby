@@ -23,6 +23,8 @@ related:
   - radical-candor
   - ruinous-empathy
   - it-is-not-mean-it-is-clear
+  - candor-as-survival-mechanism
+  - the-braintrust
 ---
 
 # Separation of Tasks

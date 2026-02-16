@@ -7,6 +7,7 @@ aliases:
   - education as transmission of civilization
 sources:
   - the-lessons-of-history
+  - sapiens
 domains:
   - philosophy
   - history
@@ -17,6 +18,8 @@ related:
   - the-biological-lessons-of-history
   - meaning-through-suffering
   - the-uncomfortable-truth
+  - the-agricultural-revolution-as-fraud
+  - happiness-as-biochemical-setpoint
 ---
 
 # Progress as Increasing Heritage
@@ -39,5 +42,6 @@ This is the most hopeful idea in the book, and it earns its hope honestly. It do
 
 - [History Repeats in Outline](history-repeats-in-outline.md) — but the heritage grows through each cycle, so the repetition is a spiral, not a circle
 - [Moral Codes Follow Economic Systems](moral-codes-follow-economic-systems.md) — progress in morality is less clear than progress in knowledge
-- [The Biological Lessons of History](the-biological-lessons-of-history.md) — biological evolution is glacially slow, but cultural evolution (transmission of heritage) is fast
-- Connects to Frankl's *Man's Search for Meaning*: "He who has a why to live can bear almost any how" — the heritage is a why that transcends individual mortality
+- [The Biological Lessons of History](the-biological-lessons-of-history.md) -- biological evolution is glacially slow, but cultural evolution (transmission of heritage) is fast
+- Connects to Frankl's *Man's Search for Meaning*: "He who has a why to live can bear almost any how" -- the heritage is a why that transcends individual mortality
+- Harari in [Sapiens](../sources/books/sapiens/summary.md) complicates this: [The Agricultural Revolution as Fraud](the-agricultural-revolution-as-fraud.md) argues the heritage grew while individual lives got worse. [Happiness as Biochemical Setpoint](happiness-as-biochemical-setpoint.md) suggests the growing heritage may not have changed how it *feels* to be alive.

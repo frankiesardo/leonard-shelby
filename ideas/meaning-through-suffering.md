@@ -6,6 +6,7 @@ aliases:
   - suffering as achievement
 sources:
   - mans-search-for-meaning
+  - the-happiness-hypothesis
 domains:
   - philosophy
   - personal-development
@@ -19,6 +20,7 @@ related:
   - pain-as-universal-constant
   - progress-as-increasing-heritage
   - the-existential-vacuum
+  - posttraumatic-growth
 ---
 
 # Meaning Through Suffering
@@ -42,4 +44,5 @@ The practical application is Frankl's distinction between "getting through suffe
 - [Tragic Optimism](tragic-optimism.md) is the broader posture that includes meaning through suffering
 - [Investment in Loss](investment-in-loss.md) is a milder, non-tragic version -- willingly accepting short-term pain for long-term growth
 - [The Day That Turns Your Life Around](the-day-that-turns-your-life-around.md) is the moment when suffering becomes fuel for transformation
-- Discussed in [Man's Search for Meaning](../sources/books/mans-search-for-meaning/summary.md)
+- [Posttraumatic Growth](posttraumatic-growth.md) is the empirical elaboration: Haidt identifies the conditions under which suffering actually produces growth (right time, right degree, right social support), adding scientific specificity to Frankl's existential claim
+- Discussed in [Man's Search for Meaning](../sources/books/mans-search-for-meaning/summary.md) and [The Happiness Hypothesis](../sources/books/the-happiness-hypothesis/summary.md)

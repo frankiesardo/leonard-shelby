@@ -6,6 +6,7 @@ aliases:
   - the resurrection of religion
 sources:
   - the-lessons-of-history
+  - sapiens
 domains:
   - philosophy
   - history
@@ -13,6 +14,9 @@ related:
   - moral-codes-follow-economic-systems
   - the-biological-lessons-of-history
   - the-uncomfortable-truth
+  - imagined-orders
+  - the-unification-of-humankind
+  - the-ethic-of-divinity
 ---
 
 # Religion as Social Necessity
@@ -34,3 +38,5 @@ This is not an argument for believing. It is an argument for understanding what 
 - [Moral Codes Follow Economic Systems](moral-codes-follow-economic-systems.md) — religion is the mechanism that sanctifies the prevailing moral code
 - [The Uncomfortable Truth](the-uncomfortable-truth.md) from Manson — the modern search for meaning without transcendence echoes the Durants' concern that secular societies haven't found an adequate replacement
 - Connects to Frankl's *Man's Search for Meaning*: Frankl found meaning without orthodox religion but through a quasi-religious faith in life's unconditional meaningfulness
+- Harari in [Sapiens](../sources/books/sapiens/summary.md) goes further: liberalism, Communism, and nationalism are themselves religions -- systems of human norms founded on belief in a superhuman order. If so, religion never actually died; it just changed clothes.
+- [Imagined Orders](imagined-orders.md) -- religion is the oldest and most powerful enforcement mechanism for the imagined orders that hold large-scale societies together

@@ -16,6 +16,7 @@ related:
   - the-backwards-law
   - relaxed-concentration
   - choose-your-struggle
+  - conspicuous-vs-inconspicuous-consumption
 ---
 
 # The Progress Principle

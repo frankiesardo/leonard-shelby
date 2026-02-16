@@ -6,6 +6,7 @@ aliases:
   - ego-mind vs body-mind
 sources:
   - the-inner-game-of-tennis
+  - the-happiness-hypothesis
 domains:
   - cognitive-science
   - personal-development
@@ -21,6 +22,8 @@ related:
   - paradoxical-intention
   - noticing-as-discipline
   - the-art-of-competing
+  - the-rider-and-the-elephant
+  - mental-models-for-uncertainty
 ---
 
 # Self 1 vs Self 2
@@ -50,4 +53,5 @@ The practical move is not to fight Self 1 (that's Self 1 fighting itself) but to
 - Waitzkin's [Numbers to Leave Numbers](numbers-to-leave-numbers.md) describes the same progression -- technique dissolves from conscious control into unconscious mastery
 - [The Soft Zone](the-soft-zone.md) is the Self 2 mode of concentration -- resilient and absorbed rather than rigid
 - [The Backwards Law](the-backwards-law.md) and [Paradoxical Intention](paradoxical-intention.md) describe the same mechanism from the other side: trying harder (Self 1 taking over) produces worse results
-- Discussed in [The Inner Game of Tennis](../sources/books/the-inner-game-of-tennis/summary.md)
+- Haidt's [The Rider and the Elephant](the-rider-and-the-elephant.md) is the broader cognitive science version: Self 1 maps to the rider (conscious, verbal), Self 2 maps to the elephant (automatic, emotional, embodied). Haidt adds the evolutionary framing -- the rider evolved to serve the elephant, not to command it.
+- Discussed in [The Inner Game of Tennis](../sources/books/the-inner-game-of-tennis/summary.md) and [The Happiness Hypothesis](../sources/books/the-happiness-hypothesis/summary.md)

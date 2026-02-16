@@ -19,6 +19,11 @@ related:
   - moral-codes-follow-economic-systems
   - the-unification-of-humankind
   - freedom-vs-equality
+  - happiness-as-biochemical-setpoint
+  - history-repeats-in-outline
+  - the-agricultural-revolution-as-fraud
+  - the-luxury-trap
+  - the-uncomfortable-truth
 ---
 
 # Imagined Orders

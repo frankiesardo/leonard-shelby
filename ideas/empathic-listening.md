@@ -18,6 +18,8 @@ related:
   - horizontal-relationships
   - radical-candor
   - the-get-stuff-done-wheel
+  - candor-as-survival-mechanism
+  - the-braintrust
 ---
 
 # Empathic Listening

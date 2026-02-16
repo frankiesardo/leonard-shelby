@@ -6,10 +6,13 @@ aliases:
 sources:
   - everything-is-fucked
   - the-science-of-storytelling
+  - sapiens
 domains:
   - philosophy
   - personal-development
 related:
+  - happiness-as-biochemical-setpoint
+  - imagined-orders
   - amor-fati
   - hope-as-double-edged-sword
   - pain-as-universal-constant

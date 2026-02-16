@@ -17,6 +17,7 @@ related:
   - self-1-vs-self-2
   - beginners-mind
   - the-hidden-and-the-unseen
+  - noticing-as-discipline
 ---
 
 # Mental Models for Uncertainty

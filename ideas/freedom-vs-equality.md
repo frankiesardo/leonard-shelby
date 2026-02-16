@@ -5,6 +5,7 @@ aliases:
   - the freedom-equality tradeoff
 sources:
   - the-lessons-of-history
+  - sapiens
 domains:
   - philosophy
   - history
@@ -17,6 +18,8 @@ related:
   - history-repeats-in-outline
   - moral-codes-follow-economic-systems
   - war-as-the-norm
+  - imagined-orders
+  - the-unification-of-humankind
 ---
 
 # Freedom vs Equality

@@ -16,6 +16,7 @@ related:
   - hope-as-double-edged-sword
   - moral-codes-follow-economic-systems
   - the-hero-maker-narrative
+  - the-hidden-and-the-unseen
 ---
 
 # The Blue Dot Effect

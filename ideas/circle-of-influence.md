@@ -24,6 +24,7 @@ related:
   - freedom-vs-equality
   - self-acceptance-vs-self-affirmation
   - theory-of-control
+  - the-happiness-formula
 ---
 
 # Circle of Influence

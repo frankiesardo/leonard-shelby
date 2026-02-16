@@ -18,6 +18,16 @@ ideas:
   - life-as-a-series-of-moments
   - teleology-vs-etiology
   - all-problems-are-interpersonal
+  - circle-of-influence
+  - good-and-bad-values
+  - inside-out
+  - responsibility-vs-fault
+  - self-transcendence
+  - socratic-method-in-management
+  - the-backwards-law
+  - the-existential-vacuum
+  - the-last-human-freedom
+  - tragic-optimism
 ---
 
 # The Courage to Be Disliked -- Ichiro Kishimi & Fumitake Koga

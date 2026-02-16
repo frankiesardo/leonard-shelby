@@ -16,6 +16,7 @@ related:
   - imagined-orders
   - sapiens-as-ecological-serial-killer
   - progress-as-increasing-heritage
+  - happiness-as-biochemical-setpoint
 ---
 
 # The Agricultural Revolution as Fraud

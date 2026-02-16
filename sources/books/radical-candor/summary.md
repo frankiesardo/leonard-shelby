@@ -16,6 +16,11 @@ ideas:
   - the-get-stuff-done-wheel
   - growth-trajectories
   - it-is-not-mean-it-is-clear
+  - emotional-bank-account
+  - empathic-listening
+  - horizontal-relationships
+  - separation-of-tasks
+  - socratic-method-in-management
 ---
 
 # Radical Candor

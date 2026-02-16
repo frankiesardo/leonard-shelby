@@ -20,6 +20,9 @@ related:
   - the-blue-dot-effect
   - origin-damage
   - the-dramatic-question
+  - mission-driven-assholes
+  - reality-distortion-field
+  - seed-crystals
 ---
 
 # The Hero-Maker Narrative

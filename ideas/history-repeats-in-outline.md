@@ -6,6 +6,7 @@ aliases:
   - the baroque nature of history
 sources:
   - the-lessons-of-history
+  - sapiens
 domains:
   - history
   - systems-thinking
@@ -17,6 +18,8 @@ related:
   - tragic-optimism
   - the-five-focusing-steps
   - progress-as-increasing-heritage
+  - the-unification-of-humankind
+  - imagined-orders
 ---
 
 # History Repeats in Outline
@@ -37,4 +40,5 @@ This is the right mental model for reading history: loose patterns, not iron law
 
 - [Concentration of Wealth](concentration-of-wealth.md) is the most clearly cyclical pattern the Durants identify
 - [Moral Codes Follow Economic Systems](moral-codes-follow-economic-systems.md) is another pattern that repeats in outline
-- [Freedom vs Equality](freedom-vs-equality.md) is a pendulum, not a destination — it swings back and forth as conditions change
+- [Freedom vs Equality](freedom-vs-equality.md) is a pendulum, not a destination -- it swings back and forth as conditions change
+- Harari in [Sapiens](../sources/books/sapiens/summary.md) adds an important nuance: history is a "level two" chaotic system that reacts to predictions about itself. We study it not to predict but to widen our horizons and see that the present is neither natural nor inevitable.

@@ -6,6 +6,7 @@ aliases:
   - the state has our instincts without our restraints
 sources:
   - the-lessons-of-history
+  - sapiens
 domains:
   - history
   - philosophy
@@ -14,6 +15,8 @@ related:
   - the-biological-lessons-of-history
   - freedom-vs-equality
   - concentration-of-wealth
+  - the-unification-of-humankind
+  - sapiens-as-ecological-serial-killer
 ---
 
 # War as the Norm

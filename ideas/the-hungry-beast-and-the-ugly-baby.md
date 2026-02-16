@@ -16,6 +16,7 @@ related:
   - process-over-product
   - p-pc-balance
   - the-five-focusing-steps
+  - failure-as-investment
 ---
 
 # The Hungry Beast and the Ugly Baby

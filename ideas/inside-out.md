@@ -8,6 +8,7 @@ sources:
   - the-7-habits-of-highly-effective-people
   - jim-rohn-challenges-succeed-seminar-anaheim
   - the-courage-to-be-disliked
+  - the-happiness-hypothesis
 domains:
   - personal-development
   - philosophy
@@ -38,6 +39,9 @@ related:
   - self-transcendence
   - theory-of-control
   - two-creations
+  - the-rider-and-the-elephant
+  - happiness-comes-from-between
+  - the-happiness-formula
 ---
 
 # Inside-Out
@@ -69,4 +73,6 @@ This is not comfortable. It means owning that your current results are, in some 
 - Adler's [Teleology vs. Etiology](teleology-vs-etiology.md) is Inside-Out at its most radical: your current state is not caused by external events but chosen by you for present purposes. If you change your goals, your world changes.
 - [Separation of Tasks](separation-of-tasks.md) is the practical tool: stop trying to control what's outside (others' tasks) and focus on what's inside (your own tasks)
 - Adler's closing line: "If I change, the world will change. No one else will change the world for me." Pure Inside-Out.
-- Discussed in [The 7 Habits of Highly Effective People](../sources/books/the-7-habits-of-highly-effective-people/summary.md), [Challenges to Succeed](../sources/transcripts/jim-rohn-challenges-succeed-seminar-anaheim/summary.md), [The Subtle Art of Not Giving a F*ck](../sources/books/the-subtle-art-of-not-giving-a-fuck/summary.md), and [The Courage to Be Disliked](../sources/books/the-courage-to-be-disliked/summary.md)
+- Haidt's [Happiness Comes from Between](happiness-comes-from-between.md) refines Inside-Out: internal work is necessary but not sufficient. Happiness requires getting the *relationships* right -- between yourself and others, yourself and your work, yourself and something larger. Pure inside-out, taken to the extreme of Buddhist detachment, misses half the picture.
+- [The Rider and the Elephant](the-rider-and-the-elephant.md) explains *why* inside-out change is hard: you must train the elephant (automatic processes, emotions, habits), not just convince the rider (conscious reasoning).
+- Discussed in [The 7 Habits of Highly Effective People](../sources/books/the-7-habits-of-highly-effective-people/summary.md), [Challenges to Succeed](../sources/transcripts/jim-rohn-challenges-succeed-seminar-anaheim/summary.md), [The Subtle Art of Not Giving a F*ck](../sources/books/the-subtle-art-of-not-giving-a-fuck/summary.md), [The Courage to Be Disliked](../sources/books/the-courage-to-be-disliked/summary.md), and [The Happiness Hypothesis](../sources/books/the-happiness-hypothesis/summary.md)

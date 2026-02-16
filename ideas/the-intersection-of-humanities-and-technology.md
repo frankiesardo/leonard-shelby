@@ -16,6 +16,7 @@ related:
   - the-outsider-advantage
   - deliberate-amateurs
   - analogical-thinking
+  - reality-distortion-field
 ---
 
 # The Intersection of Humanities and Technology

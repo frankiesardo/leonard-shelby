@@ -6,6 +6,7 @@ aliases:
   - moral interregnum
 sources:
   - the-lessons-of-history
+  - sapiens
 domains:
   - philosophy
   - history
@@ -17,6 +18,8 @@ related:
   - the-blue-dot-effect
   - history-repeats-in-outline
   - progress-as-increasing-heritage
+  - imagined-orders
+  - money-as-universal-fiction
 ---
 
 # Moral Codes Follow Economic Systems

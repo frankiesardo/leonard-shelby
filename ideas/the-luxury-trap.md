@@ -17,6 +17,7 @@ related:
   - the-downward-spiral
   - imagined-orders
   - choose-your-struggle
+  - the-cognitive-revolution
 ---
 
 # The Luxury Trap

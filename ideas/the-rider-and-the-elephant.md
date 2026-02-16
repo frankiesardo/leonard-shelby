@@ -20,6 +20,9 @@ related:
   - the-backwards-law
   - inside-out
   - the-feedback-loop-from-hell
+  - happiness-comes-from-between
+  - posttraumatic-growth
+  - the-ethic-of-divinity
 ---
 
 # The Rider and the Elephant

@@ -18,6 +18,18 @@ ideas:
   - money-as-universal-fiction
   - the-unification-of-humankind
   - happiness-as-biochemical-setpoint
+  - concentration-of-wealth
+  - freedom-vs-equality
+  - history-repeats-in-outline
+  - moral-codes-follow-economic-systems
+  - progress-as-increasing-heritage
+  - religion-as-social-necessity
+  - the-backwards-law
+  - the-biological-lessons-of-history
+  - the-brain-as-model-maker
+  - the-uncomfortable-truth
+  - war-as-the-norm
+  - will-to-meaning
 status: read
 date_consumed: 2026
 ---

@@ -18,6 +18,8 @@ related:
   - the-backwards-law
   - good-and-bad-values
   - status-games
+  - happiness-comes-from-between
+  - the-rider-and-the-elephant
 ---
 
 # The Hedonic Treadmill

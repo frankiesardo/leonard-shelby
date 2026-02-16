@@ -20,6 +20,7 @@ related:
   - stress-and-recovery
   - slowing-down-time
   - mental-models-for-uncertainty
+  - the-progress-principle
 ---
 
 # Relaxed Concentration

@@ -19,6 +19,8 @@ ideas:
   - emotional-bank-account
   - abundance-mentality
   - empathic-listening
+  - the-last-human-freedom
+  - work-on-yourself
 ---
 
 # The 7 Habits of Highly Effective People — Stephen R. Covey

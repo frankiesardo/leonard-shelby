@@ -23,6 +23,7 @@ related:
   - the-art-of-competing
   - letting-it-happen
   - the-sampling-period
+  - posttraumatic-growth
   - match-quality
   - desirable-difficulties
   - certainty-is-the-enemy-of-growth

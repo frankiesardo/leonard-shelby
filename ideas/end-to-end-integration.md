@@ -16,6 +16,7 @@ related:
   - focus-is-saying-no
   - quality-is-its-own-reward
   - products-not-profits
+  - the-intersection-of-humanities-and-technology
 ---
 
 # End-to-End Integration

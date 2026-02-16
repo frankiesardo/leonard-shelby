@@ -6,6 +6,7 @@ aliases:
   - letting go of judgment
 sources:
   - the-inner-game-of-tennis
+  - the-happiness-hypothesis
 domains:
   - cognitive-science
   - personal-development
@@ -18,6 +19,7 @@ related:
   - the-backwards-law
   - process-over-product
   - beginners-mind
+  - the-rider-and-the-elephant
 ---
 
 # Nonjudgmental Awareness
@@ -47,4 +49,5 @@ The practical move: replace evaluative words with descriptive ones. Not "my pres
 - [The Backwards Law](the-backwards-law.md) applied to self-improvement: the more you judge yourself for not being good enough, the worse you feel and perform
 - [Process over Product](process-over-product.md) -- nonjudgmental awareness is process-oriented by nature; judgment is product-oriented
 - [Beginner's Mind](beginners-mind.md) -- the nonjudgmental observer sees things fresh, without the accumulated weight of past evaluations
-- Discussed in [The Inner Game of Tennis](../sources/books/the-inner-game-of-tennis/summary.md)
+- Haidt's [The Rider and the Elephant](the-rider-and-the-elephant.md) provides the neuroscience behind why this works: meditation trains the elephant's automatic processes by weakening the negativity bias and reducing reactivity, rather than arguing with the elephant from the rider's seat
+- Discussed in [The Inner Game of Tennis](../sources/books/the-inner-game-of-tennis/summary.md) and [The Happiness Hypothesis](../sources/books/the-happiness-hypothesis/summary.md)

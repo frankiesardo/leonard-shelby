@@ -16,6 +16,8 @@ related:
   - socratic-method-in-management
   - empathic-listening
   - separation-of-tasks
+  - process-over-product
+  - the-hidden-and-the-unseen
 ---
 
 # The Braintrust

@@ -16,6 +16,9 @@ ideas:
   - letting-it-happen
   - relaxed-concentration
   - the-art-of-competing
+  - noticing-as-discipline
+  - numbers-to-leave-numbers
+  - the-soft-zone
 ---
 
 # The Inner Game of Tennis

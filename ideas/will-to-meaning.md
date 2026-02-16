@@ -6,11 +6,13 @@ aliases:
   - meaning as primary motivation
 sources:
   - mans-search-for-meaning
+  - sapiens
 domains:
   - philosophy
   - cognitive-science
   - personal-development
 related:
+  - happiness-as-biochemical-setpoint
   - the-last-human-freedom
   - the-existential-vacuum
   - meaning-through-suffering
@@ -21,6 +23,7 @@ related:
   - hope-as-double-edged-sword
   - socratic-method-in-management
   - community-feeling
+  - happiness-comes-from-between
   - tragic-optimism
 ---
 

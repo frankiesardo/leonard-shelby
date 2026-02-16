@@ -18,6 +18,7 @@ ideas:
   - paradoxical-intention
   - tragic-optimism
   - self-transcendence
+  - circle-of-influence
 ---
 
 # Man's Search for Meaning -- Viktor E. Frankl

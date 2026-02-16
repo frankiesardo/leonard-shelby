@@ -18,6 +18,7 @@ related:
   - quadrant-ii
   - think-small
   - clutter
+  - death-as-the-great-motivator
 ---
 
 # Focus Is Saying No

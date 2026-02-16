@@ -7,6 +7,7 @@ aliases:
   - the three biological lessons
 sources:
   - the-lessons-of-history
+  - sapiens
 domains:
   - history
   - philosophy
@@ -20,6 +21,7 @@ related:
   - moral-codes-follow-economic-systems
   - progress-as-increasing-heritage
   - religion-as-social-necessity
+  - sapiens-as-ecological-serial-killer
 ---
 
 # The Biological Lessons of History
