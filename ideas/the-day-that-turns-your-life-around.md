@@ -16,6 +16,7 @@ related:
   - inside-out
   - investment-in-loss
   - get-on-the-plane
+  - death-as-the-great-motivator
 ---
 
 Jim Rohn names four emotions that can change your entire life in a single day. They are the raw material of transformation — the feeling precedes the action, and the action rewires the life.

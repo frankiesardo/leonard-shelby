@@ -6,6 +6,7 @@ aliases:
   - proactivity
 sources:
   - the-7-habits-of-highly-effective-people
+  - mans-search-for-meaning
 domains:
   - personal-development
   - management
@@ -14,6 +15,10 @@ related:
   - inside-out
   - the-soft-zone
   - beginners-mind
+  - responsibility-vs-fault
+  - good-and-bad-values
+  - the-feedback-loop-from-hell
+  - the-last-human-freedom
 ---
 
 # Circle of Influence
@@ -40,4 +45,8 @@ Most suffering comes from spending Circle of Influence energy on Circle of Conce
 - [Inside-Out](inside-out.md) is the overarching principle; Circle of Influence is its practical expression
 - [The Soft Zone](the-soft-zone.md) is the same insight from a different tradition — don't waste energy resisting what you can't control; flow around it
 - [Beginner's Mind](beginners-mind.md) requires letting go of the need to control — accepting what is before trying to change it
-- Discussed in [The 7 Habits of Highly Effective People](../sources/books/the-7-habits-of-highly-effective-people/summary.md)
+- Manson's [Responsibility vs. Fault](responsibility-vs-fault.md) maps onto Circle of Influence: responsibility is present-tense and controllable, fault is past-tense and not
+- [Good and Bad Values](good-and-bad-values.md) — good values live inside the Circle of Influence; bad values depend on the Circle of Concern
+- [The Feedback Loop from Hell](the-feedback-loop-from-hell.md) is a Circle of Concern trap — worrying about your emotions is trying to control what you can only observe
+- Frankl's [The Last Human Freedom](the-last-human-freedom.md) is the original source of the stimulus-response space that Covey built proactivity on
+- Discussed in [The 7 Habits of Highly Effective People](../sources/books/the-7-habits-of-highly-effective-people/summary.md) and [Man's Search for Meaning](../sources/books/mans-search-for-meaning/summary.md)

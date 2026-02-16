@@ -15,6 +15,7 @@ related:
   - incremental-theory-of-intelligence
   - numbers-to-leave-numbers
   - circle-of-influence
+  - certainty-is-the-enemy-of-growth
 ---
 
 # Beginner's Mind

@@ -18,6 +18,9 @@ related:
   - investment-in-loss
   - seasons-of-life
   - work-on-yourself
+  - the-last-human-freedom
+  - pain-as-universal-constant
+  - amor-fati
 ---
 
 # Making Sandals

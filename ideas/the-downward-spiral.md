@@ -13,6 +13,7 @@ related:
   - the-soft-zone
   - incremental-theory-of-intelligence
   - stress-and-recovery
+  - the-feedback-loop-from-hell
 ---
 
 # The Downward Spiral
@@ -36,4 +37,5 @@ Practical interventions can be absurdly simple: a few deep breaths, cold water o
 - [The Soft Zone](the-soft-zone.md) provides the resilience to avoid the spiral
 - [Incremental Theory of Intelligence](incremental-theory-of-intelligence.md) determines whether a mistake is interpreted as data or as identity threat
 - [Stress and Recovery](stress-and-recovery.md) — micro-recoveries between moments of intensity prevent the spiral
+- [The Feedback Loop from Hell](the-feedback-loop-from-hell.md) is the emotional variant — meta-emotions compounding suffering the way meta-errors compound in performance
 - Discussed in [The Art of Learning](../sources/books/the-art-of-learning/summary.md)

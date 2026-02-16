@@ -18,6 +18,13 @@ related:
   - investment-in-loss
   - work-on-yourself
   - the-day-that-turns-your-life-around
+  - the-formula-of-humanity
+  - thinking-brain-vs-feeling-brain
+  - responsibility-vs-fault
+  - good-and-bad-values
+  - the-backwards-law
+  - the-last-human-freedom
+  - tragic-optimism
 ---
 
 # Inside-Out
@@ -41,4 +48,9 @@ This is not comfortable. It means owning that your current results are, in some 
 - [Process over Product](process-over-product.md) applies the same logic to creative work — fix the process, and the product follows
 - [Investment in Loss](investment-in-loss.md) is Inside-Out applied to skill development — growth requires letting go of current identity
 - [Work on Yourself](work-on-yourself.md) is Jim Rohn's version — "for things to change, you've got to change" — the ur-statement of inside-out, fifteen years before Covey
-- Discussed in [The 7 Habits of Highly Effective People](../sources/books/the-7-habits-of-highly-effective-people/summary.md) and [Challenges to Succeed](../sources/transcripts/jim-rohn-challenges-succeed-seminar-anaheim/summary.md)
+- Manson's [Responsibility vs. Fault](responsibility-vs-fault.md) is Inside-Out in street clothes — you always own your response, regardless of who caused the situation
+- [Good and Bad Values](good-and-bad-values.md) distinguishes the same territory: good values are internal and controllable, bad values are external and uncontrollable
+- [The Backwards Law](the-backwards-law.md) is the negative case — outside-in pursuit of positive experience produces the opposite
+- Frankl's [The Last Human Freedom](the-last-human-freedom.md) is the existential bedrock — the proof, forged in Auschwitz, that the inside always retains sovereignty over the outside
+- [Tragic Optimism](tragic-optimism.md) is Inside-Out applied to the worst conditions: pain, guilt, and death
+- Discussed in [The 7 Habits of Highly Effective People](../sources/books/the-7-habits-of-highly-effective-people/summary.md), [Challenges to Succeed](../sources/transcripts/jim-rohn-challenges-succeed-seminar-anaheim/summary.md), and [The Subtle Art of Not Giving a F*ck](../sources/books/the-subtle-art-of-not-giving-a-fuck/summary.md)

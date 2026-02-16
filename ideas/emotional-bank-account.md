@@ -13,6 +13,7 @@ related:
   - abundance-mentality
   - inside-out
   - empathic-listening
+  - newtons-laws-of-emotion
 ---
 
 # Emotional Bank Account

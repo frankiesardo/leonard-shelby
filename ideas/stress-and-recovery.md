@@ -17,6 +17,7 @@ related:
   - p-pc-balance
   - quadrant-ii
   - seasons-of-life
+  - pain-as-universal-constant
 ---
 
 # Stress and Recovery

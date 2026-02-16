@@ -18,6 +18,7 @@ related:
   - inside-out
   - abundance-mentality
   - work-on-yourself
+  - certainty-is-the-enemy-of-growth
 ---
 
 # Incremental Theory of Intelligence

@@ -14,6 +14,8 @@ related:
   - making-sandals
   - stress-and-recovery
   - circle-of-influence
+  - the-last-human-freedom
+  - paradoxical-intention
 ---
 
 # The Soft Zone

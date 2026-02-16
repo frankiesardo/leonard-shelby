@@ -14,6 +14,7 @@ related:
   - the-day-that-turns-your-life-around
   - quadrant-ii
   - two-creations
+  - socratic-method-in-management
 ---
 
 "If you had enough reasons, you could do the most incredible things." Jim Rohn's mentor Shoaff told him he had plenty of intelligence but not enough reasons. His bank balance wasn't a measure of his IQ — it was a measure of his motivation.

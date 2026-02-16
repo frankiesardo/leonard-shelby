@@ -19,6 +19,8 @@ related:
   - two-creations
   - p-pc-balance
   - work-on-yourself
+  - choose-your-struggle
+  - good-and-bad-values
 ---
 
 # Process over Product
