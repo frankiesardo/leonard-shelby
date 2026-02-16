@@ -6,56 +6,76 @@ This document describes the conventions, file formats, and organization of the g
 
 ```
 garden/
-├── README.md              ← Vision and philosophy
-├── STRUCTURE.md           ← This file. Conventions and formats.
-├── sources/               ← Books, talks, articles, podcasts, essays
+├── README.md                          ← Vision and philosophy
+├── STRUCTURE.md                       ← This file. Conventions and formats.
+├── sources/                           ← Books, essays, transcripts
 │   ├── books/
-│   ├── talks/
-│   ├── articles/
-│   ├── podcasts/
-│   └── essays/
-├── ideas/                 ← Evergreen notes. Atomic concepts.
-├── reflections/           ← Personal notes. Thinking out loud.
-├── maps/                  ← Maps of Content. Thematic entry points.
-└── inbox/                 ← Unprocessed captures.
+│   │   └── {book-slug}/              ← One folder per book
+│   │       ├── summary.md            ← Entry point. Metadata + synthesis.
+│   │       ├── source.md             ← Full text / reading notes (optional)
+│   │       ├── ch01-{slug}.md        ← Chapter-level notes (for books)
+│   │       ├── ch02-{slug}.md
+│   │       └── ...
+│   ├── essays/
+│   │   └── {essay-slug}/
+│   │       ├── summary.md
+│   │       └── source.md
+│   └── transcripts/
+│       └── {transcript-slug}/
+│           ├── summary.md
+│           └── source.md
+├── ideas/                             ← Evergreen notes. Atomic concept handles.
+├── flashcards/                        ← Spaced repetition cards.
+├── notes/                             ← Personal journal, reflections, quick captures.
+└── maps/                              ← Maps of Content. Thematic entry points.
 ```
+
+## Naming conventions
+
+- All files and folders use **kebab-case**: `nonfiction-writing-advice`, `the-goal`, `ch03-bottlenecks`.
+- Source folders are named for the source, not the author: `sapiens/` not `harari-sapiens/`.
+- Chapter files are prefixed with `ch{NN}-`: `ch01-cognitive-revolution.md`.
 
 ## Note types
 
 ### Sources (`sources/`)
 
-A source is a thing I consumed: a book, a talk, an article, a podcast episode. Sources are the *evidence base* — the raw material from which ideas are extracted.
+A source is a thing I consumed: a book, an essay, a transcript (talk, podcast, video). Each source lives in its own folder under the appropriate category.
 
-**Filename convention:** `kebab-case-title.md`
-Example: `sources/books/antifragile.md`
+**Categories:**
+- `books/` — Books and long-form non-fiction.
+- `essays/` — Articles, blog posts, short written pieces.
+- `transcripts/` — Talks, podcasts, YouTube videos, interviews.
 
-**Frontmatter:**
+**Folder structure:**
+
+Every source folder contains at least a `summary.md`. Richer sources also contain:
+- `source.md` — The full text, transcript, or detailed reading notes.
+- `ch{NN}-{slug}.md` — Chapter-level notes (primarily for books).
+
+**`summary.md` is the entry point.** It contains all metadata and a synthesis of the source. An agent or human should be able to read just the summary and understand what the source contributes to the garden.
+
+**Summary frontmatter:**
 
 ```yaml
 ---
-title: "Antifragile: Things That Gain from Disorder"
-author: "Nassim Nicholas Taleb"
-type: book                    # book | talk | article | podcast | essay
-tier: evergreen               # perennial | evergreen | seasonal | seedling
-domains:                      # which intellectual domains this touches
-  - systems-thinking
-  - management
-  - philosophy
-status: read                  # read | reading | to-read | partially-read
-date_consumed: 2023-06        # approximate, YYYY or YYYY-MM
-ideas:                        # concept handles extracted from this source
-  - antifragility
-  - via-negativa
-  - skin-in-the-game
-  - barbell-strategy
-  - lindy-effect
-related_sources:              # other sources that pair well
-  - the-new-normal-cognitect
-  - the-black-swan
+title: "Nonfiction Writing Advice"
+author: "Scott Alexander"
+type: essay                    # book | essay | transcript
+tier: evergreen                # perennial | evergreen | seasonal
+domains:                       # which intellectual domains this touches
+  - writing
+  - communication
+status: read                   # read | reading | to-read | partially-read
+date_consumed: 2024            # approximate, YYYY or YYYY-MM
+url: "https://..."             # original URL (for essays and transcripts)
+ideas:                         # concept handles extracted from this source
+  - concept-handles
+  - microhumor
 ---
 ```
 
-**Body:** Free-form. Can include a summary, key quotes, chapter notes, personal reactions. The frontmatter `ideas` list is the most important part — it's the bridge to the idea layer.
+**Summary body:** A concise synthesis in your own words. Key ideas as bullet points. Key quotes. Connections to other sources and ideas. This is not a book report — it's a distillation of what matters and why.
 
 ### Ideas (`ideas/`)
 
@@ -65,7 +85,7 @@ An idea is an atomic, reusable concept — what Scott Alexander calls a "concept
 - **Atomic:** One idea per note. If you need "and" to describe it, split it.
 - **Concept-oriented:** Named for the concept, not the source. "Antifragility" not "Chapter 3 of Antifragile."
 - **Titled as a phrase you can use in a sentence.** "Antifragility" or "Systems that gain from disorder" — something you can slot into conversation or writing.
-- **Densely linked:** To other ideas, to sources, to reflections.
+- **Densely linked:** To other ideas, to sources, to notes.
 
 **Filename convention:** `kebab-case-concept.md`
 Example: `ideas/antifragility.md`
@@ -75,17 +95,17 @@ Example: `ideas/antifragility.md`
 ```yaml
 ---
 title: "Antifragility"
-aliases:                      # other ways to refer to this concept
+aliases:                       # other ways to refer to this concept
   - antifragile
   - gains from disorder
-sources:                      # where this idea comes from or is discussed
+sources:                       # where this idea comes from or is discussed
   - antifragile
   - the-new-normal-cognitect
 domains:
   - systems-thinking
   - management
   - philosophy
-related:                      # other idea notes that connect
+related:                       # other idea notes that connect
   - resilience
   - hormesis
   - via-negativa
@@ -93,30 +113,31 @@ related:                      # other idea notes that connect
 ---
 ```
 
-**Body:** A concise explanation of the concept in your own words. Why it matters. How it connects. Can be as short as two sentences or as long as needed. Should be written for *your future self* — not for publication, not for an audience.
+**Body:** A concise explanation of the concept in your own words. Why it matters. How it connects. Should be written for *your future self* — not for publication, not for an audience.
 
-### Reflections (`reflections/`)
+### Notes (`notes/`)
 
-Personal notes. Thinking out loud. Dated journal-like entries, essays-in-progress, or meditations on a theme. These are *your voice*, not summaries of other people's ideas.
+Personal notes. Quick captures, journal entries, thinking out loud. This is the primary inbox for anything that doesn't yet have a home, as well as the place for deeper reflections.
 
-**Filename convention:** `YYYY-MM-DD-slug.md` or `slug.md` for undated reflections.
+**Daily journal entries:** Append to `notes/YYYY-MM-DD.md`. A running log for a given day — quick thoughts, quotes, reactions to what you're reading.
 
-**Frontmatter:**
+**Standalone reflections:** `notes/on-{topic}.md` for longer, undated personal essays.
+
+**Frontmatter (optional for quick captures):**
 
 ```yaml
 ---
 title: "On the relationship between stoicism and antifragility"
-type: reflection
-date: 2025-11-15
-ideas:                        # ideas this reflection engages with
-  - antifragility
-  - stoicism
-  - amor-fati
-sources:                      # sources that prompted this reflection
+date: 2026-02-16
+sources:
   - antifragile
   - meditations
 ---
 ```
+
+### Flashcards (`flashcards/`)
+
+Spaced repetition cards extracted from sources and ideas. Format TBD — will be generated by the `/connect` skill.
 
 ### Maps of Content (`maps/`)
 
@@ -125,14 +146,13 @@ A Map of Content (MOC) is a curated entry point into a cluster of related ideas 
 Maps answer the question: "If someone (or an agent) wanted to understand how I think about X, where should they start?"
 
 **Filename convention:** `kebab-case-theme.md`
-Example: `maps/stoicism-and-eastern-philosophy.md`
 
 **Frontmatter:**
 
 ```yaml
 ---
 title: "Stoicism & Eastern Philosophy"
-description: "The quest to become a true person. How I connect Marcus Aurelius, Taoism, tai chi, and the Jungian journey."
+description: "The quest to become a true person."
 domains:
   - philosophy
   - martial-arts
@@ -140,23 +160,7 @@ domains:
 ---
 ```
 
-**Body:** A narrative guide. Not just a list of links, but an opinionated walkthrough: "Start here, then read this, and notice how X connects to Y."
-
-### Inbox (`inbox/`)
-
-Unprocessed captures. URLs, rough notes, half-formed thoughts. The only rule: get it out of your head and into a file. Processing happens later.
-
-**Filename convention:** Anything. `YYYY-MM-DD-whatever.md` is fine.
-
-**Minimal frontmatter:**
-
-```yaml
----
-title: "Interesting article on embodied cognition"
-source_url: "https://example.com/article"
-captured: 2025-11-20
----
-```
+**Body:** A narrative guide. Not just a list of links, but an opinionated walkthrough.
 
 ## Domains
 
@@ -172,20 +176,13 @@ Domains are cross-cutting tags that identify intellectual territory. They're use
 | `history` | Long arcs, civilizations, what explains the present |
 | `personal-development` | Habits, motivation, self-improvement, the inner game |
 | `writing` | Craft of writing, communication, rhetoric, storytelling |
+| `communication` | Persuasion, public speaking, tribal signals |
 | `fiction` | Novels, dystopias, myths, narrative as a way of knowing |
 | `martial-arts` | Tai chi, internal arts, embodied practice, discipline |
 | `science` | Physics, biology, evolution, mathematics, computation |
+| `knowledge-management` | Note-taking, evergreen notes, zettelkasten, thinking tools |
 
 This list will grow. Domains are a controlled vocabulary, not free-form tags — keep them stable and meaningful.
-
-## Linking conventions
-
-- **Source → Idea:** A source's frontmatter `ideas` field lists the concept handles extracted from it.
-- **Idea → Source:** An idea's frontmatter `sources` field lists where it comes from.
-- **Idea → Idea:** An idea's `related` field links to connected concepts. Also use inline `[links](../ideas/concept.md)` in the body.
-- **Reflection → Idea/Source:** A reflection's frontmatter links to the ideas and sources it engages with.
-- **Map → Everything:** Maps link narratively to ideas, sources, and reflections.
-- **Inline links:** Use relative markdown links: `[Antifragility](../ideas/antifragility.md)`.
 
 ## Tier definitions
 
@@ -194,9 +191,20 @@ This list will grow. Domains are a controlled vocabulary, not free-form tags —
 | `perennial` | Identity-level. Frameworks I think *through*. Revisited for years. Would recommend to anyone. Shapes how I see the world. | Core philosophy books, foundational CS/neuroscience texts, life-shaping biographies |
 | `evergreen` | Well-integrated. Connects to many ideas. Has proven its value over time. I can recall key ideas without re-reading. | Strong non-fiction, influential essays, talks that changed my thinking |
 | `seasonal` | Interesting and timely. Useful now. May become evergreen, or may naturally compost. No pressure either way. | Podcast episodes, articles, conference talks, books that were good but not transformative |
-| `seedling` | Captured but unprocessed. Haven't read it yet, or read it but haven't extracted ideas. | Items in the inbox, to-read list, half-finished books |
 
 **Promotion is natural, not forced.** A seasonal source becomes evergreen when you find yourself returning to it, quoting it, connecting its ideas to other things. Don't overthink the initial classification — you can always change it.
+
+**New sources start without a tier.** A source only receives a tier once it has been processed with at least a `summary.md`. Unprocessed captures live in `notes/`.
+
+## Linking conventions
+
+- **Source → Idea:** A source's `summary.md` frontmatter `ideas` field lists the concept handles extracted from it. Body text links to idea files.
+- **Idea → Source:** An idea's frontmatter `sources` field lists where it comes from.
+- **Idea → Idea:** An idea's `related` field links to connected concepts. Also use inline links in the body.
+- **Source → Source:** Use inline relative links between source summaries.
+- **Note → Anything:** Notes can link freely to ideas, sources, and other notes using `@source-slug` references or inline markdown links.
+- **Map → Everything:** Maps link narratively to ideas, sources, and notes.
+- **Inline links:** Use relative markdown links: `[Antifragility](../ideas/antifragility.md)`.
 
 ## For AI agents
 
@@ -204,7 +212,8 @@ If you are an AI agent working with this garden:
 
 1. **Start with `maps/`** to understand thematic structure and the owner's intellectual priorities.
 2. **Use `ideas/`** as the primary knowledge graph. These are the atomic units of the owner's thinking.
-3. **Respect tiers.** When connecting new content to the garden, weight connections to `perennial` and `evergreen` sources more heavily. A new article that echoes a perennial idea is more notable than one that echoes a seasonal source.
-4. **Extract concept handles** from new content. If the content introduces a genuinely new idea (not already in `ideas/`), propose it as a new evergreen note. If it reinforces or challenges an existing idea, note that.
-5. **Preserve voice.** Reflections and idea notes are written in the owner's voice. When drafting, match the tone: concise, direct, bullet-point-friendly, with occasional dry humor. Avoid corporate speak. Avoid fluff.
-6. **The inbox is sacred.** When in doubt, capture to `inbox/`. It's better to capture too much than to lose a thought.
+3. **Use `summary.md`** as the entry point for any source. Read the summary before diving into chapter notes or source text.
+4. **Respect tiers.** When connecting new content to the garden, weight connections to `perennial` and `evergreen` sources more heavily. A new article that echoes a perennial idea is more notable than one that echoes a seasonal source.
+5. **Extract concept handles** from new content. If the content introduces a genuinely new idea (not already in `ideas/`), propose it as a new evergreen note. If it reinforces or challenges an existing idea, note that.
+6. **Preserve voice.** Notes and idea files are written in the owner's voice. When drafting, match the tone: concise, direct, bullet-point-friendly, with occasional dry humor. Avoid corporate speak. Avoid fluff.
+7. **When in doubt, capture to `notes/`.** Append to today's journal entry. It's better to capture too much than to lose a thought.

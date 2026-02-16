@@ -14,40 +14,39 @@ Most note-taking systems fail me in one of two ways: either everything is flat (
 Marcus Aurelius' Meditations is not the same kind of object as a podcast episode, even if they share an insight about resilience. The garden has explicit depth tiers — from bedrock philosophy to timely articles — so that foundational ideas maintain their gravitational pull without excluding fresh thinking.
 
 **2. Sources and ideas are separate layers.**
-A book is a *source*. "Antifragility" is an *idea*. Sources have tiers and permanence. Ideas are atomic, free-floating, and connect to each other as peers — regardless of whether they came from Taleb or a Tuesday blog post. The ideas form the web; the sources form the root system.
+A book is a *source*. "Antifragility" is an *idea*. Sources are deeply processed in their own folders — summaries, chapter notes, mind maps. Ideas are atomic, free-floating, and connect to each other as peers regardless of origin. The ideas form the web; the sources form the root system.
 
 **3. The garden is readable by both humans and machines.**
 Every note uses plain Markdown with YAML frontmatter. No proprietary format. No lock-in. This is deliberate: I want to be able to converse with an AI agent that is *grounded* in this garden — that knows my foundations, understands my vocabulary, and can help me think from a shared vantage point. Feed it a new article, and it should be able to say: "This connects to your thinking on X, and it challenges what you took from Y."
 
-**4. Things grow upward, not outward.**
-New content enters as a seedling. Some seedlings prove important and put down roots, becoming evergreen ideas connected to the core. Others stay seasonal — interesting, useful, but not identity-level. The system should make it easy to promote, but never pressure you to connect everything to everything.
+**4. Two passes: deep extraction, then cross-pollination.**
+First pass: process a source deeply. Extract everything interesting into its own folder — summary, chapter notes, key quotes, mind maps. This is about understanding *one thing* thoroughly. Second pass: extract atomic concept handles into `/ideas/` and connect them across sources. This is where the magic happens — where ideas from different books and talks meet for the first time.
 
 **5. Simplicity is a feature.**
 Plain markdown. Git. A directory structure you can hold in your head. Complexity can be layered on top (build steps, viewers, SRS) but the foundation must remain something you can edit with any text editor and navigate with `ls` and `grep`.
 
 ## The tier system
 
-Sources (books, talks, articles) are classified by how deeply they've shaped my thinking:
+Sources (books, essays, transcripts) are classified by how deeply they've shaped my thinking:
 
 | Tier | Name | What it means | Examples |
 |------|------|--------------|----------|
 | `perennial` | Deep roots | Identity-level. Frameworks I think *through*, not just *about*. Revisited for years. | Meditations, 7 Habits, Society of Mind |
 | `evergreen` | Strong branches | Proven ideas that connect broadly. Well-integrated into my thinking. | Antifragile, Sapiens, Radical Candor |
 | `seasonal` | Current growth | Interesting and timely. May become evergreen with time, or may fade naturally. | A good podcast episode, a thought-provoking article |
-| `seedling` | Just planted | Captured but not yet processed. In the inbox, waiting to be read or digested. | A URL someone shared, a book on the to-read list |
 
-Ideas (evergreen notes / concept handles) don't have tiers — they connect freely. But they do accumulate *weight* naturally through how many connections they have and how often they're revisited.
+Ideas (evergreen notes / concept handles) don't have tiers — they connect freely. But they accumulate *weight* naturally through how many connections they have and how often they're revisited.
 
 ## What's in the garden
 
 See [STRUCTURE.md](STRUCTURE.md) for the full layout. The short version:
 
 ```
-sources/       → Books, talks, articles, podcasts. The root system.
-ideas/         → Evergreen notes. Atomic concepts. The connective tissue.
-reflections/   → Personal notes. My thinking in my voice.
+sources/       → Books, essays, transcripts. Each in its own folder with summary, chapters, and artifacts.
+ideas/         → Evergreen notes. Atomic concept handles. The connective tissue.
+notes/         → Personal journal and reflections. Quick captures and deeper thinking.
+flashcards/    → Spaced repetition cards extracted from sources and ideas.
 maps/          → Thematic indexes. Curated entry points into clusters of ideas.
-inbox/         → Unprocessed captures. The compost pile.
 ```
 
 ## My intellectual roots
@@ -74,9 +73,9 @@ But those are layers on top. The foundation is just markdown, links, and clear s
 
 ## How to use this garden
 
-**As a human:** Browse `maps/` for thematic entry points. Read `sources/` for my notes on specific books and talks. Explore `ideas/` for atomic concepts. Follow the links.
+**As a human:** Browse `maps/` for thematic entry points. Open any source's `summary.md` for a quick overview. Explore `ideas/` for atomic concepts. Follow the links.
 
-**As an agent:** Read `STRUCTURE.md` for conventions. Parse YAML frontmatter for metadata. Use `maps/` as high-level context. Use `ideas/` as the primary knowledge graph. Use source tiers to weight relevance.
+**As an agent:** Read `STRUCTURE.md` for conventions. Parse YAML frontmatter for metadata. Use `maps/` as high-level context. Use `ideas/` as the primary knowledge graph. Use source tiers to weight relevance. Start with `summary.md` inside any source folder for the entry point.
 
 ---
 
