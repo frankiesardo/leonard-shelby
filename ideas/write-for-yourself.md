@@ -13,6 +13,8 @@ related:
   - the-personal-transaction
   - quality-is-its-own-reward
   - self-authorization
+  - boldness-over-hedging
+  - style-is-organic
 ---
 
 # Write for Yourself

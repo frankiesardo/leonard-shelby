@@ -13,6 +13,8 @@ domains:
 related:
   - simplicity-in-writing
   - boldness-over-hedging
+  - clear-thinking-clear-writing
+  - trust-your-material
 ---
 
 # Clutter

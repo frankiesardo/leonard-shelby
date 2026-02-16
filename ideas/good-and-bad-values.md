@@ -24,6 +24,9 @@ related:
   - self-acceptance-vs-self-affirmation
   - the-courage-to-be-normal
   - all-problems-are-interpersonal
+  - certainty-is-the-enemy-of-growth
+  - death-as-the-great-motivator
+  - the-art-of-competing
 ---
 
 # Good and Bad Values

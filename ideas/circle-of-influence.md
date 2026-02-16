@@ -21,6 +21,9 @@ related:
   - the-feedback-loop-from-hell
   - the-last-human-freedom
   - separation-of-tasks
+  - freedom-vs-equality
+  - self-acceptance-vs-self-affirmation
+  - theory-of-control
 ---
 
 # Circle of Influence

@@ -19,6 +19,13 @@ related:
   - paradoxical-intention
   - relaxed-concentration
   - self-1-vs-self-2
+  - building-your-trigger
+  - difficulty-as-engagement
+  - dropping-your-familiar-tools
+  - guard-the-door-of-your-mind
+  - investment-in-loss
+  - the-feedback-loop-from-hell
+  - thinking-brain-vs-feeling-brain
 ---
 
 # The Soft Zone

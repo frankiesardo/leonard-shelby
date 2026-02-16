@@ -12,6 +12,7 @@ domains:
 related:
   - simplicity-in-writing
   - process-over-product
+  - think-small
 ---
 
 # Unity of Form

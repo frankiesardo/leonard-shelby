@@ -18,6 +18,8 @@ related:
   - status-games
   - responsibility-vs-fault
   - the-blue-dot-effect
+  - origin-damage
+  - the-dramatic-question
 ---
 
 # The Hero-Maker Narrative

@@ -10,8 +10,8 @@ domains:
   - communication
   - authenticity
 related:
-  - the-effortless-style
-  - go-with-your-interests
+  - style-is-organic
+  - write-for-yourself
 ---
 
 # The Personal Transaction
@@ -28,6 +28,6 @@ Zinsser puts it bluntly: "Sell yourself, and your subject will exert its own app
 
 ## Connections
 
-- Fueled by [Go With Your Interests](go-with-your-interests.md) — passion is what the reader detects
-- Made credible through [The Effortless Style](the-effortless-style.md) — authenticity that's also well-crafted
+- Closely related to [Style Is Organic](style-is-organic.md) — if the transaction is what you're selling, style is what makes it authentic
+- Underpinned by [Write for Yourself](write-for-yourself.md) — the courage to be personal comes from writing for yourself first
 - Discussed in [On Writing Well](../sources/books/on-writing-well/summary.md)

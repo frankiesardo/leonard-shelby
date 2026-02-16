@@ -17,6 +17,7 @@ related:
   - circle-of-influence
   - the-existential-vacuum
   - thinking-brain-vs-feeling-brain
+  - all-problems-are-interpersonal
 ---
 
 # The Feedback Loop from Hell

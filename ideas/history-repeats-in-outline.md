@@ -16,6 +16,7 @@ related:
   - freedom-vs-equality
   - tragic-optimism
   - the-five-focusing-steps
+  - progress-as-increasing-heritage
 ---
 
 # History Repeats in Outline

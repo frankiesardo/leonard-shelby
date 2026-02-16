@@ -15,6 +15,8 @@ related:
   - freedom-vs-equality
   - the-biological-lessons-of-history
   - the-blue-dot-effect
+  - history-repeats-in-outline
+  - progress-as-increasing-heritage
 ---
 
 # Moral Codes Follow Economic Systems

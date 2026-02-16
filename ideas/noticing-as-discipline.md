@@ -14,6 +14,8 @@ related:
   - self-authorization
   - nonjudgmental-awareness
   - self-1-vs-self-2
+  - guard-the-door-of-your-mind
+  - unexpected-change-as-story-engine
 ---
 
 # Noticing as Discipline

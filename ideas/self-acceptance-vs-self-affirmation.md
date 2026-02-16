@@ -18,6 +18,7 @@ related:
   - the-courage-to-be-normal
   - circle-of-influence
   - good-and-bad-values
+  - life-as-a-series-of-moments
 ---
 
 # Self-Acceptance vs. Self-Affirmation

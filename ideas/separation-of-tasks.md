@@ -18,6 +18,7 @@ related:
   - all-problems-are-interpersonal
   - community-feeling
   - horizontal-relationships
+  - the-last-human-freedom
 ---
 
 # Separation of Tasks

@@ -16,6 +16,8 @@ related:
   - origin-damage
   - the-hero-maker-narrative
   - trust-the-reader
+  - status-games
+  - unexpected-change-as-story-engine
 ---
 
 # The Dramatic Question

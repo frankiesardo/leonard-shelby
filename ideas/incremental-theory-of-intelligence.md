@@ -23,6 +23,7 @@ related:
   - origin-damage
   - the-sacred-flaw
   - desirable-difficulties
+  - beginners-mind
 ---
 
 # Incremental Theory of Intelligence

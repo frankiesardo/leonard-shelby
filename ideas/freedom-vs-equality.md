@@ -14,6 +14,9 @@ related:
   - the-biological-lessons-of-history
   - circle-of-influence
   - the-last-human-freedom
+  - history-repeats-in-outline
+  - moral-codes-follow-economic-systems
+  - war-as-the-norm
 ---
 
 # Freedom vs Equality

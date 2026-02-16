@@ -14,6 +14,8 @@ related:
   - inside-out
   - empathic-listening
   - newtons-laws-of-emotion
+  - horizontal-relationships
+  - status-games
 ---
 
 # Emotional Bank Account

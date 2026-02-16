@@ -17,6 +17,7 @@ related:
   - the-outsider-advantage
   - cognitive-entrenchment
   - lateral-thinking-with-withered-technology
+  - deliberate-amateurs
 ---
 
 # Analogical Thinking

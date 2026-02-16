@@ -16,6 +16,7 @@ related:
   - moral-codes-follow-economic-systems
   - the-biological-lessons-of-history
   - meaning-through-suffering
+  - the-uncomfortable-truth
 ---
 
 # Progress as Increasing Heritage

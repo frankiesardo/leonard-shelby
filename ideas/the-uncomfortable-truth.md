@@ -19,6 +19,10 @@ related:
   - death-as-the-great-motivator
   - the-brain-as-model-maker
   - the-hero-maker-narrative
+  - newtons-laws-of-emotion
+  - the-blue-dot-effect
+  - the-formula-of-humanity
+  - thinking-brain-vs-feeling-brain
 ---
 
 # The Uncomfortable Truth

@@ -17,6 +17,7 @@ related:
   - non-bottleneck-utilization
   - drum-buffer-rope
   - concentration-of-wealth
+  - dependent-events-and-statistical-fluctuations
 ---
 
 # Bottleneck

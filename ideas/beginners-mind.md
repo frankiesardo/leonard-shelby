@@ -22,6 +22,9 @@ related:
   - cognitive-entrenchment
   - deliberate-amateurs
   - dropping-your-familiar-tools
+  - kind-vs-wicked-learning-environments
+  - match-quality
+  - the-outsider-advantage
 ---
 
 # Beginner's Mind

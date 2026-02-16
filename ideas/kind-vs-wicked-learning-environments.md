@@ -20,6 +20,10 @@ related:
   - desirable-difficulties
   - making-smaller-circles
   - beginners-mind
+  - deliberate-amateurs
+  - dropping-your-familiar-tools
+  - lateral-thinking-with-withered-technology
+  - match-quality
 ---
 
 # Kind vs. Wicked Learning Environments

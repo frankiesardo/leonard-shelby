@@ -18,6 +18,7 @@ related:
   - dropping-your-familiar-tools
   - beginners-mind
   - certainty-is-the-enemy-of-growth
+  - lateral-thinking-with-withered-technology
 ---
 
 # Cognitive Entrenchment

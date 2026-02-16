@@ -23,6 +23,12 @@ related:
   - good-and-bad-values
   - the-art-of-competing
   - nonjudgmental-awareness
+  - desirable-difficulties
+  - get-on-the-plane
+  - inside-out
+  - life-as-a-series-of-moments
+  - self-transcendence
+  - think-small
 ---
 
 # Process over Product

@@ -18,6 +18,9 @@ related:
   - good-and-bad-values
   - the-hero-maker-narrative
   - certainty-is-the-enemy-of-growth
+  - incremental-theory-of-intelligence
+  - status-games
+  - the-brain-as-model-maker
 ---
 
 # The Sacred Flaw

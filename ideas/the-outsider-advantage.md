@@ -16,6 +16,7 @@ related:
   - cognitive-entrenchment
   - lateral-thinking-with-withered-technology
   - beginners-mind
+  - deliberate-amateurs
 ---
 
 # The Outsider Advantage

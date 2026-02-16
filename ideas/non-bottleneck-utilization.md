@@ -15,6 +15,7 @@ related:
   - throughput-accounting
   - dependent-events-and-statistical-fluctuations
   - the-five-focusing-steps
+  - drum-buffer-rope
 ---
 
 # Non-Bottleneck Utilization

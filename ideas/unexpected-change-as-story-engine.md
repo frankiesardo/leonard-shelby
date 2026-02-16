@@ -16,6 +16,7 @@ related:
   - the-dramatic-question
   - slowing-down-time
   - noticing-as-discipline
+  - trust-the-reader
 ---
 
 # Unexpected Change as Story Engine

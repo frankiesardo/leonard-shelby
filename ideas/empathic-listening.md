@@ -14,6 +14,7 @@ related:
   - emotional-bank-account
   - abundance-mentality
   - inside-out
+  - horizontal-relationships
 ---
 
 # Empathic Listening

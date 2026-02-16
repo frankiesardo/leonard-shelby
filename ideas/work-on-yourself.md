@@ -16,6 +16,13 @@ related:
   - incremental-theory-of-intelligence
   - process-over-product
   - seasons-of-life
+  - guard-the-door-of-your-mind
+  - making-sandals
+  - quadrant-ii
+  - reasons-before-answers
+  - self-transcendence
+  - the-day-that-turns-your-life-around
+  - will-to-meaning
 ---
 
 "Learn to work harder on yourself than you do on your job." Jim Rohn's mentor Earl Shoaff gave him this clue at age 25, and it changed everything. The insight is deceptively simple: you don't get paid for time, you get paid for *value* — and the way to create more value is to *become* more valuable. Not by working more hours, but by developing yourself.

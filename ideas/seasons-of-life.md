@@ -14,6 +14,7 @@ related:
   - making-sandals
   - work-on-yourself
   - the-day-that-turns-your-life-around
+  - the-existential-vacuum
 ---
 
 "Life and business is like the changing seasons." Jim Rohn's four-part metaphor captures the cyclical nature of all human experience. The key phrase: *you cannot change the seasons, but you can change yourself*. That's how life gets better — not by chance, but by change.

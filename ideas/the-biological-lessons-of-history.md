@@ -17,6 +17,9 @@ related:
   - concentration-of-wealth
   - war-as-the-norm
   - investment-in-loss
+  - moral-codes-follow-economic-systems
+  - progress-as-increasing-heritage
+  - religion-as-social-necessity
 ---
 
 # The Biological Lessons of History

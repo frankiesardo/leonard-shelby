@@ -15,6 +15,7 @@ related:
   - choose-your-struggle
   - good-and-bad-values
   - life-as-a-series-of-moments
+  - tragic-optimism
 ---
 
 # The Courage to Be Normal

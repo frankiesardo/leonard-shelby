@@ -20,6 +20,8 @@ related:
   - choose-your-struggle
   - hope-as-double-edged-sword
   - socratic-method-in-management
+  - community-feeling
+  - tragic-optimism
 ---
 
 # Will to Meaning

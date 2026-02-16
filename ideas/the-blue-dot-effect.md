@@ -15,6 +15,7 @@ related:
   - the-uncomfortable-truth
   - hope-as-double-edged-sword
   - moral-codes-follow-economic-systems
+  - the-hero-maker-narrative
 ---
 
 # The Blue Dot Effect

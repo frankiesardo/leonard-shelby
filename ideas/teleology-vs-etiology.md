@@ -17,6 +17,7 @@ related:
   - inside-out
   - choose-your-struggle
   - the-backwards-law
+  - life-as-a-series-of-moments
 ---
 
 # Teleology vs. Etiology

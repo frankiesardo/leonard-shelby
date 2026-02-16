@@ -19,6 +19,7 @@ related:
   - self-1-vs-self-2
   - the-brain-as-model-maker
   - the-hero-maker-narrative
+  - the-formula-of-humanity
 ---
 
 # Thinking Brain vs Feeling Brain

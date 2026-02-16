@@ -17,6 +17,9 @@ related:
   - stress-and-recovery
   - work-on-yourself
   - reasons-before-answers
+  - choose-your-struggle
+  - life-as-a-series-of-moments
+  - the-existential-vacuum
 ---
 
 # Quadrant II

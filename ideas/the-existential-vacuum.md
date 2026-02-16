@@ -23,6 +23,7 @@ related:
   - theory-of-control
   - community-feeling
   - all-problems-are-interpersonal
+  - tragic-optimism
 ---
 
 # The Existential Vacuum

@@ -14,6 +14,8 @@ related:
   - freedom-vs-equality
   - the-biological-lessons-of-history
   - bottleneck
+  - history-repeats-in-outline
+  - war-as-the-norm
 ---
 
 # Concentration of Wealth

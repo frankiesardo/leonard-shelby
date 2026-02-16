@@ -13,6 +13,7 @@ related:
   - simplicity-in-writing
   - clutter
   - trust-the-reader
+  - humor-as-a-serious-tool
 ---
 
 # Trust Your Material

@@ -18,6 +18,7 @@ related:
   - the-last-human-freedom
   - separation-of-tasks
   - teleology-vs-etiology
+  - the-hero-maker-narrative
 ---
 
 # Responsibility vs. Fault

@@ -18,6 +18,9 @@ related:
   - investment-in-loss
   - meaning-through-suffering
   - choose-your-struggle
+  - hope-as-double-edged-sword
+  - making-sandals
+  - newtons-laws-of-emotion
 ---
 
 # Pain as Universal Constant

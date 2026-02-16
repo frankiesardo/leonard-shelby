@@ -21,6 +21,7 @@ related:
   - dependent-events-and-statistical-fluctuations
   - making-smaller-circles
   - numbers-to-leave-numbers
+  - socratic-method-in-management
 ---
 
 # Theory of Constraints

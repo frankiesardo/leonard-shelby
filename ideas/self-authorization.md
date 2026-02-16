@@ -12,6 +12,7 @@ domains:
 related:
   - noticing-as-discipline
   - write-for-yourself
+  - trust-the-reader
 ---
 
 # Self-Authorization

@@ -19,6 +19,8 @@ related:
   - the-soft-zone
   - the-backwards-law
   - paradoxical-intention
+  - noticing-as-discipline
+  - the-art-of-competing
 ---
 
 # Self 1 vs Self 2

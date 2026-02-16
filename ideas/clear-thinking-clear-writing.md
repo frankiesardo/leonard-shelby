@@ -13,6 +13,7 @@ domains:
 related:
   - simplicity-in-writing
   - clutter
+  - guard-the-door-of-your-mind
 ---
 
 # Clear Thinking Produces Clear Writing

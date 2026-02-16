@@ -12,6 +12,9 @@ domains:
 related:
   - clutter
   - clear-thinking-clear-writing
+  - think-small
+  - trust-your-material
+  - unity-of-form
 ---
 
 # Simplicity in Writing

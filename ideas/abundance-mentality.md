@@ -14,6 +14,7 @@ related:
   - inside-out
   - emotional-bank-account
   - incremental-theory-of-intelligence
+  - empathic-listening
 ---
 
 # Abundance Mentality

@@ -13,6 +13,7 @@ related:
   - revision-is-composition
   - investment-in-loss
   - the-soft-zone
+  - desirable-difficulties
 ---
 
 # Difficulty as Engagement

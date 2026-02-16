@@ -15,6 +15,8 @@ related:
   - the-uncomfortable-truth
   - the-sacred-flaw
   - trust-the-reader
+  - theory-of-control
+  - unexpected-change-as-story-engine
 ---
 
 # The Brain as Model-Maker

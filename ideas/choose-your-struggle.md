@@ -18,6 +18,12 @@ related:
   - will-to-meaning
   - meaning-through-suffering
   - pain-as-universal-constant
+  - death-as-the-great-motivator
+  - match-quality
+  - responsibility-vs-fault
+  - teleology-vs-etiology
+  - the-art-of-competing
+  - the-courage-to-be-normal
 ---
 
 # Choose Your Struggle

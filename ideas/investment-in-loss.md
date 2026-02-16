@@ -25,6 +25,10 @@ related:
   - the-sampling-period
   - match-quality
   - desirable-difficulties
+  - certainty-is-the-enemy-of-growth
+  - making-sandals
+  - meaning-through-suffering
+  - pain-as-universal-constant
 ---
 
 # Investment in Loss

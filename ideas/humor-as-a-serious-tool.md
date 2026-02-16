@@ -12,6 +12,7 @@ domains:
   - criticism
 related:
   - trust-your-material
+  - paradoxical-intention
 ---
 
 # Humor as a Serious Tool

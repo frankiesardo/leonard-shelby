@@ -14,6 +14,7 @@ domains:
 related:
   - process-over-product
   - write-for-yourself
+  - get-on-the-plane
 ---
 
 # Quality Is Its Own Reward

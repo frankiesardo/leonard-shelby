@@ -19,6 +19,8 @@ related:
   - seasons-of-life
   - pain-as-universal-constant
   - relaxed-concentration
+  - making-sandals
+  - slowing-down-time
 ---
 
 # Stress and Recovery

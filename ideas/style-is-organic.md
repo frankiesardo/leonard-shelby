@@ -12,6 +12,7 @@ domains:
 related:
   - the-personal-transaction
   - write-for-yourself
+  - boldness-over-hedging
 ---
 
 # Style Is Organic

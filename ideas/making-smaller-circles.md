@@ -17,6 +17,8 @@ related:
   - think-small
   - theory-of-constraints
   - kind-vs-wicked-learning-environments
+  - letting-it-happen
+  - stress-and-recovery
 ---
 
 # Making Smaller Circles
