@@ -147,7 +147,7 @@ sources:
 
 Socratic dialogues from `/reflect` sessions. Each file captures a back-and-forth where the agent asked probing questions to surface the owner's actual positions, tensions, and open questions.
 
-**This is the highest-value content for AI agents.** Conversations capture what the owner *thinks*, not just what the sources say.
+**This is the highest-value content for AI agents.** Conversations capture what the owner *thinks*, not just what the sources say. The owner's positions, synthesis, and cross-source connections live here — never in `ideas/` or `sources/`, which should faithfully represent what the *author* said.
 
 **Filename convention:** `YYYY-MM-DD-on-{topic-slug}.md`
 

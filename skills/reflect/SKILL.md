@@ -124,24 +124,24 @@ One-line description of the thread that was explored.
 
 The **Positions** section distills what the owner said into clear stances. The **Open questions** section captures threads worth returning to.
 
-## Step 5: Propose Garden Updates
+## Step 5: Keep Sources Clean
 
-After saving, propose (but do NOT apply) updates to other garden files:
+**The conversation file is the home for all personal synthesis.** Do NOT update `ideas/` or `sources/` files with the owner's positions, opinions, or cross-source synthesis.
 
-- New ideas that crystallized during the conversation
-- Positions to add to existing idea files
-- New connections between sources
-- Tier changes if the conversation revealed a source is more/less important than currently rated
+Why: idea files and source summaries should faithfully represent what the *author* said. If the owner's interpretation gets mixed in, they'll read it six months later and think the author said it. Conversations are where the owner's voice lives. Sources are where the author's voice lives.
 
-Present each proposal as a checklist. The owner approves or dismisses each one.
+**What goes in the conversation file:**
+- Positions the owner arrived at
+- Tensions they noticed between sources
+- New concept handles they coined (like "the X-shaped hole")
+- Connections across sources that represent the owner's thinking, not the author's
 
-```markdown
-## Proposed garden updates
+**What does NOT happen:**
+- No new files in `ideas/` for owner-coined concepts (those live in conversations)
+- No adding owner positions to existing idea files
+- No modifying source summaries with personal takes
 
-- [ ] Add position to `ideas/antifragility.md`: "Planning direction is antifragile; planning tactics is fragile"
-- [ ] New idea: `ideas/directional-planning.md`
-- [ ] Add connection: `the-goal` <-> `the-7-habits` on constraint-based prioritization
-```
+The conversation's `sources` and `ideas` frontmatter fields link back to the relevant garden files. That's the connection — the conversation *references* ideas and sources without *modifying* them.
 
 ## Naming Conventions
 
