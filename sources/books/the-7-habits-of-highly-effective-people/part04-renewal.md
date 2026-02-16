@@ -35,6 +35,12 @@ The habit that makes all the others possible. Covey's final move is both practic
 
 > "Peace of mind comes when your life is in harmony with true principles and values and in no other way."
 
+> "I don't have time to sharpen the saw. I'm too busy sawing!"
+
+> "A tendency that's run through your family for generations can stop with you. You're a transition person — a link between the past and the future. And your own change can affect many, many lives downstream."
+
+> "Habit 7 is taking time to sharpen the saw. It surrounds the other habits on the Seven Habits paradigm because it is the habit that makes all the others possible."
+
 ## Q&A
 
 **Q:** You've been exercising regularly, reading, and meditating — but your relationships at work are still strained. What dimension of renewal are you neglecting?

@@ -34,6 +34,10 @@ The three habits of self-mastery that move you from dependence to independence. 
 
 > "Look at the word responsibility — 'response-ability' — the ability to choose your response."
 
+> "We are either the second creation of our own proactive design, or we are the second creation of other people's agendas, of circumstances, or of past habits."
+
+> "Proactive people focus their efforts in the Circle of Influence. They work on the things they can do something about. The nature of their energy is positive, enlarging and magnifying, causing their Circle of Influence to increase."
+
 ## Q&A
 
 **Q:** A colleague complains constantly about their boss's unreasonable demands but never pushes back or proposes alternatives. Which habit are they missing, and what specifically would applying it look like?

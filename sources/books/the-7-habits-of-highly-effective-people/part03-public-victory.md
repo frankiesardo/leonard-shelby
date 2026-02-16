@@ -35,6 +35,12 @@ The shift from independence to interdependence. Before diving into the three hab
 
 > "Valuing the differences is the essence of synergy — the mental, the emotional, the psychological differences between people."
 
+> "An Emotional Bank Account is a metaphor that describes the amount of trust that's been built up in a relationship. It's the feeling of safeness you have with another human being."
+
+> "Win/Win is not a personality technique. It's a total paradigm of human interaction. It comes from a character of integrity, maturity, and the Abundance Mentality. It grows out of high-trust relationships."
+
+> "The Abundance Mentality flows out of a deep inner sense of personal worth and security. It is the paradigm that there is plenty out there and enough to spare for everybody."
+
 ## Q&A
 
 **Q:** A company president talks about cooperation but runs an internal contest where one manager wins a trip to Bermuda. What's wrong, and which habit explains it?

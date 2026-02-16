@@ -6,6 +6,7 @@ aliases:
   - schedule your priorities
 sources:
   - the-7-habits-of-highly-effective-people
+  - big-rocks-covey
 domains:
   - personal-development
   - management
@@ -39,6 +40,10 @@ Quadrant II requires saying no — to Quadrant III distractions, to Quadrant IV 
 
 The practical test: look at your calendar from last week. How many hours were Quadrant II? If the answer is "almost none," you're living reactively, and the fires will keep coming.
 
+## The Big Rocks metaphor
+
+The most vivid illustration of Quadrant II comes from Covey's [Big Rocks demonstration](../sources/transcripts/big-rocks-covey/summary.md): fill a jar with fist-sized rocks first, then gravel, sand, and water all fit around them. Reverse the order and the big rocks never go in. "If you don't put the big rocks in first, you'll never get them in at all." The big rocks are your Quadrant II priorities — relationships, health, important projects, renewal. The gravel is email. The sand is meetings. The water is everything else.
+
 ## Connections
 
 - [P/PC Balance](p-pc-balance.md) — PC activities (sharpening the saw) are quintessential Quadrant II
@@ -46,3 +51,4 @@ The practical test: look at your calendar from last week. How many hours were Qu
 - [Inside-Out](inside-out.md) — Quadrant II living requires internal discipline, not external pressure
 - [Stress and Recovery](stress-and-recovery.md) — recovery is a Quadrant II activity that directly improves Quadrant I performance
 - Discussed in [The 7 Habits of Highly Effective People](../sources/books/the-7-habits-of-highly-effective-people/summary.md)
+- Demonstrated in [Big Rocks — Covey](../sources/transcripts/big-rocks-covey/summary.md)

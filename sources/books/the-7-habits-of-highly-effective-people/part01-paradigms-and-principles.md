@@ -31,6 +31,12 @@ The foundation for everything that follows. Covey opens with a sharp distinction
 
 > "Effectiveness lies in the balance — what I call the P/PC Balance. P stands for production of desired results, the golden eggs. PC stands for production capability, the ability or asset that produces the golden eggs."
 
+> "If I try to use human influence strategies and tactics of how to get other people to do what I want… while my character is fundamentally flawed, marked by duplicity and insincerity — then, in the long run, I cannot be successful. Only basic goodness gives life to technique."
+
+> "Did you ever consider how ridiculous it would be to try to cram on a farm — to forget to plant in the spring, play all summer and then cram in the fall to bring in the harvest? The farm is a natural system. The price must be paid and the process followed."
+
+> "What you are shouts so loudly in my ears I cannot hear what you say." — Emerson, quoted by Covey
+
 ## Q&A
 
 **Q:** A manager notices that her team's output has dropped. She sends them to a "motivation and positivity" workshop. Based on Part One, what's likely wrong with this approach?

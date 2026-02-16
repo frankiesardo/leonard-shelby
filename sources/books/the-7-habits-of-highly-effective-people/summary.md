@@ -82,3 +82,9 @@ Covey's argument is deceptively structural: effectiveness is not a set of tricks
 > "Most people do not listen with the intent to understand; they listen with the intent to reply."
 
 > "Sow a thought, reap an action; sow an action, reap a habit; sow a habit, reap a character; sow a character, reap a destiny."
+
+> "If I try to use human influence strategies and tactics of how to get other people to do what I want, to work better, to be more motivated, to like me and each other — while my character is fundamentally flawed, marked by duplicity and insincerity — then, in the long run, I cannot be successful. Only basic goodness gives life to technique."
+
+> "I don't have time to sharpen the saw. I'm too busy sawing!"
+
+> "A tendency that's run through your family for generations can stop with you. You're a transition person — a link between the past and the future."
