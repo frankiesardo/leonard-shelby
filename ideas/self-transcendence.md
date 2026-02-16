@@ -6,6 +6,7 @@ aliases:
   - self-actualization as side-effect
 sources:
   - mans-search-for-meaning
+  - the-courage-to-be-disliked
 domains:
   - philosophy
   - personal-development
@@ -16,6 +17,7 @@ related:
   - inside-out
   - work-on-yourself
   - process-over-product
+  - community-feeling
 ---
 
 # Self-Transcendence
@@ -41,4 +43,5 @@ In clinical practice, "the cue to cure is self-transcendence." A neurotic's self
 - [Inside-Out](inside-out.md) begins with working on yourself but ultimately points outward -- to contribution, to service
 - [Work on Yourself](work-on-yourself.md) is the precondition, not the destination
 - [Process Over Product](process-over-product.md) shares the structural insight that the best outcomes arrive as by-products of proper engagement, not as direct targets
-- Discussed in [Man's Search for Meaning](../sources/books/mans-search-for-meaning/summary.md)
+- Adler's [Community Feeling](community-feeling.md) is the social version of self-transcendence: the shift from self-interest to social interest, from "what can the world do for me?" to "what can I contribute?" Frankl's lens is existential; Adler's is interpersonal. Same destination.
+- Discussed in [Man's Search for Meaning](../sources/books/mans-search-for-meaning/summary.md) and [The Courage to Be Disliked](../sources/books/the-courage-to-be-disliked/summary.md)

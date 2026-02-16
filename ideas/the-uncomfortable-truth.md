@@ -5,6 +5,7 @@ aliases:
   - existential insignificance
 sources:
   - everything-is-fucked
+  - the-science-of-storytelling
 domains:
   - philosophy
   - personal-development
@@ -16,6 +17,8 @@ related:
   - progress-as-increasing-heritage
   - the-existential-vacuum
   - death-as-the-great-motivator
+  - the-brain-as-model-maker
+  - the-hero-maker-narrative
 ---
 
 # The Uncomfortable Truth

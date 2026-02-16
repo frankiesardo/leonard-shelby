@@ -6,6 +6,7 @@ aliases:
   - internalization of fundamentals
 sources:
   - the-art-of-learning
+  - the-inner-game-of-tennis
 domains:
   - personal-development
   - cognitive-science
@@ -14,6 +15,8 @@ related:
   - slowing-down-time
   - beginners-mind
   - theory-of-constraints
+  - self-1-vs-self-2
+  - letting-it-happen
 ---
 
 # Numbers to Leave Numbers
@@ -39,4 +42,5 @@ Jackson Pollock could draw like a camera but chose to splatter paint. The absenc
 - [Making Smaller Circles](making-smaller-circles.md) is the method — condense technique while preserving essence
 - [Slowing Down Time](slowing-down-time.md) is the result — when fundamentals are unconscious, conscious perception sharpens
 - Relates to [Beginner's Mind](beginners-mind.md) — to teach what you've internalized, you must reverse the process
-- Discussed in [The Art of Learning](../sources/books/the-art-of-learning/summary.md)
+- Gallwey's "groove theory" in [Self 1 vs Self 2](self-1-vs-self-2.md) describes the same progression from the opposite direction -- technique leaves Self 1's control and becomes Self 2's unconscious competence. [Letting It Happen](letting-it-happen.md) is the endpoint of the process: technique so internalized that only trust can access it.
+- Discussed in [The Art of Learning](../sources/books/the-art-of-learning/summary.md) and [The Inner Game of Tennis](../sources/books/the-inner-game-of-tennis/summary.md)

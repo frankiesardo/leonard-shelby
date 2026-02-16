@@ -16,6 +16,7 @@ related:
   - building-your-trigger
   - think-small
   - theory-of-constraints
+  - kind-vs-wicked-learning-environments
 ---
 
 # Making Smaller Circles
@@ -42,4 +43,5 @@ The chess parallel: the British Grandmaster Michael Adams appears to completely 
 - Enables [Slowing Down Time](slowing-down-time.md) — depth of internalization is what frees the conscious mind
 - Same condensing process applies to [Building Your Trigger](building-your-trigger.md) — shrink the routine while keeping the effect
 - Zinsser's [Think Small](think-small.md) is the writing equivalent: reduce scope until the subject becomes vivid
+- Epstein's [Kind vs. Wicked Learning Environments](kind-vs-wicked-learning-environments.md) provides a critical qualifier: making smaller circles is a strategy for kind domains (chess, martial arts) where patterns repeat and depth compounds. In wicked domains, the opposite strategy -- broadening circles -- may be more effective
 - Discussed in [The Art of Learning](../sources/books/the-art-of-learning/summary.md)

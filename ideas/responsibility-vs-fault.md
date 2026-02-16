@@ -6,6 +6,7 @@ aliases:
   - response-ability
 sources:
   - the-subtle-art-of-not-giving-a-fuck
+  - the-courage-to-be-disliked
 domains:
   - philosophy
   - personal-development
@@ -15,6 +16,8 @@ related:
   - good-and-bad-values
   - choose-your-struggle
   - the-last-human-freedom
+  - separation-of-tasks
+  - teleology-vs-etiology
 ---
 
 # Responsibility vs. Fault
@@ -37,4 +40,6 @@ This also explains the trap of victimhood. Manson doesn't deny that bad things h
 - [Inside-Out](inside-out.md) — the same principle in Covey's framework: change starts with your response, not your circumstances
 - [Good and Bad Values](good-and-bad-values.md) — bad values externalize responsibility; good values keep it internal
 - [Choose Your Struggle](choose-your-struggle.md) — once you accept responsibility, you can choose your problems instead of feeling victimized by them
-- Discussed in [The Subtle Art of Not Giving a F*ck](../sources/books/the-subtle-art-of-not-giving-a-fuck/summary.md)
+- Adler's [Separation of Tasks](separation-of-tasks.md) is this idea formalized: fault is about who caused the situation (their task), responsibility is about who deals with it now (your task). Manson's framework and Adler's framework are nearly identical in structure.
+- [Teleology vs. Etiology](teleology-vs-etiology.md) is the deeper Adlerian move: stop asking "whose fault is this?" (etiology) and start asking "what am I trying to achieve?" (teleology)
+- Discussed in [The Subtle Art of Not Giving a F*ck](../sources/books/the-subtle-art-of-not-giving-a-fuck/summary.md) and [The Courage to Be Disliked](../sources/books/the-courage-to-be-disliked/summary.md)

@@ -6,6 +6,7 @@ aliases:
   - Jonah's method
 sources:
   - the-goal
+  - the-courage-to-be-disliked
 domains:
   - management
   - communication
@@ -14,6 +15,7 @@ related:
   - theory-of-constraints
   - reasons-before-answers
   - will-to-meaning
+  - horizontal-relationships
 ---
 
 # The Socratic Method in Management
@@ -36,4 +38,5 @@ The limitation Goldratt acknowledges through Julie: pure Socratic questioning, w
 
 - Mirrors the concept of [Reasons Before Answers](reasons-before-answers.md)
 - Central to how the [Theory of Constraints](theory-of-constraints.md) is taught in *The Goal*
-- Discussed in [The Goal](../sources/books/the-goal/summary.md)
+- Adler's [Horizontal Relationships](horizontal-relationships.md) explains *why* the Socratic method works: it treats the learner as an equal, not a subordinate. Praise and direct instruction are vertical acts; questions are horizontal. The philosopher in *The Courage to Be Disliked* uses exactly this method with the youth -- five nights of dialogue, never giving answers, always drawing them out.
+- Discussed in [The Goal](../sources/books/the-goal/summary.md) and [The Courage to Be Disliked](../sources/books/the-courage-to-be-disliked/summary.md)

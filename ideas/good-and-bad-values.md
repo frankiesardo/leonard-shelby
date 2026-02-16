@@ -7,6 +7,7 @@ aliases:
   - values as metrics
 sources:
   - the-subtle-art-of-not-giving-a-fuck
+  - the-courage-to-be-disliked
 domains:
   - philosophy
   - personal-development
@@ -18,6 +19,11 @@ related:
   - process-over-product
   - circle-of-influence
   - the-formula-of-humanity
+  - the-sacred-flaw
+  - status-games
+  - self-acceptance-vs-self-affirmation
+  - the-courage-to-be-normal
+  - all-problems-are-interpersonal
 ---
 
 # Good and Bad Values
@@ -49,4 +55,5 @@ This is why Manson says the real work is at the values level, not the behavior l
 - [Inside-Out](inside-out.md) — Covey's Character Ethic vs. Personality Ethic maps directly onto good vs. bad values
 - [Process over Product](process-over-product.md) — good values are process-oriented by definition
 - [Circle of Influence](circle-of-influence.md) — good values live inside the Circle of Influence; bad values depend on the Circle of Concern
-- Discussed in [The Subtle Art of Not Giving a F*ck](../sources/books/the-subtle-art-of-not-giving-a-fuck/summary.md)
+- Adler's framework maps cleanly onto Manson's: [self-acceptance](self-acceptance-vs-self-affirmation.md) is a good value (internal, evidence-based); self-affirmation is a bad value (illusory, fragile). "Being special" is a bad value; [the courage to be normal](the-courage-to-be-normal.md) is a good one. [All problems are interpersonal](all-problems-are-interpersonal.md) explains why bad values are destructive: they are interpersonal performances (dominance, approval-seeking) rather than internal processes (honesty, contribution).
+- Discussed in [The Subtle Art of Not Giving a F*ck](../sources/books/the-subtle-art-of-not-giving-a-fuck/summary.md) and [The Courage to Be Disliked](../sources/books/the-courage-to-be-disliked/summary.md)

@@ -6,6 +6,7 @@ aliases:
   - flexible focus
 sources:
   - the-art-of-learning
+  - the-inner-game-of-tennis
 domains:
   - personal-development
   - cognitive-science
@@ -16,6 +17,8 @@ related:
   - circle-of-influence
   - the-last-human-freedom
   - paradoxical-intention
+  - relaxed-concentration
+  - self-1-vs-self-2
 ---
 
 # The Soft Zone
@@ -40,4 +43,5 @@ The progression is three stages: first, learn to flow with distraction (survive 
 - Foundation for [Making Sandals](making-sandals.md) — the internal solution to external problems
 - Complements [Stress and Recovery](stress-and-recovery.md) — the soft zone is what you return to during recovery
 - Covey's [Circle of Influence](circle-of-influence.md) is the same idea at a life level — don't waste energy on what you can't control; focus on your response
-- Discussed in [The Art of Learning](../sources/books/the-art-of-learning/summary.md)
+- Gallwey's [Relaxed Concentration](relaxed-concentration.md) is the same state from a different angle -- what Waitzkin calls the Soft Zone, Gallwey calls "the art of relaxed concentration." Both describe absorbed, effortless focus that doesn't shatter under pressure.
+- Discussed in [The Art of Learning](../sources/books/the-art-of-learning/summary.md) and [The Inner Game of Tennis](../sources/books/the-inner-game-of-tennis/summary.md)

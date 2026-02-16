@@ -14,6 +14,7 @@ related:
   - making-smaller-circles
   - numbers-to-leave-numbers
   - stress-and-recovery
+  - relaxed-concentration
 ---
 
 # Slowing Down Time
@@ -39,4 +40,5 @@ The practical path: internalize techniques through [Making Smaller Circles](maki
 - Depends on [Making Smaller Circles](making-smaller-circles.md) and [Numbers to Leave Numbers](numbers-to-leave-numbers.md) — internalization is the prerequisite for enhanced perception
 - Complements [Stress and Recovery](stress-and-recovery.md) — recovery keeps the conscious mind fresh for precision
 - The perceptual foundation for reading intention, controlling opponents, and what appears to be "the mystical"
-- Discussed in [The Art of Learning](../sources/books/the-art-of-learning/summary.md)
+- Gallwey describes the same phenomenon in [Relaxed Concentration](relaxed-concentration.md): "the ball seemed to slow down" and "the court seemed wider" -- natural results of true focus. His ball-machine drill, progressively increasing speed, trained players into a present-moment alertness where time expanded.
+- Discussed in [The Art of Learning](../sources/books/the-art-of-learning/summary.md) and [The Inner Game of Tennis](../sources/books/the-inner-game-of-tennis/summary.md)

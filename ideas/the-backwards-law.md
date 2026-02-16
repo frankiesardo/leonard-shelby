@@ -6,6 +6,7 @@ aliases:
   - the paradox of desire
 sources:
   - the-subtle-art-of-not-giving-a-fuck
+  - the-courage-to-be-disliked
 domains:
   - philosophy
   - personal-development
@@ -16,6 +17,10 @@ related:
   - inside-out
   - investment-in-loss
   - paradoxical-intention
+  - self-1-vs-self-2
+  - letting-it-happen
+  - self-acceptance-vs-self-affirmation
+  - the-courage-to-be-normal
 ---
 
 # The Backwards Law
@@ -38,4 +43,7 @@ The practical move is counterintuitive: instead of asking "how do I feel good?" 
 - [The Feedback Loop from Hell](the-feedback-loop-from-hell.md) is the Backwards Law in its most destructive form — feeling bad about feeling bad
 - [Inside-Out](inside-out.md) echoes the same insight from Covey: change the lens, not the scenery
 - [Investment in Loss](investment-in-loss.md) applies the same logic to skill development — growth requires surrendering what you have
-- Discussed in [The Subtle Art of Not Giving a F*ck](../sources/books/the-subtle-art-of-not-giving-a-fuck/summary.md)
+- Gallwey's [Letting It Happen](letting-it-happen.md) is the Backwards Law applied to performance: the harder you try to hit the ball well (Self 1 taking over), the worse you hit it. Stop trying, let Self 2 do its thing, and the ball goes where you want. [Self 1 vs Self 2](self-1-vs-self-2.md) provides the mechanism.
+- Adler's [Self-Acceptance vs. Self-Affirmation](self-acceptance-vs-self-affirmation.md) is the Backwards Law applied to identity: self-affirmation ("I can do it!") reinforces what you lack; self-acceptance ("I'm at sixty percent") breaks the cycle
+- [The Courage to Be Normal](the-courage-to-be-normal.md) is the Backwards Law applied to the desire for specialness: pursuing exceptionality makes you feel more ordinary
+- Discussed in [The Subtle Art of Not Giving a F*ck](../sources/books/the-subtle-art-of-not-giving-a-fuck/summary.md) and [The Courage to Be Disliked](../sources/books/the-courage-to-be-disliked/summary.md)

@@ -6,6 +6,7 @@ aliases:
   - feeling brain drives
 sources:
   - everything-is-fucked
+  - the-science-of-storytelling
 domains:
   - cognitive-science
   - personal-development
@@ -15,6 +16,9 @@ related:
   - the-soft-zone
   - inside-out
   - the-feedback-loop-from-hell
+  - self-1-vs-self-2
+  - the-brain-as-model-maker
+  - the-hero-maker-narrative
 ---
 
 # Thinking Brain vs Feeling Brain
@@ -24,5 +28,7 @@ The mind contains two systems: the Thinking Brain (conscious reasoning, calculat
 This overturns the "Classic Assumption" that has dominated Western thought since Socrates: that reason should dominate emotion, that self-control means the rational mind overriding the irrational passions. In reality, the Thinking Brain is the navigator, not the driver. It can suggest directions, draw maps, and point out where the Feeling Brain took a wrong turn -- but it cannot seize the wheel.
 
 **The Clown Car** is what happens when the Thinking Brain fully capitulates to the Feeling Brain, manufacturing rationalizations for whatever the Feeling Brain wants. Self-serving bias becomes delusion; identity collapses into pure impulse. This is the psychological mechanism behind addiction, narcissism, and cult membership.
+
+Gallwey's [Self 1 vs Self 2](self-1-vs-self-2.md) is a parallel model from sport psychology: Self 1 (conscious/verbal) tries to control Self 2 (body/unconscious), producing tension and interference. Manson's Thinking Brain maps to Self 1; the Feeling Brain maps to Self 2. Both frameworks argue the verbal mind should stop trying to dominate the doing mind.
 
 **Self-control is an illusion.** It is the experience of both brains being aligned toward the same goal. What we actually possess is *meaning control* -- the power to interpret our emotions, to reframe the maps we draw, to influence (but never command) where the Feeling Brain steers. The practical work is not suppression but negotiation: empathizing with the Feeling Brain, speaking its language (emotion), and slowly aligning the two systems around shared values.

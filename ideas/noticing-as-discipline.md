@@ -5,12 +5,15 @@ aliases:
   - paying attention as craft
 sources:
   - several-short-sentences-about-writing
+  - the-inner-game-of-tennis
 domains:
   - attention
   - creativity
   - perception
 related:
   - self-authorization
+  - nonjudgmental-awareness
+  - self-1-vs-self-2
 ---
 
 # Noticing as Discipline
@@ -32,4 +35,5 @@ This is also a practice of patience. "Rushing to notice never works, nor does tr
 ## Connections
 
 - Related to [Self-Authorization](self-authorization.md) — you can't notice what you don't feel permitted to notice
-- Discussed in [Several Short Sentences About Writing](../sources/books/several-short-sentences-about-writing/summary.md)
+- Gallwey's [Nonjudgmental Awareness](nonjudgmental-awareness.md) is the same discipline applied to performance: observe your racket position, your footwork, where the ball lands -- without labeling it good or bad. The parallels are striking -- both Klinkenborg and Gallwey insist that attention without judgment is the upstream skill of all improvement.
+- Discussed in [Several Short Sentences About Writing](../sources/books/several-short-sentences-about-writing/summary.md) and [The Inner Game of Tennis](../sources/books/the-inner-game-of-tennis/summary.md)

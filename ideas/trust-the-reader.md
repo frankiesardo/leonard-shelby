@@ -12,6 +12,9 @@ domains:
 related:
   - trust-your-material
   - self-authorization
+  - the-brain-as-model-maker
+  - the-dramatic-question
+  - unexpected-change-as-story-engine
 ---
 
 # Trust the Reader

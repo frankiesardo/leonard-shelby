@@ -7,6 +7,7 @@ aliases:
   - mass neurotic syndrome
 sources:
   - mans-search-for-meaning
+  - the-courage-to-be-disliked
 domains:
   - philosophy
   - cognitive-science
@@ -19,6 +20,9 @@ related:
   - seasons-of-life
   - the-feedback-loop-from-hell
   - the-uncomfortable-truth
+  - theory-of-control
+  - community-feeling
+  - all-problems-are-interpersonal
 ---
 
 # The Existential Vacuum
@@ -40,4 +44,6 @@ The vacuum also explains why retirement, unemployment, and empty leisure can be 
 - [Will to Meaning](will-to-meaning.md) is what fills the vacuum -- the frustration of this will is what creates it
 - [Quadrant II](quadrant-ii.md) is a practical antidote -- focusing on what's important-but-not-urgent prevents life from becoming an empty treadmill of urgency
 - [Seasons of Life](seasons-of-life.md) connects to the idea that different life phases offer different meanings to discover
-- Discussed in [Man's Search for Meaning](../sources/books/mans-search-for-meaning/summary.md)
+- Adler's [Community Feeling](community-feeling.md) is the relational antidote: the vacuum opens when social interest fails and self-interest takes over. Restoring connection to others fills the void.
+- [All Problems Are Interpersonal](all-problems-are-interpersonal.md) means the vacuum is always, at root, a relational problem -- isolation from others, not just absence of meaning in the abstract
+- Discussed in [Man's Search for Meaning](../sources/books/mans-search-for-meaning/summary.md) and [The Courage to Be Disliked](../sources/books/the-courage-to-be-disliked/summary.md)

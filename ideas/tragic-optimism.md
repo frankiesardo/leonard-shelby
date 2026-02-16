@@ -6,6 +6,7 @@ aliases:
   - the tragic triad
 sources:
   - mans-search-for-meaning
+  - the-courage-to-be-disliked
 domains:
   - philosophy
   - personal-development
@@ -17,6 +18,8 @@ related:
   - inside-out
   - amor-fati
   - history-repeats-in-outline
+  - life-as-a-series-of-moments
+  - the-courage-to-be-normal
 ---
 
 # Tragic Optimism
@@ -43,4 +46,6 @@ Tragic optimism is the antidote to both nihilism (nothing matters) and toxic pos
 - [Meaning Through Suffering](meaning-through-suffering.md) is the first arm of the triad in action
 - [The Existential Vacuum](the-existential-vacuum.md) is what opens when tragic optimism is absent
 - [Inside-Out](inside-out.md) shares the principle that change begins with one's own attitude, not with external circumstances
-- Discussed in [Man's Search for Meaning](../sources/books/mans-search-for-meaning/summary.md)
+- Adler's [Life as a Series of Moments](life-as-a-series-of-moments.md) shares the structural insight: meaning does not depend on reaching a future state but can exist in any present moment. A life that ends at twenty, lived earnestly, is complete.
+- [The Courage to Be Normal](the-courage-to-be-normal.md) is Adler's version of tragic optimism's refusal of grandiosity: you don't need a heroic arc to live a meaningful life
+- Discussed in [Man's Search for Meaning](../sources/books/mans-search-for-meaning/summary.md) and [The Courage to Be Disliked](../sources/books/the-courage-to-be-disliked/summary.md)

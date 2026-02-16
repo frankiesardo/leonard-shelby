@@ -7,6 +7,7 @@ aliases:
 sources:
   - the-7-habits-of-highly-effective-people
   - mans-search-for-meaning
+  - the-courage-to-be-disliked
 domains:
   - personal-development
   - management
@@ -19,6 +20,7 @@ related:
   - good-and-bad-values
   - the-feedback-loop-from-hell
   - the-last-human-freedom
+  - separation-of-tasks
 ---
 
 # Circle of Influence
@@ -49,4 +51,5 @@ Most suffering comes from spending Circle of Influence energy on Circle of Conce
 - [Good and Bad Values](good-and-bad-values.md) — good values live inside the Circle of Influence; bad values depend on the Circle of Concern
 - [The Feedback Loop from Hell](the-feedback-loop-from-hell.md) is a Circle of Concern trap — worrying about your emotions is trying to control what you can only observe
 - Frankl's [The Last Human Freedom](the-last-human-freedom.md) is the original source of the stimulus-response space that Covey built proactivity on
-- Discussed in [The 7 Habits of Highly Effective People](../sources/books/the-7-habits-of-highly-effective-people/summary.md) and [Man's Search for Meaning](../sources/books/mans-search-for-meaning/summary.md)
+- Adler's [Separation of Tasks](separation-of-tasks.md) is the same principle made explicitly interpersonal: "whose task is this?" maps directly onto "is this inside my Circle of Influence?" The key addition is that Adler names the specific interpersonal dynamic -- you are intruding on someone else's task, or they on yours
+- Discussed in [The 7 Habits of Highly Effective People](../sources/books/the-7-habits-of-highly-effective-people/summary.md), [Man's Search for Meaning](../sources/books/mans-search-for-meaning/summary.md), and [The Courage to Be Disliked](../sources/books/the-courage-to-be-disliked/summary.md)

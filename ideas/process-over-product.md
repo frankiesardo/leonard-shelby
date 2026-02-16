@@ -21,6 +21,8 @@ related:
   - work-on-yourself
   - choose-your-struggle
   - good-and-bad-values
+  - the-art-of-competing
+  - nonjudgmental-awareness
 ---
 
 # Process over Product
@@ -46,4 +48,5 @@ The tyranny of the final product is the tyranny of skipping the messy, uncertain
 - Covey's [Two Creations](two-creations.md) is the same principle at life scale — get the first creation (vision, plan) right before optimizing the second (execution)
 - [P/PC Balance](p-pc-balance.md) — investing in process is investing in Production Capability
 - Rohn's [Work on Yourself](work-on-yourself.md) frames this for life: "The major question to ask on the job is not what are you getting — but what are you becoming." Becoming is process; getting is product.
-- Discussed in [On Writing Well](../sources/books/on-writing-well/summary.md) and [Challenges to Succeed](../sources/transcripts/jim-rohn-challenges-succeed-seminar-anaheim/summary.md)
+- Gallwey's [Art of Competing](the-art-of-competing.md) says it explicitly: "The process can be more rewarding than the victory itself." The surfer waits for the big wave not for the ride to the beach but for the experience of overcoming the obstacle. [Nonjudgmental Awareness](nonjudgmental-awareness.md) is process-oriented by nature -- it attends to what is happening now, not to the final score.
+- Discussed in [On Writing Well](../sources/books/on-writing-well/summary.md), [Challenges to Succeed](../sources/transcripts/jim-rohn-challenges-succeed-seminar-anaheim/summary.md), and [The Inner Game of Tennis](../sources/books/the-inner-game-of-tennis/summary.md)

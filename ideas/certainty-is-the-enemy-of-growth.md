@@ -6,6 +6,7 @@ aliases:
   - mansons law of avoidance
 sources:
   - the-subtle-art-of-not-giving-a-fuck
+  - range
 domains:
   - cognitive-science
   - personal-development
@@ -16,6 +17,11 @@ related:
   - incremental-theory-of-intelligence
   - beginners-mind
   - investment-in-loss
+  - the-sacred-flaw
+  - cognitive-entrenchment
+  - the-sampling-period
+  - match-quality
+  - dropping-your-familiar-tools
 ---
 
 # Certainty Is the Enemy of Growth
@@ -41,4 +47,8 @@ Viewed as a scientific process: your values are hypotheses, your actions are exp
 - [Incremental Theory of Intelligence](incremental-theory-of-intelligence.md) — the belief that abilities can grow is a prerequisite for accepting that you're wrong
 - [Beginner's Mind](beginners-mind.md) — the willingness to not know is the same capacity from a different tradition
 - [Investment in Loss](investment-in-loss.md) — growth requires sacrificing your current level of "rightness"
-- Discussed in [The Subtle Art of Not Giving a F*ck](../sources/books/the-subtle-art-of-not-giving-a-fuck/summary.md)
+- [Cognitive Entrenchment](cognitive-entrenchment.md) is certainty-as-enemy applied to expertise -- deep specialists become certain their methods are correct, then fail when conditions change
+- Epstein's [Sampling Period](the-sampling-period.md) combats premature certainty about who you are and what you should do
+- [Match Quality](match-quality.md) requires releasing certainty about your current path to discover a better one
+- [Dropping Your Familiar Tools](dropping-your-familiar-tools.md) is the crisis moment when certainty-as-identity becomes lethal -- NASA engineers couldn't accept qualitative evidence because quantitative certainty defined them
+- Discussed in [The Subtle Art of Not Giving a F*ck](../sources/books/the-subtle-art-of-not-giving-a-fuck/summary.md) and [Range](../sources/books/range/summary.md)

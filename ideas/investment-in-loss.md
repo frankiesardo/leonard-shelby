@@ -5,6 +5,7 @@ aliases:
   - losing to learn
 sources:
   - the-art-of-learning
+  - range
 domains:
   - personal-development
   - cognitive-science
@@ -19,6 +20,11 @@ related:
   - choose-your-struggle
   - the-backwards-law
   - the-biological-lessons-of-history
+  - the-art-of-competing
+  - letting-it-happen
+  - the-sampling-period
+  - match-quality
+  - desirable-difficulties
 ---
 
 # Investment in Loss
@@ -49,4 +55,8 @@ If a student of any discipline could avoid repeating the same mistake twice — 
 - Rohn's [Day That Turns Your Life Around](the-day-that-turns-your-life-around.md) — disgust and resolve as emotional catalysts for the willingness to lose in order to change
 - Manson's [Choose Your Struggle](choose-your-struggle.md) is the life-scale version — you are defined by the pain you're willing to sustain
 - [The Backwards Law](the-backwards-law.md) — the willingness to accept loss is itself a positive experience
-- Discussed in [The Art of Learning](../sources/books/the-art-of-learning/summary.md)
+- Gallwey's [Art of Competing](the-art-of-competing.md) provides the philosophical frame -- the opponent who makes things hardest is your greatest friend. [Letting It Happen](letting-it-happen.md) requires the same ego surrender: stop controlling, accept the temporary drop in performance, and trust the body to learn.
+- Epstein's [Sampling Period](the-sampling-period.md) is investment in loss at the career level -- being a beginner in many domains means losing status repeatedly
+- [Match Quality](match-quality.md) requires investment in loss -- every career pivot means abandoning accumulated competence
+- [Desirable Difficulties](desirable-difficulties.md) are the cognitive version -- struggling, failing, and spacing practice are all investments in loss that pay off long-term
+- Discussed in [The Art of Learning](../sources/books/the-art-of-learning/summary.md) and [Range](../sources/books/range/summary.md)

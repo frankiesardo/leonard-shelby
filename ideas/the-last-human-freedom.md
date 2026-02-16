@@ -7,6 +7,7 @@ aliases:
 sources:
   - mans-search-for-meaning
   - the-7-habits-of-highly-effective-people
+  - the-courage-to-be-disliked
 domains:
   - philosophy
   - personal-development
@@ -18,6 +19,8 @@ related:
   - tragic-optimism
   - responsibility-vs-fault
   - freedom-vs-equality
+  - teleology-vs-etiology
+  - separation-of-tasks
 ---
 
 # The Last Human Freedom
@@ -39,4 +42,6 @@ This principle is not limited to extreme situations. It applies every time someo
 - [Making Sandals](making-sandals.md) is Waitzkin's version -- build internal resilience rather than trying to pave every road
 - [Will to Meaning](will-to-meaning.md) is what fills the space between stimulus and response -- a purpose that gives direction to the choice
 - [Tragic Optimism](tragic-optimism.md) is this freedom exercised in the face of pain, guilt, and death
-- Discussed in [Man's Search for Meaning](../sources/books/mans-search-for-meaning/summary.md)
+- Adler's [Teleology vs. Etiology](teleology-vs-etiology.md) is the same claim from a different angle: you are not determined by the past, because you are always choosing your present goals. Frankl says you *can* choose your attitude; Adler says you already *are* choosing it.
+- [Separation of Tasks](separation-of-tasks.md) is the practical application: others' judgments are their task, not yours. Your response is your task, always.
+- Discussed in [Man's Search for Meaning](../sources/books/mans-search-for-meaning/summary.md) and [The Courage to Be Disliked](../sources/books/the-courage-to-be-disliked/summary.md)

@@ -7,6 +7,7 @@ aliases:
 sources:
   - the-7-habits-of-highly-effective-people
   - jim-rohn-challenges-succeed-seminar-anaheim
+  - the-courage-to-be-disliked
 domains:
   - personal-development
   - philosophy
@@ -25,6 +26,9 @@ related:
   - the-backwards-law
   - the-last-human-freedom
   - tragic-optimism
+  - teleology-vs-etiology
+  - separation-of-tasks
+  - community-feeling
 ---
 
 # Inside-Out
@@ -53,4 +57,7 @@ This is not comfortable. It means owning that your current results are, in some 
 - [The Backwards Law](the-backwards-law.md) is the negative case — outside-in pursuit of positive experience produces the opposite
 - Frankl's [The Last Human Freedom](the-last-human-freedom.md) is the existential bedrock — the proof, forged in Auschwitz, that the inside always retains sovereignty over the outside
 - [Tragic Optimism](tragic-optimism.md) is Inside-Out applied to the worst conditions: pain, guilt, and death
-- Discussed in [The 7 Habits of Highly Effective People](../sources/books/the-7-habits-of-highly-effective-people/summary.md), [Challenges to Succeed](../sources/transcripts/jim-rohn-challenges-succeed-seminar-anaheim/summary.md), and [The Subtle Art of Not Giving a F*ck](../sources/books/the-subtle-art-of-not-giving-a-fuck/summary.md)
+- Adler's [Teleology vs. Etiology](teleology-vs-etiology.md) is Inside-Out at its most radical: your current state is not caused by external events but chosen by you for present purposes. If you change your goals, your world changes.
+- [Separation of Tasks](separation-of-tasks.md) is the practical tool: stop trying to control what's outside (others' tasks) and focus on what's inside (your own tasks)
+- Adler's closing line: "If I change, the world will change. No one else will change the world for me." Pure Inside-Out.
+- Discussed in [The 7 Habits of Highly Effective People](../sources/books/the-7-habits-of-highly-effective-people/summary.md), [Challenges to Succeed](../sources/transcripts/jim-rohn-challenges-succeed-seminar-anaheim/summary.md), [The Subtle Art of Not Giving a F*ck](../sources/books/the-subtle-art-of-not-giving-a-fuck/summary.md), and [The Courage to Be Disliked](../sources/books/the-courage-to-be-disliked/summary.md)

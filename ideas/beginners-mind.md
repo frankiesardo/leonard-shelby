@@ -6,6 +6,7 @@ aliases:
 sources:
   - the-art-of-learning
   - jim-rohn-challenges-succeed-seminar-anaheim
+  - range
 domains:
   - personal-development
   - cognitive-science
@@ -16,6 +17,11 @@ related:
   - numbers-to-leave-numbers
   - circle-of-influence
   - certainty-is-the-enemy-of-growth
+  - nonjudgmental-awareness
+  - the-sampling-period
+  - cognitive-entrenchment
+  - deliberate-amateurs
+  - dropping-your-familiar-tools
 ---
 
 # Beginner's Mind
@@ -41,4 +47,9 @@ The enemy is the protective ego. The person who needs to look good at all times 
 - The inverse of [Numbers to Leave Numbers](numbers-to-leave-numbers.md) — periodically you must return to the numbers
 - Related to Covey's [Circle of Influence](circle-of-influence.md) — accepting what is before trying to change it; letting go of the need to control
 - Rohn calls it "childish curiosity" — be like a child in four ways: curiosity, excitement, faith, and trust. Adults are too skeptical. "Unless you can become like little children, you might as well forget it."
-- Discussed in [The Art of Learning](../sources/books/the-art-of-learning/summary.md) and [Challenges to Succeed](../sources/transcripts/jim-rohn-challenges-succeed-seminar-anaheim/summary.md)
+- Gallwey's [Nonjudgmental Awareness](nonjudgmental-awareness.md) is the mechanism: by dropping the accumulated weight of past judgments ("I have a terrible backhand"), you see the stroke fresh, as it actually is. This is shoshin applied to every single shot.
+- Epstein's [Sampling Period](the-sampling-period.md) is beginner's mind as a developmental strategy -- staying a beginner across many domains builds the breadth that later proves decisive
+- [Cognitive Entrenchment](cognitive-entrenchment.md) is what happens when beginner's mind is lost -- the expert becomes rigid
+- [Deliberate Amateurs](deliberate-amateurs.md) cultivate beginner's mind alongside deep expertise -- the Smithies and Geims of the world
+- [Dropping Your Familiar Tools](dropping-your-familiar-tools.md) requires returning to beginner's mind under extreme pressure
+- Discussed in [The Art of Learning](../sources/books/the-art-of-learning/summary.md), [Challenges to Succeed](../sources/transcripts/jim-rohn-challenges-succeed-seminar-anaheim/summary.md), and [Range](../sources/books/range/summary.md)

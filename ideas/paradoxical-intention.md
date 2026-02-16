@@ -16,6 +16,8 @@ related:
   - humor-as-a-serious-tool
   - self-transcendence
   - the-backwards-law
+  - self-1-vs-self-2
+  - letting-it-happen
 ---
 
 # Paradoxical Intention
@@ -40,4 +42,5 @@ The deeper insight is philosophical: much of human suffering is amplified by the
 - [The Soft Zone](the-soft-zone.md) is a parallel strategy -- integrate disturbance rather than fighting it
 - [Humor as a Serious Tool](humor-as-a-serious-tool.md) -- paradoxical intention relies on humor as a therapeutic mechanism
 - [Self-Transcendence](self-transcendence.md) -- dereflection works by redirecting attention beyond the self
+- Gallwey's [Letting It Happen](letting-it-happen.md) is paradoxical intention applied to motor performance: stop trying to hit the ball correctly (hyper-intention), focus on something else entirely (dereflection to the seams of the ball), and the body self-corrects. [Self 1 vs Self 2](self-1-vs-self-2.md) explains why -- the conscious effort (Self 1) is the interference.
 - Discussed in [Man's Search for Meaning](../sources/books/mans-search-for-meaning/summary.md)

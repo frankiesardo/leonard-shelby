@@ -14,6 +14,7 @@ related:
   - making-smaller-circles
   - the-soft-zone
   - making-sandals
+  - relaxed-concentration
 ---
 
 # Building Your Trigger
@@ -42,4 +43,5 @@ The practical implication: virtually everyone has an activity that puts them in 
 - Depends on [Stress and Recovery](stress-and-recovery.md) -- the ability to release is the prerequisite for re-entering the zone
 - [The Soft Zone](the-soft-zone.md) is the state the trigger summons
 - Works alongside [Making Sandals](making-sandals.md) -- the trigger is one tool for channeling emotions into focus
+- Gallwey's between-points breathing technique is a proto-trigger for [Relaxed Concentration](relaxed-concentration.md) -- focus on the breath going in and out to prevent the mind from wandering between points. Simpler than Waitzkin's full routine, but the same principle: a reliable path back to the focused state.
 - Discussed in [The Art of Learning](../sources/books/the-art-of-learning/summary.md)

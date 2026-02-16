@@ -7,6 +7,7 @@ aliases:
 sources:
   - the-art-of-learning
   - jim-rohn-challenges-succeed-seminar-anaheim
+  - range
 domains:
   - personal-development
   - cognitive-science
@@ -19,6 +20,9 @@ related:
   - abundance-mentality
   - work-on-yourself
   - certainty-is-the-enemy-of-growth
+  - origin-damage
+  - the-sacred-flaw
+  - desirable-difficulties
 ---
 
 # Incremental Theory of Intelligence
@@ -46,4 +50,6 @@ The hermit crab metaphor is useful: growth requires leaving the old shell and be
 - Covey's [Inside-Out](inside-out.md) principle requires believing change is possible — entity theorists can't change from within because they don't think change is real
 - The [Abundance Mentality](abundance-mentality.md) maps to incremental thinking: if ability grows, there's enough success for everyone
 - Rohn's [Work on Yourself](work-on-yourself.md) is the popular formulation: "You can have more than you've got because you can become more than you are" — growth mindset stated as a life principle
-- Discussed in [The Art of Learning](../sources/books/the-art-of-learning/summary.md) and [Challenges to Succeed](../sources/transcripts/jim-rohn-challenges-succeed-seminar-anaheim/summary.md)
+- Epstein discusses Dweck's research in [Range](../sources/books/range/summary.md) to argue that in wicked learning environments, the incremental mindset is essential because the path to mastery is non-linear and full of apparent setbacks
+- [Desirable Difficulties](desirable-difficulties.md) require an incremental mindset -- you can only tolerate difficulty-as-learning if you believe effort builds ability
+- Discussed in [The Art of Learning](../sources/books/the-art-of-learning/summary.md), [Challenges to Succeed](../sources/transcripts/jim-rohn-challenges-succeed-seminar-anaheim/summary.md), and [Range](../sources/books/range/summary.md)
