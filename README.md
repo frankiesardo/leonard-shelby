@@ -39,10 +39,10 @@ Ideas (evergreen notes / concept handles) don't have tiers — they connect free
 
 ## What's in the garden
 
-See [STRUCTURE.md](STRUCTURE.md) for the full layout. The short version:
+See [AGENTS.md](AGENTS.md) for the full layout. The short version:
 
 ```
-sources/       → Books, essays, transcripts. Each in its own folder with summary, chapters, and artifacts.
+sources/       → Books, essays, transcripts. Each in its own folder with summary, source text, and optional part-level notes.
 ideas/         → Evergreen notes. Atomic concept handles. The connective tissue.
 notes/         → Personal journal and reflections. Quick captures and deeper thinking.
 flashcards/    → Spaced repetition cards extracted from sources and ideas.
@@ -75,7 +75,7 @@ But those are layers on top. The foundation is just markdown, links, and clear s
 
 **As a human:** Browse `maps/` for thematic entry points. Open any source's `summary.md` for a quick overview. Explore `ideas/` for atomic concepts. Follow the links.
 
-**As an agent:** Read `STRUCTURE.md` for conventions. Parse YAML frontmatter for metadata. Use `maps/` as high-level context. Use `ideas/` as the primary knowledge graph. Use source tiers to weight relevance. Start with `summary.md` inside any source folder for the entry point.
+**As an agent:** Read `AGENTS.md` for conventions. Parse YAML frontmatter for metadata. Use `maps/` as high-level context. Use `ideas/` as the primary knowledge graph. Use source tiers to weight relevance. Start with `summary.md` inside any source folder for the entry point.
 
 ---
 

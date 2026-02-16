@@ -22,11 +22,7 @@ A book that dismantles everything you were taught about writing and rebuilds it 
 
 ## Structure
 
-This book has no traditional chapters. It reads as a continuous stream of short, declarative observations about writing — each one a self-contained insight. The content files are:
-
-- [Prologue](ch03-prologue.md) — sets the premise: received wisdom about writing is wrong, and everything here is meant to be tested
-- [Main body](ch05-chapter-5.md) — the core meditation on sentences, attention, revision, authority, and the reader
-- [Some Prose and Some Questions](ch06-chapter-6.md) — example passages from great writers (McPhee, Didion, Orwell, Cheever, etc.) with close reading, plus student sentences with detailed diagnosis of what goes wrong
+This book has no traditional chapters. It reads as a continuous stream of short, declarative observations. The full text is in [source.md](source.md) — Prologue, then the main body, then "Some Prose and Some Questions" (close-reading examples from great writers and student sentence diagnosis).
 
 ## Key ideas
 

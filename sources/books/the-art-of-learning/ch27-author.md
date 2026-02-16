@@ -1,3 +1,0 @@
-# ABOUT THE AUTHOR
-
-Josh Waitzkin, an eight-time National Chess Champion in his youth, was the subject of the book and movie Searching for Bobby Fischer. At eighteen, he published his first book, Josh Waitzkin’s Attacking Chess. Since the age of twenty, he has developed and been spokesperson for Chessmaster, the largest computer chess program in the world, currently in its eleventh edition. Now a martial arts champion, he holds a combined twenty-one National Championship titles in addition to several World Championship titles. He regularly gives seminars and keynote presentations and is president of the JW Foundation, a nonprofit devoted to maximizing each student’s unique potential through an enriched educational process.

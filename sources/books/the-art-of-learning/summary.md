@@ -27,39 +27,11 @@ ideas:
 
 Waitzkin's autobiography doubles as a learning treatise, and the combination is what makes it extraordinary. This isn't a professor theorizing about mastery from a distance — it's a chess prodigy turned Tai Chi world champion reverse-engineering the transferable principles that carried him to the top of two wildly different disciplines. The core insight is that deep internalization of fundamentals — not breadth, not memorization, not talent worship — is what allows creative leaps under pressure. Waitzkin calls this "numbers to leave numbers": study the technical until it dissolves into intuition, then use that intuition as the foundation for the next layer. The book is at its best when the competitive narrative and the learning theory become inseparable, when a broken hand in a martial arts match or a heartbreaking chess loss at age eight becomes the mechanism through which a principle is forged.
 
-## Chapter map
+## Structure
 
-### Introduction
-- [Introduction](ch04-introduction.md) — Frames the book's thesis: Waitzkin's real skill is learning itself, and the transfer of essence between chess and Tai Chi proves it
-
-### Part I: The Foundation
-1. [Innocent Moves](ch05-chapter-1.md) — Discovering chess at Washington Square Park; Bruce Pandolfini nurtures Josh's natural voice instead of imposing a cookie-cutter method
-2. [Losing to Win](ch06-chapter-2.md) — Losing his first National Championship at eight, healing at sea, then returning with a deeper resolve that transforms setback into identity
-3. [Two Approaches to Learning](ch07-chapter-3.md) — Entity vs. incremental theories of intelligence; why studying endgames before openings builds real understanding while opening memorization creates brittle performers
-4. [Loving the Game](ch08-chapter-4.md) — Balancing process-orientation with competitive fire; growth comes at the point of resistance, not in the comfort of safe mediocrity
-5. [The Soft Zone](ch09-chapter-5.md) — An earthquake during a chess game in India triggers a revelation: resilient focus integrates distraction rather than fighting it
-6. [The Downward Spiral](ch10-chapter-6.md) — A woman hit by a taxi after being bumped by a bicycle; the first mistake is rarely fatal — it's the compounding chain reaction that destroys
-7. [Changing Voice](ch11-chapter-7.md) — The film's aftermath, living in Slovenia, discovering that chess errors mirror psychological patterns in life — homesickness manifesting as trouble with transitions
-8. [Breaking Stallions](ch12-chapter-8.md) — Two ways to train a horse (and a student): shock-and-awe versus whispering; the danger of being pushed away from your natural competitive voice
-
-### Part II: My Second Art
-9. [Beginner's Mind](ch13-chapter-9.md) — Walking into William Chen's Tai Chi studio; rediscovering the joy of being a novice after years of suffocating chess fame
-10. [Investment in Loss](ch14-chapter-10.md) — Getting tossed around nightly by more advanced partners; ego must yield before real learning can begin
-11. [Making Smaller Circles](ch15-chapter-11.md) — Depth beats breadth: condense techniques to their essence while maintaining full power, like a punch that becomes invisible
-12. [Using Adversity](ch16-chapter-12.md) — A broken hand becomes a training breakthrough; every injury is an opportunity to develop the weaker side and deepen the mental game
-13. [Slowing Down Time](ch17-chapter-13.md) — Chunking and neural pathways: experts look at less and see more, which is why their conscious perception seems to operate in slow motion
-14. [The Illusion of the Mystical](ch18-chapter-14.md) — Reading and controlling an opponent's intention through blinks, breath, and weight shifts — nothing supernatural, just deeply refined pattern recognition
-
-### Part III: Bringing It All Together
-15. [The Power of Presence](ch19-chapter-15.md) — A jaguar stalking a man in the Amazon; presence under fire separates the best from the merely good, and the secret is that everything is always on the line
-16. [Searching for the Zone](ch20-chapter-16.md) — Stress and recovery as the physiological basis of peak performance; interval training for both body and mind
-17. [Building Your Trigger](ch21-chapter-17.md) — Create a routine linked to your peak state, then incrementally condense it until a single breath can trigger the zone
-18. [Making Sandals](ch22-chapter-18.md) — Channeling anger and emotion into fuel instead of fighting or denying them; the internal solution to competitive turbulence
-19. [Bringing It All Together](ch23-chapter-19.md) — Preparing for the 2004 Worlds by converting unconscious creative breakthroughs into systematic technique through frame-by-frame video study
-20. [Taiwan](ch24-chapter-20.md) — The 2004 World Championships: dirty tricks from organizers, a typhoon, epic battles, and winning the title through strategic patience against superior athletes
-
-### Afterword
-- [Afterword](ch25-afterword.md) — We cannot calculate our great contests to the end; the only thing we can count on is getting surprised
+- [Part I: The Foundation](part01-the-foundation.md) — Chess origin story as learning theory. Entity vs. incremental mindset, the Soft Zone, the Downward Spiral, and protecting your natural competitive voice.
+- [Part II: My Second Art](part02-my-second-art.md) — Starting over as a Tai Chi beginner. Investment in loss, making smaller circles, numbers to leave numbers, and using adversity as fuel.
+- [Part III: Bringing It All Together](part03-bringing-it-all-together.md) — The practical synthesis. Stress and recovery, building your trigger, making sandals, and the 2004 World Championships in Taiwan.
 
 ## Key ideas
 

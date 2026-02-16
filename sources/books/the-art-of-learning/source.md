@@ -4,118 +4,11 @@
 
 ---
 
-# Praise for The Art of Learning
-
-“We all remember the portrayal of Josh Waitzkin in Searching for Bobby Fischer. He was a very impressive child who continues to impress with The Art of Learning. Through a unique set of experiences, Waitzkin has formed an original and outstanding perspective. From chess to Tai Chi, he provides tools that allow all of us to improve ourselves every day.”
-
-—Cal Ripken, Jr., 2007 Baseball Hall of Fame Inductee
-
-“Waitzkin’s engaging voice and his openness . . . make him a welcome teacher.”
-
-—Publishers Weekly
-
-“A vibrant and engaging look at the love of learning and the pursuit of excellence.”
-
-—Booklist
-
-“The Art of Learning succeeds on every level, by combining a truly compelling autobiography with profound philosophical and psychological insights, all wrapped in a practical how-to framework. This is a must-read for anyone wishing to achieve that rare combination of success and fulfillment.”
-
-—Paul Blease, SVP, Director Team Development & Consulting, Citigroup Smith Barney
-
-“Waitzkin’s in-depth look into the mental side of his success in both chess and martial arts is an inspiring and absorbing read. I strongly recommend it for anyone who lives in a world of competition, whether it’s sports or business or anywhere else. It’s also a great training tool for kids aspiring to reach the pinnacle of their chosen fields.”
-
-—Mark Messier, 6-time Stanley Cup Champion
-
-“The title is accurate—at a profound level, it’s about real learning from hard conflict rather than from disinterested textbooks.”
-
-—Robert Pirsig, author of Zen and the Art of Motorcycle Maintenance
-
----
-
-# Chapter 2
-
-Thank you for downloading this Free Press eBook.
-
----
-
-Join our mailing list and get updates on new releases, deals, bonus content and other great books from Free Press and Simon & Schuster.
-
-[CLICK HERE TO SIGN UP](http://eBookNews.SimonandSchuster.com/front/9781416538868)
-
-or visit us online to sign up at
-[eBookNews.SimonandSchuster.com](http://eBookNews.SimonandSchuster.com/front/9781416538868)
-
----
-
-# CONTENTS
-
-[Introduction](part0005.html#4OIQ0-2d0fb58944954f108e4e6d00c507a8cf)
-
-[I](part0006_split_000.html#5N3C0-2d0fb58944954f108e4e6d00c507a8cf)
-
-[THE FOUNDATION](part0006_split_000.html#5N3C0-2d0fb58944954f108e4e6d00c507a8cf)
-
-[1. Innocent Moves](part0007.html#6LJU0-2d0fb58944954f108e4e6d00c507a8cf)
-
-[2. Losing to Win](part0008.html#7K4G0-2d0fb58944954f108e4e6d00c507a8cf)
-
-[3. Two Approaches to Learning](part0009.html#8IL20-2d0fb58944954f108e4e6d00c507a8cf)
-
-[4. Loving the Game](part0010.html#9H5K0-2d0fb58944954f108e4e6d00c507a8cf)
-
-[5. The Soft Zone](part0011.html#AFM60-2d0fb58944954f108e4e6d00c507a8cf)
-
-[6. The Downward Spiral](part0012.html#BE6O0-2d0fb58944954f108e4e6d00c507a8cf)
-
-[7. Changing Voice](part0013.html#CCNA0-2d0fb58944954f108e4e6d00c507a8cf)
-
-[8. Breaking Stallions](part0014.html#DB7S0-2d0fb58944954f108e4e6d00c507a8cf)
-
-[II](part0015_split_000.html#E9OE0-2d0fb58944954f108e4e6d00c507a8cf)
-
-[MY SECOND ART](part0015_split_000.html#E9OE0-2d0fb58944954f108e4e6d00c507a8cf)
-
-[9. Beginner’s Mind](part0016.html#F8900-2d0fb58944954f108e4e6d00c507a8cf)
-
-[10. Investment in Loss](part0017.html#G6PI0-2d0fb58944954f108e4e6d00c507a8cf)
-
-[11. Making Smaller Circles](part0018.html#H5A40-2d0fb58944954f108e4e6d00c507a8cf)
-
-[12. Using Adversity](part0019.html#I3QM0-2d0fb58944954f108e4e6d00c507a8cf)
-
-[13. Slowing Down Time](part0020.html#J2B80-2d0fb58944954f108e4e6d00c507a8cf)
-
-[14. The Illusion of the Mystical](part0021.html#K0RQ0-2d0fb58944954f108e4e6d00c507a8cf)
-
-[III](part0022_split_000.html#KVCC0-2d0fb58944954f108e4e6d00c507a8cf)
-
-[BRINGING IT ALL TOGETHER](part0022_split_000.html#KVCC0-2d0fb58944954f108e4e6d00c507a8cf)
-
-[15. The Power of Presence](part0023.html#LTSU0-2d0fb58944954f108e4e6d00c507a8cf)
-
-[16. Searching for the Zone](part0024.html#MSDG0-2d0fb58944954f108e4e6d00c507a8cf)
-
-[17. Building Your Trigger](part0025.html#NQU20-2d0fb58944954f108e4e6d00c507a8cf)
-
-[18. Making Sandals](part0026.html#OPEK0-2d0fb58944954f108e4e6d00c507a8cf)
-
-[19. Bringing It All Together](part0027.html#PNV60-2d0fb58944954f108e4e6d00c507a8cf)
-
-[20. Taiwan](part0028.html#QMFO0-2d0fb58944954f108e4e6d00c507a8cf)
-
-[Afterword](part0029.html#RL0A0-2d0fb58944954f108e4e6d00c507a8cf)
-
-[Acknowledgments](part0030.html#SJGS0-2d0fb58944954f108e4e6d00c507a8cf)
-
-[About the Author](part0031.html#TI1E0-2d0fb58944954f108e4e6d00c507a8cf)
-
----
-
-# INTRODUCTION
+# Introduction
 
 One has to investigate the principle in one thing or one event exhaustively . . . Things and the self are governed by the same principle. If you understand one, you understand the other, for the truth within and the truth without are identical.
 
-—Er Cheng Yishu, 11th century[^I](part0005.html#note1)
+—Er Cheng Yishu, 11th century^I
 
 Finals: Tai Chi Chuan Push Hands World Championships Hsinchuang Stadium, Taipei, Taiwan December 5, 2004
 
@@ -171,7 +64,7 @@ A lifetime of competition has not cooled my ardor to win, but I have grown to lo
 
 ---
 
-[I](part0005.html#note_1). William Theodore de Bary, Sources of Chinese Tradition, Vol. 1, 2nd ed., Columbia University Press, 1999, p. 696.
+I. William Theodore de Bary, Sources of Chinese Tradition, Vol. 1, 2nd ed., Columbia University Press, 1999, p. 696.
 
 ---
 
@@ -231,7 +124,9 @@ As the months went by, I piled up win after win and my national rating skyrocket
 
 ---
 
-# CHAPTER 2
+# 2. Losing to Win
+
+## CHAPTER 2
 
 ## LOSING TO WIN
 
@@ -303,7 +198,9 @@ We drew the game and I became National Champion. I walked out of the playing hal
 
 ---
 
-# CHAPTER 3
+# 3. Two Approaches to Learning
+
+## CHAPTER 3
 
 ## TWO APPROACHES TO LEARNING
 
@@ -339,7 +236,7 @@ It is a little like developing the habit of stealing the test from your teacher�
 
 Children who begin their chess education by memorizing openings tend to internalize an entity theory of intelligence. Their dialogues with teachers, parents, and other children are all about results, not effort. They consider themselves winners because so far they have won. In school, they focus on what comes easy to them and ignore the subjects that are harder. On the playground, they use the famous “I wasn’t trying” after missing a shot or striking out.
 
-Once I was in Arizona giving a lecture and simultaneous exhibition[^I](part0009.html#note2) to a large group of young chess players and parents, and the organizer of the event picked me up at the airport bragging that his son hadn’t lost a chess game in over a year. Obviously this was a record the whole family was proud of. I knew what was coming—classic anorexic hermit crab. When I met the child, he was a moderately talented boy who was the best in his school. He had learned some quick opening attacks and had a natural feel for basic chess tactics. Clearly he had started winning and had been praised effusively for his genius. As a result, the boy refused to play anyone outside of the circle of friends and competitors whom he knew to be inferior (his favorite opponent was his father, who was a weak player and no challenge at all). To his school buddies, this boy was a chess god, but compared to serious chess-playing children around the country, he had a long way to go. He was a big fish in a small pond and he liked it that way. The boy avoided chess throughout my visit. He didn’t want to play in the simultaneous exhibition and was the only child at the event who was resistant to instruction. His winning streak and the constant talk of it had him all locked up—he was terrified of shattering the façade of perfection. This child was paralyzed by an ever-deepening cycle of entity indoctrination.
+Once I was in Arizona giving a lecture and simultaneous exhibition^I to a large group of young chess players and parents, and the organizer of the event picked me up at the airport bragging that his son hadn’t lost a chess game in over a year. Obviously this was a record the whole family was proud of. I knew what was coming—classic anorexic hermit crab. When I met the child, he was a moderately talented boy who was the best in his school. He had learned some quick opening attacks and had a natural feel for basic chess tactics. Clearly he had started winning and had been praised effusively for his genius. As a result, the boy refused to play anyone outside of the circle of friends and competitors whom he knew to be inferior (his favorite opponent was his father, who was a weak player and no challenge at all). To his school buddies, this boy was a chess god, but compared to serious chess-playing children around the country, he had a long way to go. He was a big fish in a small pond and he liked it that way. The boy avoided chess throughout my visit. He didn’t want to play in the simultaneous exhibition and was the only child at the event who was resistant to instruction. His winning streak and the constant talk of it had him all locked up—he was terrified of shattering the façade of perfection. This child was paralyzed by an ever-deepening cycle of entity indoctrination.
 
 Many kids like this are quite talented, so they excel at first because of good genes—but then they hit a roadblock. As chess struggles become more intense and opponents put up serious resistance, they start to lose interest in the game. They try to avoid challenges, but eventually the real world finds them. Their confidence is fragile. Losing is always a crisis instead of an opportunity for growth—if they were a winner because they won, this new losing must make them a loser.
 
@@ -353,11 +250,13 @@ When I reflect back on my chess career, I remember the losses, and the lessons l
 
 ---
 
-[I](part0009.html#note_2). A simultaneous exhibition, also referred to as a “simul,” is an event where one stronger chess player competes against a large number of opponents. When I give simuls, usually there is a preceding competition to determine who will play me. Then 20–50 boards are set up in a large square of a banquet hall, and I walk from table to table inside the square while my opponents sit at their board and play one chess game. When I arrive at a board, the other makes his or her move. I then respond and move onto the next board. Simuls are an excellent way to demonstrate the understanding and visualization skills of a strong player.
+I. A simultaneous exhibition, also referred to as a “simul,” is an event where one stronger chess player competes against a large number of opponents. When I give simuls, usually there is a preceding competition to determine who will play me. Then 20–50 boards are set up in a large square of a banquet hall, and I walk from table to table inside the square while my opponents sit at their board and play one chess game. When I arrive at a board, the other makes his or her move. I then respond and move onto the next board. Simuls are an excellent way to demonstrate the understanding and visualization skills of a strong player.
 
 ---
 
-# CHAPTER 4
+# 4. Loving the Game
+
+## CHAPTER 4
 
 ## LOVING THE GAME
 
@@ -409,7 +308,9 @@ There were a few powerful moments that reinforced my young notion that glory had
 
 ---
 
-# CHAPTER 5
+# 5. The Soft Zone
+
+## CHAPTER 5
 
 ## THE SOFT ZONE
 
@@ -431,7 +332,7 @@ Everything started to shake and the lights went out. The rafters exploded with n
 
 This intense moment of my life was the launching point for my serious investigation of the nuances of performance psychology. I had used an earthquake to reach a higher state of consciousness and discover a chess solution I may not have otherwise found. As this book evolves, I will gradually lay out my current methodology for triggering such states of creative flow. Eventually, by systematically training oneself, a competitor can learn how to do this at will. But the first obstacle I had to overcome as a young chess player was to avoid being distracted by random, unexpected events—by the mini earthquakes that afflict all of our days. In performance training, first we learn to flow with whatever comes. Then we learn to use whatever comes to our advantage. Finally, we learn to be completely self-sufficient and create our own earthquakes, so our mental process feeds itself explosive inspirations without the need for outside stimulus.
 
-The initial step along this path is to attain what sports psychologists call The Soft Zone. Envision the Zone as your performance state.[^I](part0011.html#note3)
+The initial step along this path is to attain what sports psychologists call The Soft Zone. Envision the Zone as your performance state.^I
 
 You are concentrated on the task at hand, whether it be a piece of music, a legal brief, a financial document, driving a car, anything. Then something happens. Maybe your spouse comes home, your baby wakes up and starts screaming, your boss calls you with an unreasonable demand, a truck has a blowout in front of you. The nature of your state of concentration will determine the first phase of your reaction—if you are tense, with your fingers jammed in your ears and your whole body straining to fight off distraction, then you are in a Hard Zone that demands a cooperative world for you to function. Like a dry twig, you are brittle, ready to snap under pressure. The alternative is for you to be quietly, intensely focused, apparently relaxed with a serene look on your face, but inside all the mental juices are churning. You flow with whatever comes, integrating every ripple of life into your creative moment. This Soft Zone is resilient, like a flexible blade of grass that can move with and survive hurricane-force winds.
 
@@ -445,7 +346,7 @@ Over time, as I became more and more fixated on irritating mental music, I start
 
 The victims of my training method were my parents and sister. A few times a week, while studying chess in my bedroom, I blasted music. Sometimes it was music I liked, sometimes music I didn’t like. For a period of many months I blared booming Gyuto monk chants, which drove my sister, Katya, to utter distraction. My family’s little apartment was besieged by my bizarre training concept, and it’s amazing they put up with me. My idea was to become at peace with distraction, whatever it was. During this period of time, in my early teens, I frequented chess shops near my home and played speed chess in clouds of smoke, which I have always hated. Of course I also played in Washington Square Park, where consistent kibitzing and a steady stream of chess banter is part of the game. There was no blocking out the noise or smoke, and my only option was to integrate my environment into my creative process. So if Bon Jovi was playing, I might be prone to play a bit more aggressively than when I had on quiet classical music. The Gyuto monk chants pounded me into fascinating chessic discoveries. Voices in the park inspired me as they had when I was a young boy. The smoke I learned to live with.
 
-As I turned fourteen and then fifteen years old, my Soft Zone training was really put to the test. The competition for the top of the American scholastic chess ranking was stiffened by a tremendous influx of Soviet immigrants. As the Soviet Union fell apart, many of the powerful Russian players looked for opportunity in the west. These kids were highly trained, excellent fighters, who had been schooled in the famous Pioneers’ Palaces of Moscow and Leningrad.[^II](part0011.html#note4) Many of these new rivals were armed with a repertoire of psychological “tricks” that presented serious challenges.
+As I turned fourteen and then fifteen years old, my Soft Zone training was really put to the test. The competition for the top of the American scholastic chess ranking was stiffened by a tremendous influx of Soviet immigrants. As the Soviet Union fell apart, many of the powerful Russian players looked for opportunity in the west. These kids were highly trained, excellent fighters, who had been schooled in the famous Pioneers’ Palaces of Moscow and Leningrad.^II Many of these new rivals were armed with a repertoire of psychological “tricks” that presented serious challenges.
 
 One of the more interesting tactics was implemented by a Russian boy whom I had trouble with for a period of months before I caught on to his game. He was a very strong player so our clashes were always tense, but for some reason I tended to make careless errors against him in the critical positions. Then one day, an old Bulgarian Master named Rudy Blumenfeld approached my father in the Marshall Chess Club and asked him if we were aware of what this boy was doing to me. We were not. He explained that in the climactic moments of the struggle, when I had to buckle down and patiently work my way through the complications to find a precise solution, this boy would start to tap a chess piece on the side of the table, barely audible, but at a pace that entered and slightly quickened my mental process. This subtle tactic was highly effective and I later found out that it was an offspring of the Soviet study of hypnosis and mind control. The next time we played, I was on the lookout for the tapping and sure enough, in the critical moment it was right there. Hilarious. Once I was aware of what was happening, I was able to turn the tables in our rivalry.
 
@@ -455,7 +356,7 @@ In 1993, when we were sixteen, this Russian boy and I both traveled to India to 
 
 As a result of this shift of tone in the U.S. scholastic scene, many of my American contemporaries became dispirited and quit the game. The Russian kids were great players who presented a whole new set of challenges, and instead of adapting and raising their games, American kids dropped out. For my part, the new crew of brilliant Machiavellian rivals made me buckle down. I had my home turf to defend and the first step would be to learn how to handle dirty opponents without losing my cool. Sometimes noticing the psychological tactic was enough to render it harmless—but in the case of the kicking and barefaced cheating, I really had to take on my emotions. These breaks from etiquette were outrageous in the chess world and I was appalled. The problem is that when I got angry, I was thrown off my game. I tried to stay level-headed, but this one rival of mine had no limits. He would push me to the point of utter exasperation and I would often self-destruct.
 
-I have come to believe that the solution to this type of situation does not lie in denying our emotions, but in learning to use them to our advantage. Instead of stifling myself, I needed to channel my mood into heightened focus—and I can’t honestly say that I figured out how to do this consistently until years into my martial arts career when dirty opponents tried to take out my knees, target the groin, or head-butt me in the nose in competition.[^III](part0011.html#note5)
+I have come to believe that the solution to this type of situation does not lie in denying our emotions, but in learning to use them to our advantage. Instead of stifling myself, I needed to channel my mood into heightened focus—and I can’t honestly say that I figured out how to do this consistently until years into my martial arts career when dirty opponents tried to take out my knees, target the groin, or head-butt me in the nose in competition.^III
 
 My whole life I have worked on this issue. Mental resilience is arguably the most critical trait of a world-class performer, and it should be nurtured continuously. Left to my own devices, I am always looking for ways to become more and more psychologically impregnable. When uncomfortable, my instinct is not to avoid the discomfort but to become at peace with it. When injured, which happens frequently in the life of a martial artist, I try to avoid painkillers and to change the sensation of pain into a feeling that is not necessarily negative. My instinct is always to seek out challenges as opposed to avoiding them.
 
@@ -465,15 +366,17 @@ Of course this process is never complete. As I am writing this section, a lawn m
 
 ---
 
-[I](part0011.html#note_3). The chapter Building Your Trigger in Part III of this book, will lay out my methodology for cultivating the ability to enter the zone at will.
+I. The chapter Building Your Trigger in Part III of this book, will lay out my methodology for cultivating the ability to enter the zone at will.
 
-[II](part0011.html#note_4). Pioneers’ Palaces were state-funded youth centers in the U.S.S.R. in which dedicated children were trained in specific disciplines. These schools were famous for pumping out highly professionalized young chess players. Most Pioneers’ Palaces were shut down with the fall of the Soviet Union.
+II. Pioneers’ Palaces were state-funded youth centers in the U.S.S.R. in which dedicated children were trained in specific disciplines. These schools were famous for pumping out highly professionalized young chess players. Most Pioneers’ Palaces were shut down with the fall of the Soviet Union.
 
-[III](part0011.html#note_5). See the chapters Using Adversity in Part II of the book and Building Your Trigger in Part III.
+III. See the chapters Using Adversity in Part II of the book and Building Your Trigger in Part III.
 
 ---
 
-# CHAPTER 6
+# 6. The Downward Spiral
+
+## CHAPTER 6
 
 ## THE DOWNWARD SPIRAL
 
@@ -509,7 +412,9 @@ The move Ian was about to play would have lost his queen and the game, but sudde
 
 ---
 
-# CHAPTER 7
+# 7. Changing Voice
+
+## CHAPTER 7
 
 ## CHANGING VOICE
 
@@ -537,7 +442,7 @@ These moments, where the technical and psychological collide, are where I direct
 
 This was the work that I referred to in the Introduction as numbers to leave numbers. Usually long study sessions went like this: I began with the critical position from one of my games, where my intuitive understanding had not been up to the challenge. At first my mind was like a runner on a cold winter morning—stiff, unhappy about the coming jog, dreary. Then I began to move, recalling my attacking ideas in the struggle and how nothing had fully connected. I tried to pick apart my opponent’s position and discovered new layers of his defensive resources, all the while my mind thawing, integrating the evolving structural dynamics it had not quite understood before. Over time my blood started flowing, sweat came, I settled into the rhythm of analysis, soaked in countless patterns of evolving sophistication as I pored over what a computer would consider billions of variations. Like a runner in stride, my thinking became unhindered, free-flowing, faster and faster as I lost myself in the position. Sometimes the study would take six hours in one sitting, sometimes thirty hours over a week. I felt like I was living, breathing, sleeping in that maze, and then, as if from nowhere, all the complications dissolved and I understood.
 
-When I looked at the critical position from my tournament game, what had stumped me a few days or hours or weeks before now seemed perfectly apparent. I saw the best move, felt the correct plan, understood the evaluation of the position. I couldn’t explain this new knowledge with variations or words. It felt more elemental, like rippling water or a light breeze. My chess intuition had deepened. This was the study of numbers to leave numbers.[^I](part0013.html#note6)
+When I looked at the critical position from my tournament game, what had stumped me a few days or hours or weeks before now seemed perfectly apparent. I saw the best move, felt the correct plan, understood the evaluation of the position. I couldn’t explain this new knowledge with variations or words. It felt more elemental, like rippling water or a light breeze. My chess intuition had deepened. This was the study of numbers to leave numbers.^I
 
 A fascinating offshoot of this method of analysis was that I began to see connections between the leaps of chess understanding and my changing vision of the world. During my study of the critical positions, I noted the feeling I had during the actual chess game. I explained above how in the pressure of tournaments, the tension in the mind mounts with the tension in the position, and an error on the board usually parallels a psychological collapse of sorts. Almost invariably, there was a consistent psychological strain to my errors in a given tournament, and what I began to notice is that my problems on the chessboard usually were manifesting themselves in my life outside of chess.
 
@@ -555,11 +460,13 @@ Of course not everything was fine and dandy. While personal growth had been my f
 
 ---
 
-[I](part0013.html#note_6). It is important to understand that by numbers to leave numbers, or form to leave form, I am describing a process in which technical information is integrated into what feels like natural intelligence. Sometimes there will literally be numbers. Other times there will be principles, patterns, variations, techniques, ideas. A good literal example of this process, one that does in fact involve numbers, is a beginner’s very first chess lesson. All chess players learn that the pieces have numerical equivalents—bishops and knights are worth three pawns, a rook is five pawns, a queen is nine. Novices are counting in their heads or on their fingers before they make exchanges. In time, they will stop counting. The pieces will achieve a more flowing and integrated value system. They will move across the board like fields of force. What was once seen mathematically is now felt intuitively.
+I. It is important to understand that by numbers to leave numbers, or form to leave form, I am describing a process in which technical information is integrated into what feels like natural intelligence. Sometimes there will literally be numbers. Other times there will be principles, patterns, variations, techniques, ideas. A good literal example of this process, one that does in fact involve numbers, is a beginner’s very first chess lesson. All chess players learn that the pieces have numerical equivalents—bishops and knights are worth three pawns, a rook is five pawns, a queen is nine. Novices are counting in their heads or on their fingers before they make exchanges. In time, they will stop counting. The pieces will achieve a more flowing and integrated value system. They will move across the board like fields of force. What was once seen mathematically is now felt intuitively.
 
 ---
 
-# CHAPTER 8
+# 8. Breaking Stallions
+
+## CHAPTER 8
 
 ## BREAKING STALLIONS
 
@@ -639,7 +546,7 @@ After finishing On the Road, I began reading The Dharma Bums, Kerouac’s fantas
 
 That’s when I took off to live in Slovenia, and it was in my European wanderings that I found the Tao Te Ching—an ancient Chinese text of naturalist musings, believed to be written by the hermetic sage Laotse (also known as Lao Tsu) in the 6th century B.C.E. I described earlier how during these years my relationship to chess became increasingly introspective and decreasingly competitive. A large factor in this movement was my deepening connection to Taoist philosophy.
 
-Studying the Tao Te Ching, I felt like I was unearthing everything I sensed but could not yet put into words. I yearned to “blunt my sharpness,” to temper my ambitions and make a movement away from the material.[^I](part0016.html#note7) Laotse’s focus was inward, on the underlying essence as opposed to the external manifestations. The Tao Te Ching’s wisdom centers on releasing obstructions to our natural insight, seeing false constructs for what they are and leaving them behind. This made sense to me aesthetically, as I was already involved with my study of numbers to leave numbers. My understanding of learning was about searching for the flow that lay at the heart of, and transcended, the technical. The resonance of these ideas was exciting for me, and turned out to be hugely important later in my life. But for an eighteen-year-old boy, more than anything the Tao Te Ching provided a framework to help me sort out my complicated relationship to material ambition. It helped me figure out what was important apart from what we are told is important.
+Studying the Tao Te Ching, I felt like I was unearthing everything I sensed but could not yet put into words. I yearned to “blunt my sharpness,” to temper my ambitions and make a movement away from the material.^I Laotse’s focus was inward, on the underlying essence as opposed to the external manifestations. The Tao Te Ching’s wisdom centers on releasing obstructions to our natural insight, seeing false constructs for what they are and leaving them behind. This made sense to me aesthetically, as I was already involved with my study of numbers to leave numbers. My understanding of learning was about searching for the flow that lay at the heart of, and transcended, the technical. The resonance of these ideas was exciting for me, and turned out to be hugely important later in my life. But for an eighteen-year-old boy, more than anything the Tao Te Ching provided a framework to help me sort out my complicated relationship to material ambition. It helped me figure out what was important apart from what we are told is important.
 
 When I returned to America after my time in Europe, I wanted to learn more about the ideas of ancient China. In October 1998, I walked into William C. C. Chen’s Tai Chi Chuan studio on the recommendation of a family friend. Tai Chi is the meditative and martial embodiment of Taoist philosophy, and William C. C. Chen is one of its greatest living masters. The combination was irresistible.
 
@@ -677,11 +584,13 @@ On a deeper level, the practice had the effect of connecting disparate elements 
 
 ---
 
-[I](part0016.html#note_7). Tao Te Ching, chapter 4.
+I. Tao Te Ching, chapter 4.
 
 ---
 
-# CHAPTER 10
+# 10. Investment in Loss
+
+## CHAPTER 10
 
 ## INVESTMENT IN LOSS
 
@@ -737,7 +646,9 @@ My response is that it is essential to have a liberating incremental approach th
 
 ---
 
-# CHAPTER 11
+# 11. Making Smaller Circles
+
+## CHAPTER 11
 
 ## MAKING SMALLER CIRCLES
 
@@ -749,7 +660,7 @@ I believe this little anecdote has the potential to distinguish success from fai
 
 Let’s return to the martial arts. I think it is safe to say that many people consciously or unconsciously associate the term martial art with legend and film. We think of ninjas passing invisibly through the night, or shrouded heroes running up walls and flying through the air in Crouching Tiger Hidden Dragon. We see wild leaping Van Damme kicks and Jackie Chan flips. We watch completely unrealistic choreography, filmed with sophisticated aerial wires and raucous special effects, and some of us come away wanting to do that stuff too. This leads to the most common error in the learning of martial arts: to take on too much at once. Many “Kung Fu” schools fuel this problem by teaching numerous flowery forms, choreographed sets of movement, and students are rated by how many forms they know. Everyone races to learn more and more, but nothing is done deeply. Things look pretty but they are superficial, without a sound body mechanic or principled foundation. Nothing is learned at a high level and what results are form collectors with fancy kicks and twirls that have absolutely no martial value.
 
-I had a different approach. From very early on, I felt that the moving meditation of Tai Chi Chuan has the primary martial purpose of allowing practitioners to refine certain fundamental principles.[^I](part0018.html#note8) Many of them can be explored by standing up, taking a stance, and incrementally refining the simplest of movements—for example pushing your hands six inches through the air. With the practice of this type of simplified motion you can feel the subtlest ripples inside the body. You become aware of all the tension that resides in your feet, legs, back, and shoulders. Then you release the tension, step by step, hour by hour, month by month, and with the fading of tension comes a whole new world of sensation. You learn to direct your awareness inside the body, and soon enough your fingers come alive with tingling, you feel heat surging up your back and through your arms. The Tai Chi system can be seen as a comprehensive laboratory for internalizing good fundamentals, releasing tension, and cultivating energetic awareness.
+I had a different approach. From very early on, I felt that the moving meditation of Tai Chi Chuan has the primary martial purpose of allowing practitioners to refine certain fundamental principles.^I Many of them can be explored by standing up, taking a stance, and incrementally refining the simplest of movements—for example pushing your hands six inches through the air. With the practice of this type of simplified motion you can feel the subtlest ripples inside the body. You become aware of all the tension that resides in your feet, legs, back, and shoulders. Then you release the tension, step by step, hour by hour, month by month, and with the fading of tension comes a whole new world of sensation. You learn to direct your awareness inside the body, and soon enough your fingers come alive with tingling, you feel heat surging up your back and through your arms. The Tai Chi system can be seen as a comprehensive laboratory for internalizing good fundamentals, releasing tension, and cultivating energetic awareness.
 
 I practiced the Tai Chi meditative form diligently, many hours a day. At times I repeated segments of the form over and over, honing certain techniques while refining my body mechanics and deepening my sense of relaxation. I focused on small movements, sometimes spending hours moving my hand out a few inches, then releasing it back, energizing outwards, connecting my feet to my fingertips with less and less obstruction. Practicing in this manner, I was able to sharpen my feeling for Tai Chi. When through painstaking refinement of a small movement I had the improved feeling, I could translate it onto other parts of the form, and suddenly everything would start flowing at a higher level. The key was to recognize that the principles making one simple technique tick were the same fundamentals that fueled the whole expansive system of Tai Chi Chuan.
 
@@ -781,11 +692,13 @@ This concept of Making Smaller Circles has been a critical component of my learn
 
 ---
 
-[I](part0018.html#note_8). For example: shifting weight by releasing the hip joints; ever-deepening relaxation; the coordination of mind, breath, and body; awareness of internal energies; winding up to deliver a strike; coiling incoming force down into the ground; rooting; emptying one part of the body while energizing another.
+I. For example: shifting weight by releasing the hip joints; ever-deepening relaxation; the coordination of mind, breath, and body; awareness of internal energies; winding up to deliver a strike; coiling incoming force down into the ground; rooting; emptying one part of the body while energizing another.
 
 ---
 
-# CHAPTER 12
+# 12. Using Adversity
+
+## CHAPTER 12
 
 ## USING ADVERSITY
 
@@ -831,7 +744,9 @@ Ultimately we should learn how to use the lessons from this type of experience w
 
 ---
 
-# CHAPTER 13
+# 13. Slowing Down Time
+
+## CHAPTER 13
 
 ## SLOWING DOWN TIME
 
@@ -867,7 +782,7 @@ This is where things get interesting. We are at the moment when psychology begin
 
 For a physical analogy, consider your vision. Let’s allow the conscious mind to be represented by your area of visual focus, and your unconscious to be your peripheral vision. Chances are you are sitting down reading this book. What you see is the book. Now if you relax your eyes and allow your peripheral vision to take over, your visual awareness will take in much more, you can see things that are well off to the side. Now, the next step is to refocus on the book, while maintaining a peripheral awareness. This is a skill that some martial artists cultivate for situations with multiple opponents or other such unpredictable occasions. In a relaxed enough state of mind, you can zoom in on something in front of you with great precision while maintaining a very sharp awareness of your surroundings. Along these lines, chess players must let the unconscious flow while the conscious leads and follows, sorting out details, putting things in order, making precise mathematical calculations.
 
-Most people would be surprised to discover that if you compare the thought process of a Grandmaster to that of an expert (a much weaker, but quite competent chess player), you will often find that the Grandmaster consciously looks at less, not more. That said, the chunks of information that have been put together in his mind allow him to see much more with much less conscious thought. So he is looking at very little and seeing quite a lot. This is the critical idea.[^I](part0020.html#note9)
+Most people would be surprised to discover that if you compare the thought process of a Grandmaster to that of an expert (a much weaker, but quite competent chess player), you will often find that the Grandmaster consciously looks at less, not more. That said, the chunks of information that have been put together in his mind allow him to see much more with much less conscious thought. So he is looking at very little and seeing quite a lot. This is the critical idea.^I
 
 Now, think of me, Josh, competing against a less refined martial artist. Let’s say I am in the process of instigating a throw that involves six technical steps. My opponent will experience an indecipherable flurry of action, while for me the six external steps of the throw are just the outer rim of a huge network of chunks. Our realities are very different. I am “seeing” much more than he is seeing.
 
@@ -883,7 +798,7 @@ Recall that initially I experienced the whole throw as a blur, too fast to decip
 
 The key to this process is understanding that the conscious mind, for all its magnificence, can only take in and work with a certain limited amount of information in a unit of time—envision that capacity as one page on your computer screen. If it is presented with a large amount of information, then the font will have to be very small in order to fit it all on the page. You will not be able to see the details of the letters. But if that same tool (the conscious mind) is used for a much smaller amount of information in the same amount of time, then we can see every detail of each letter. Now time feels slowed down.
 
-Another way of understanding this difference in perception is with the analogy of a camera.[^II](part0020.html#note10) With practice I am making networks of chunks and paving more and more neural pathways, which effectively takes huge piles of data and throws it over to my high-speed processor—the unconscious. Now my conscious mind, focusing on less, seems to rev up its shutter speed from, say, four frames per second to 300 or 400 frames per second. The key is to understand that my trained mind is not necessarily working much faster than an untrained mind—it is simply working more effectively, which means that my conscious mind has less to deal with. Experientially, because I am looking at less, there are, within the same unit of time, hundreds of frames in my mind, and maybe only a few for my opponent (whose conscious mind is bogged down with much more data that has not yet been internalized as unconsciously accessible). I can now operate in all those frames that he doesn’t even see.
+Another way of understanding this difference in perception is with the analogy of a camera.^II With practice I am making networks of chunks and paving more and more neural pathways, which effectively takes huge piles of data and throws it over to my high-speed processor—the unconscious. Now my conscious mind, focusing on less, seems to rev up its shutter speed from, say, four frames per second to 300 or 400 frames per second. The key is to understand that my trained mind is not necessarily working much faster than an untrained mind—it is simply working more effectively, which means that my conscious mind has less to deal with. Experientially, because I am looking at less, there are, within the same unit of time, hundreds of frames in my mind, and maybe only a few for my opponent (whose conscious mind is bogged down with much more data that has not yet been internalized as unconsciously accessible). I can now operate in all those frames that he doesn’t even see.
 
 This is why profoundly refined martial artists can sometimes appear mystical to less skilled practitioners—they have trained themselves to perceive and operate within segments of time that are too small to be perceived by untrained minds.
 
@@ -891,13 +806,15 @@ Now, returning to the scene that initially inspired this movement of thought in 
 
 ---
 
-[I](part0020.html#note_9). A technical example of how this might function in chess is for a player to consider a pair of opposing bishops on a semi-open chessboard. There is a huge amount of information which is fundamental to deciphering the dynamics of those two bishops—that is, central pawn structure, surrounding pieces, potential trades, possible transitions to closed or open games or to endgames of varying pawn structures, initiative, king safety, principles of interpreting these principles, principles of interpreting those interpretive principles, and so on. For the Grandmaster the list is very long. For the expert, it is relatively short. But more importantly, the Grandmaster has a much more highly evolved navigational system, so he can sort through his expansive network of bishop-related knowledge in a flash (he sees bishop and immediately processes all related information), while the expert has to labor through a much smaller amount of data with much more effort. The Grandmaster looks at less and sees more, because his unconscious skill set is much more highly evolved.
+I. A technical example of how this might function in chess is for a player to consider a pair of opposing bishops on a semi-open chessboard. There is a huge amount of information which is fundamental to deciphering the dynamics of those two bishops—that is, central pawn structure, surrounding pieces, potential trades, possible transitions to closed or open games or to endgames of varying pawn structures, initiative, king safety, principles of interpreting these principles, principles of interpreting those interpretive principles, and so on. For the Grandmaster the list is very long. For the expert, it is relatively short. But more importantly, the Grandmaster has a much more highly evolved navigational system, so he can sort through his expansive network of bishop-related knowledge in a flash (he sees bishop and immediately processes all related information), while the expert has to labor through a much smaller amount of data with much more effort. The Grandmaster looks at less and sees more, because his unconscious skill set is much more highly evolved.
 
-[II](part0020.html#note_10). The brilliant neurologist Oliver Sacks has explored the imagery of shutter speed in an article for The New Yorker and in other writings about the different perceptual patterns of his patients with neurological diseases.
+II. The brilliant neurologist Oliver Sacks has explored the imagery of shutter speed in an article for The New Yorker and in other writings about the different perceptual patterns of his patients with neurological diseases.
 
 ---
 
-# CHAPTER 14
+# 14. The Illusion of the Mystical
+
+## CHAPTER 14
 
 ## THE ILLUSION OF THE MYSTICAL
 
@@ -1013,7 +930,9 @@ The secret is that everything is always on the line. The more present we are at 
 
 ---
 
-# CHAPTER 16
+# 16. Searching for the Zone
+
+## CHAPTER 16
 
 ## SEARCHING FOR THE ZONE
 
@@ -1071,7 +990,9 @@ Interval work is a critical building block to becoming a consistent long-term pe
 
 ---
 
-# CHAPTER 17
+# 17. Building Your Trigger
+
+## CHAPTER 17
 
 ## BUILDING YOUR TRIGGER
 
@@ -1159,7 +1080,9 @@ Of course the advantages to such condensing practice extend far beyond the profe
 
 ---
 
-# CHAPTER 18
+# 18. Making Sandals
+
+## CHAPTER 18
 
 ## MAKING SANDALS
 
@@ -1241,7 +1164,9 @@ But how do you play your best when there is no one around to provide motivation?
 
 ---
 
-# CHAPTER 19
+# 19. Bringing It All Together
+
+## CHAPTER 19
 
 ## BRINGING IT ALL TOGETHER
 
@@ -1257,7 +1182,7 @@ In the two years following my first experience in Taiwan, I really buckled down 
 
 Until I went to Taiwan, I had no idea what to expect. And sure enough, the top competitors were armed with a skill set I had never dreamed of. They were remarkable athletes who had grown up in a culture that cultivated the refinement of Push Hands in the same way that the old Soviet Union had mastered the engineering of great chess players. Following that first tournament, I was armed with direct observation and many hours of video of the toughest Push Hands players in the world. That video footage of the top Taiwanese competitors would prove to be a crucial well of information.
 
-After my first trip to Taiwan, I saw that the greatest practitioners were not mystics, but profoundly dedicated martial artists who had refined certain fundamental skills at a tremendously high level. The subtlety of their unbalancing techniques was sometimes mind-boggling. While an untrained eye might have seen nothing, these players were using incredibly potent combinations designed to provoke the tiniest of leans—and then opponents were on the floor. From 2000 to 2002, I studied these tapes in detail and slowly refined my game. During those years much of my training was with my dear friend Tom Otterness, who is William Chen’s senior student and one of the most powerful internal martial artists I have ever known. Tom is a sculptor who spends his days molding clay and who subsequently has hands and arms that feel like a bear’s—add over thirty-five years of Tai Chi training and it’s no surprise that Tom hits like an avalanche. When Tom and I first started working together, he would smash me all over the ring. I felt like a tennis ball meeting a wall of force, and to make matters worse Tom was also a heat-seeking missile—there was no avoiding his power. I was forced to add subtlety to my neutralizations and to build up my root[^I](part0027.html#note11) so I could survive his onslaughts. Working with Tom night after night gave me the confidence that I could stand in the ring with anyone.
+After my first trip to Taiwan, I saw that the greatest practitioners were not mystics, but profoundly dedicated martial artists who had refined certain fundamental skills at a tremendously high level. The subtlety of their unbalancing techniques was sometimes mind-boggling. While an untrained eye might have seen nothing, these players were using incredibly potent combinations designed to provoke the tiniest of leans—and then opponents were on the floor. From 2000 to 2002, I studied these tapes in detail and slowly refined my game. During those years much of my training was with my dear friend Tom Otterness, who is William Chen’s senior student and one of the most powerful internal martial artists I have ever known. Tom is a sculptor who spends his days molding clay and who subsequently has hands and arms that feel like a bear’s—add over thirty-five years of Tai Chi training and it’s no surprise that Tom hits like an avalanche. When Tom and I first started working together, he would smash me all over the ring. I felt like a tennis ball meeting a wall of force, and to make matters worse Tom was also a heat-seeking missile—there was no avoiding his power. I was forced to add subtlety to my neutralizations and to build up my root^I so I could survive his onslaughts. Working with Tom night after night gave me the confidence that I could stand in the ring with anyone.
 
 When I went back to the Chung Hwa Cup in late November 2002, I was ready, or so I thought. By now I had won the U.S. Nationals for three straight years. I regularly competed in multiple weight categories, often giving up over a hundred pounds to my opponents and consistently winning heavyweight and super-heavyweight titles. I was a much improved martial artist and I also knew what I was getting myself into. My first match of that 2002 Chung Hwa Cup was against the Austrian representative, who had just won the European Championship a few months before the Worlds. I described in the previous chapter how early in the match he nailed me with an upper cut to the groin. He was a dirty player who counted on getting into his opponents’ heads, but a large part of my training the previous couple of years had been focused on handling his ilk. I buckled down and knocked him out of the tournament.
 
@@ -1315,11 +1240,13 @@ After seven or eight weeks of this work, we had internalized a very tight networ
 
 ---
 
-[I](part0027.html#note_11). As a reminder, by “root” I am referring to the ability to hold one’s ground while directing incoming force down, into the floor. You can then channel the force back up from the ground and bounce an opponent away. When a martial artist is described as having a “deep root” the parallel is to a tree—it feels as if his or her body is extended into the earth.
+I. As a reminder, by “root” I am referring to the ability to hold one’s ground while directing incoming force down, into the floor. You can then channel the force back up from the ground and bounce an opponent away. When a martial artist is described as having a “deep root” the parallel is to a tree—it feels as if his or her body is extended into the earth.
 
 ---
 
-# CHAPTER 20
+# 20. Taiwan
+
+## CHAPTER 20
 
 ## TAIWAN
 
@@ -1465,7 +1392,7 @@ Then I just sat down and watched chaos take over. Witnesses came from all over w
 
 ---
 
-# AFTERWORD
+# Afterword
 
 Two years after the madness of that World Championship in Taiwan, I am still digesting the experience. Never in my life have I had to dig so deeply into myself. Not even close. It was thrilling and also a bit alienating. I saw parts of myself I didn’t know about. To survive and win, I became a gladiator, pure and simple. I hadn’t fully understood that he was inside of me, waiting, but surely all the work I had done for years had made him possible, perhaps inevitable.
 
@@ -1476,92 +1403,3 @@ How did this new part of myself relate to the Josh I’d known my whole life, th
 The writing off this book has spanned an intense and unlikely stretch of years. As a kid growing up, in my tiny room I could never have dreamed that such battles awaited me. While writing these pages, my ideas have evolved, loves have fallen apart and come anew, world championships were lost and won. If I have learned anything over my first twenty-nine years, it is that we cannot calculate our important contests, adventures, and great loves to the end. The only thing we can really count on is getting surprised. No matter how much preparation we do, in the real tests of our lives, we’ll be in unfamiliar terrain. Conditions might not be calm or reasonable. It may feel as though the whole world is stacked against us. This is when we have to perform better than we ever conceived of performing. I believe the key is to have prepared in a manner that allows for inspiration, to have laid the foundation for us to create under the wildest pressures we ever imagined.
 
 It is my hope that you, the reader, emerge from this book inspired and perhaps a bit more enabled to follow your dreams in a manner that is consistent with the unique gifts you bring to the table. That has been my ambition. The ideas I’ve shared in these pages have worked for me and it’s my hope that they suggest a structure and direction. But there is no such thing as a fixed recipe for victory or happiness. If my approach feels right, take it, hone it, give it your own flavor. Leave my numbers behind. In the end, mastery involves discovering the most resonant information and integrating it so deeply and fully it disappears and allows us to fly free.
-
----
-
-# ACKNOWLEDGEMENTS
-
-My father, Freddy Waitzkin, has had my back through it all. Pop, I can’t thank you enough for all the love, patience, guidance, and loyalty. You’ve been in my corner through thick and thin, and we both know I couldn’t have done it without you. Mom, you’re the greatest mother anyone could ever dream of. Katya, my gutsy dive partner and baby sister, I am so proud of you. I love you guys. In our crazy Waitzkin way, we keep it together.
-
-I’ve been blessed with some wonderful teachers in my life. My Grandma, Stella Waitzkin, whom I miss terribly, taught me to listen. Shellie Sclan got me writing. Dennis Dalton and Robert Thurman got me feeling. William C. C. Chen taught me to let go. John Machado has me rolling all over again.
-
-My dear friends and teammates, Dan Caulfield, Max Chen, Tom Otterness, Jan C. Childress, Jan L. Childress, Trevor Cohen, and the Little Warrior: Irving Yee—thank you, guys, for helping me create our laboratory. We’ve got a long way to go.
-
-As for the birth of this book, I am enormously indebted to my agent Binky Urban, who was just plain great. Thank you so much for your patience and your vision, Binky.
-
-My fabulous editor Liz Stein believed in this book from day one and then gave me the room to bring it together. It is a true pleasure working with you, Liz, and I have learned so much from the process.
-
-Mike Bryan, John Maroon, and John Henrich, many thanks for reaching out with such generosity.
-
-I had some readers who gave me valuable feedback when I needed it. Desiree Cifre, Bonnie Waitzkin, Elta Smith, Bindu Suresh, Hannah Beth King, Toby Buggiani, Tom Otterness, Dan Caulfield, you guys are great. Pop, you’ve been a rock.
-
-Light Buggiani, David Arnett, Rebecca Mayer, Maurice Ashley, Andy Manning, Jeffrey Newman, Mike Bryan, Paul Pines, Carol Jarecki, Bruce Pandolfini, Svetozar Jovanovic, Diana and Jonathan Wade, thank you for the friendship and inspiration.
-
-Desi baby, you are a dream come true.
-
----
-
-# ABOUT THE AUTHOR
-
-Josh Waitzkin, an eight-time National Chess Champion in his youth, was the subject of the book and movie Searching for Bobby Fischer. At eighteen, he published his first book, Josh Waitzkin’s Attacking Chess. Since the age of twenty, he has developed and been spokesperson for Chessmaster, the largest computer chess program in the world, currently in its eleventh edition. Now a martial arts champion, he holds a combined twenty-one National Championship titles in addition to several World Championship titles. He regularly gives seminars and keynote presentations and is president of the JW Foundation, a nonprofit devoted to maximizing each student’s unique potential through an enriched educational process.
-
----
-
-# Chapter 28
-
-We hope you enjoyed reading this Free Press eBook.
-
----
-
-Join our mailing list and get updates on new releases, deals, bonus content and other great books from Free Press and Simon & Schuster.
-
-[CLICK HERE TO SIGN UP](http://eBookNews.SimonandSchuster.com/back/9781416538868)
-
-or visit us online to sign up at
-[eBookNews.SimonandSchuster.com](http://eBookNews.SimonandSchuster.com/back/9781416538868)
-
----
-
-# Chapter 29
-
-[Image: Images]
-
-FREE PRESS
-
-A Division of Simon & Schuster Inc.
-
-1230 Avenue of the Americas
-
-New York, NY 10020
-
-[www.SimonandSchuster.com](http://www.SimonandSchuster.com)
-
-Copyright © 2007 by Josh Waitzkin LLC
-
-All rights reserved, including the right to reproduce this book or portions thereof in any form whatsoever. For information address Free Press Subsidiary Rights Department, 1230 Avenue of the Americas, New York, NY 10020
-
-First Free Press trade paperback edition May 2008
-
-FREE PRESS and colophon are trademarks of Simon & Schuster, Inc.
-
-Part pages photo credits:
-
-[Part 1](part0006_split_001.html#part_1): Josh at the Manhattan Chess Club, age seven. Photo by Bonnie Waitzkin.
-
-[Part 2](part0015_split_001.html#part_2): Training for the 2002 Worlds. Photo by Andrew Kist.
-
-[Part 3](part0022_split_001.html#part_3): The second to last throw of the Finals, 2004 World Championships. Courtesy of the author.
-
-DESIGNED BY ERICH HOBBING
-
-Library of Congress Cataloging-in-Publication Data Control Number: 2006052539
-
-ISBN 13: 978-0-7432-7745-7
-
-ISBN 10:    0-7432-7745-7
-
-ISBN 13: 978-0-7432-7746-4 (pbk)
-
-ISBN-10:    0-7432-7746-5 (pbk)
-
-ISBN-13: 978-1-4165-3886-8 (eBook)

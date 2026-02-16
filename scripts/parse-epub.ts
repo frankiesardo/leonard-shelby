@@ -22,11 +22,83 @@ import { slugify, escapeYaml } from "./types.js";
 
 const PROJECT_ROOT = resolve(import.meta.dirname, "..");
 
+/** Titles that indicate boilerplate epub sections, not real content. */
+const BOILERPLATE_TITLE_PATTERNS = [
+  /^copyright$/i,
+  /^cover$/i,
+  /^title\s*page$/i,
+  /^dedication$/i,
+  /^epigraph$/i,
+  /^acknowledgm?ents?$/i,
+  /^(a\s+)?note\s+(about|from|on)\s+the\s+author$/i,
+  /^about\s+the\s+author$/i,
+  /^other\s+books?\s+by\s+(this|the)\s+author$/i,
+  /^also\s+by\s+/i,
+  /^(table\s+of\s+)?contents$/i,
+  /^colophon$/i,
+  /^index$/i,
+  /^bibliography$/i,
+  /^(further|suggested)\s+reading$/i,
+  /^praise\s+for\s+/i,
+  /^newsletter$/i,
+  /^(front|back)\s*matter$/i,
+];
+
+function isBoilerplateTitle(title: string): boolean {
+  const cleaned = title.replace(/[*_]/g, "").trim();
+  return BOILERPLATE_TITLE_PATTERNS.some((p) => p.test(cleaned));
+}
+
+/**
+ * Content-based boilerplate detection for when titles are generic ("Chapter N").
+ * Returns a reason string if boilerplate, or null if it looks like real content.
+ */
+function detectBoilerplateContent(content: string, bookAuthor: string): string | null {
+  const text = content.replace(/[#*_>\-|`]/g, "").trim();
+  const len = text.length;
+
+  if (/Copyright\s+©|All rights reserved/i.test(text)) return "copyright";
+  if (/downloading this|enjoyed reading this|mailing list[\s\S]{0,200}sign up|sign up[\s\S]{0,200}mailing list/i.test(text)) return "ebook-promo";
+  if (/^praise\s+for\b/im.test(text)) return "praise";
+
+  // Short sections that look like dedication, epigraph, or colophon
+  if (len < 300) {
+    const lineCount = text.split(/\n/).filter((l) => l.trim()).length;
+    if (lineCount <= 5) return "short-frontmatter";
+  }
+
+  // Acknowledgments: short + contains gratitude language
+  if (len < 2000 && /\b(thank|grateful|gratitude|indebt)\b/i.test(text.slice(0, 500))) {
+    return "acknowledgments";
+  }
+
+  // About the author: starts with author's last name or full name and reads as a bio
+  if (len < 2000 && bookAuthor) {
+    const lastName = bookAuthor.split(/\s+/).pop() || "";
+    const firstLine = text.split(/\n/).find((l) => l.trim()) || "";
+    if (lastName && new RegExp(`\\b${lastName}\\b`, "i").test(firstLine)) {
+      if (/\b(is a|was born|lives in|author of|member of|professor|writer)\b/i.test(text)) {
+        return "about-author";
+      }
+    }
+  }
+
+  // "Also by" / bibliography of the same author
+  if (len < 1500 && bookAuthor) {
+    const lastName = bookAuthor.split(/\s+/).pop() || "";
+    const firstLine = text.split(/\n/).find((l) => l.trim()) || "";
+    if (lastName && /\b(also by|other books)\b/i.test(firstLine)) return "also-by";
+  }
+
+  return null;
+}
+
 interface Chapter {
   title: string;
   slug: string;
   content: string;
   order: number;
+  isBoilerplate: boolean;
 }
 
 async function main() {
@@ -121,15 +193,33 @@ async function main() {
     const chapterTitle =
       tocTitle || headingTitle || `Chapter ${chapterNum}`;
 
+    let boilerplate = isBoilerplateTitle(chapterTitle);
+    let boilerplateReason = boilerplate ? "title" : null;
+
+    if (!boilerplate) {
+      const contentReason = detectBoilerplateContent(markdown, bookAuthor);
+      if (contentReason) {
+        boilerplate = true;
+        boilerplateReason = contentReason;
+      }
+    }
+
     chapters.push({
       title: chapterTitle,
       slug: slugify(chapterTitle),
       content: markdown,
       order: chapterNum,
+      isBoilerplate: boilerplate,
     });
+
+    if (boilerplate) {
+      console.log(`    skip: "${chapterTitle}" (${boilerplateReason})`);
+    }
   }
 
-  console.log(`  chapters: ${chapters.length}`);
+  const contentChapters = chapters.filter((ch) => !ch.isBoilerplate);
+  const boilerplateChapters = chapters.filter((ch) => ch.isBoilerplate);
+  console.log(`  chapters: ${chapters.length} total, ${contentChapters.length} content, ${boilerplateChapters.length} boilerplate`);
 
   if (chapters.length === 0) {
     console.error("No chapters found in EPUB");
@@ -138,15 +228,17 @@ async function main() {
 
   const bookFolder = `sources/books/${bookSlug}`;
 
-  // Write chapter files
+  // Write chapter files (content chapters only, renumbered sequentially)
   const chapterFiles: { file: string; title: string; order: number }[] = [];
 
-  for (const ch of chapters) {
-    const paddedNum = String(ch.order).padStart(2, "0");
+  let contentNum = 0;
+  for (const ch of contentChapters) {
+    contentNum++;
+    const paddedNum = String(contentNum).padStart(2, "0");
     const fileName = `ch${paddedNum}-${ch.slug}`;
-    chapterFiles.push({ file: fileName, title: ch.title, order: ch.order });
+    chapterFiles.push({ file: fileName, title: ch.title, order: contentNum });
 
-    const contentBody = stripLeadingHeading(ch.content, ch.title);
+    const contentBody = cleanupMarkdown(stripLeadingHeading(ch.content, ch.title));
     const fileContent = `# ${ch.title}\n\n${contentBody}\n`;
 
     const destPath = `${bookFolder}/${fileName}.md`;
@@ -157,12 +249,12 @@ async function main() {
     }
   }
 
-  // Write source.md (full text, all chapters concatenated)
+  // Write source.md (full text, content chapters only)
   const sourcePath = `${bookFolder}/source.md`;
   if (!existsSync(resolve(PROJECT_ROOT, sourcePath))) {
-    const fullText = chapters
+    const fullText = contentChapters
       .map((ch) => {
-        const body = stripLeadingHeading(ch.content, ch.title);
+        const body = cleanupMarkdown(stripLeadingHeading(ch.content, ch.title));
         return `# ${ch.title}\n\n${body}`;
       })
       .join("\n\n---\n\n");
@@ -225,6 +317,21 @@ function parseSpine(opf: string): string[] {
 
 // ── TOC parsing ──
 
+/** Find a manifest <item> by matching one attribute value (attribute-order-independent). */
+function findManifestItemHref(opf: string, attrName: string, attrValuePattern: RegExp): string | null {
+  const itemRegex = /<item\s+([^>]+)>/g;
+  let match;
+  while ((match = itemRegex.exec(opf)) !== null) {
+    const attrs = match[1];
+    const attrMatch = attrs.match(new RegExp(`${attrName}="([^"]+)"`));
+    if (attrMatch && attrValuePattern.test(attrMatch[1])) {
+      const hrefMatch = attrs.match(/href="([^"]+)"/);
+      if (hrefMatch) return decodeURIComponent(hrefMatch[1]);
+    }
+  }
+  return null;
+}
+
 async function parseToc(
   zip: JSZip,
   opfContent: string,
@@ -232,11 +339,10 @@ async function parseToc(
 ): Promise<Map<string, string>> {
   const titles = new Map<string, string>();
 
-  const navMatch = opfContent.match(
-    /<item[^>]*properties="[^"]*nav[^"]*"[^>]*href="([^"]+)"[^>]*>/,
-  );
-  if (navMatch) {
-    const navPath = rootDir + decodeURIComponent(navMatch[1]);
+  // EPUB3: find item with properties containing "nav"
+  const navHref = findManifestItemHref(opfContent, "properties", /\bnav\b/);
+  if (navHref) {
+    const navPath = rootDir + navHref;
     const navHtml = await zip.file(navPath)?.async("text");
     if (navHtml) {
       const $ = cheerio.load(navHtml, { xml: false });
@@ -253,11 +359,10 @@ async function parseToc(
     }
   }
 
-  const ncxMatch = opfContent.match(
-    /<item[^>]*media-type="application\/x-dtbncx\+xml"[^>]*href="([^"]+)"[^>]*>/,
-  );
-  if (ncxMatch) {
-    const tocPath = rootDir + decodeURIComponent(ncxMatch[1]);
+  // EPUB2: find NCX item by media-type
+  const ncxHref = findManifestItemHref(opfContent, "media-type", /^application\/x-dtbncx\+xml$/);
+  if (ncxHref) {
+    const tocPath = rootDir + ncxHref;
     const tocXml = await zip.file(tocPath)?.async("text");
     if (tocXml) {
       const navPointRegex =
@@ -330,13 +435,14 @@ function htmlToMarkdown(
       }
       case "a": {
         const href = $(el).attr("href");
-        if (href && !href.startsWith("#"))
+        if (href && !href.startsWith("#") && !isInternalEpubLink(href))
           return `[${children.trim()}](${href})`;
         return children;
       }
       case "img": {
         const alt = $(el).attr("alt") || "";
-        return alt ? `[Image: ${alt}]` : "";
+        if (!alt || alt.toLowerCase() === "image") return "";
+        return `[Image: ${alt}]`;
       }
       case "hr": return "\n---\n";
       case "code": return `\`${children}\``;
@@ -388,6 +494,37 @@ function processTable(
     lines.splice(1, 0, sep);
   }
   return "\n" + lines.join("\n") + "\n";
+}
+
+/** Detect links that point within the epub (cross-references, not real URLs). */
+function isInternalEpubLink(href: string): boolean {
+  if (href.startsWith("http://") || href.startsWith("https://") || href.startsWith("mailto:")) {
+    return false;
+  }
+  // Typical epub internal refs: part0001.html#rchapter07, chapter3.xhtml, etc.
+  if (/^[^/]*\.(html|xhtml|htm)(#.*)?$/.test(href)) return true;
+  // Relative paths inside the epub like ../text/chapter1.html
+  if (/\.(html|xhtml|htm)(#.*)?$/.test(href)) return true;
+  return false;
+}
+
+/**
+ * Clean up common epub artifacts in generated markdown.
+ * Belt-and-suspenders: the HTML→markdown conversion handles most of these,
+ * but complex epubs sometimes produce artifacts that slip through.
+ */
+function cleanupMarkdown(md: string): string {
+  return md
+    // Remove [Image: Image] placeholders (meaningless alt text)
+    .replace(/\[Image:\s*Image\]/gi, "")
+    // Remove empty headings (# with no text after it)
+    .replace(/^#{1,6}\s*$/gm, "")
+    // Remove internal epub link syntax, keep display text
+    // e.g. [Title](part0001.html#rchapter07) → Title
+    .replace(/\[([^\]]+)\]\([^)]*\.(?:html|xhtml|htm)(?:#[^)]*)?\)/g, "$1")
+    // Collapse triple+ blank lines left behind by removals
+    .replace(/\n{3,}/g, "\n\n")
+    .trim();
 }
 
 function stripLeadingHeading(content: string, title: string): string {

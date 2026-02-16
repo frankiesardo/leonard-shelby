@@ -4,51 +4,7 @@
 
 ---
 
-# Chapter 1
-
-THIS IS A BORZOI BOOK
-
-PUBLISHED BY ALFRED A. KNOPF
-
-Copyright © 2012 by Verlyn Klinkenborg
-
-All rights reserved. Published in the United States by Alfred A. Knopf, a division of Random House, Inc., New York, and in Canada by Random House of Canada Limited, Toronto.
-
-[www.aaknopf.com](http://www.aaknopf.com)
-
-Knopf, Borzoi Books, and the colophon are registered trademarks of 
-Random House, Inc.
-
-Grateful acknowledgment is made to Farrar, Straus and Giroux, LLC, for permission to reprint excerpts from the following: “John Wayne:
-A Love Song” from *Slouching Towards Bethlehem* by Joan Didion.
-Copyright © 1966, 1968, renewed 1996 by Joan Didion.
-Reprinted by permission of Farrar, Straus and Giroux, LLC.
-
-Library of Congress Cataloging-in-Publication Data
-Klinkenborg, Verlyn.
-Several short sentences about writing / Verlyn Klinkenborg. — 1st ed.
-p. cm.
-“This is a Borzoi Book.”
-eISBN: 978-0-307-95849-5
-1. Authorship. 2. Rhetoric. I. Title.
-PN151.K47 2012
-808—dc23      2011050745
-
-Jacket design by Jason Booher
-
-v3.1
-
----
-
-# Chapter 2
-
-The subject is *there* only by the grace of the author’s language.
-
-—Joyce Carol Oates
-
----
-
-# PROLOGUE
+# Prologue
 
 This is a book of first steps. Their meaning will change as your experience changes. This book contains the bones of many arguments and observations—a vertebra here, a mandible there—but the whole skeleton is what you make of it. You’ll find as much about thought and perception here as you will about language. There are no rules, only experiments.
 
@@ -68,32 +24,7 @@ Here’s a starting point. You may have no idea what way you write. I hope this 
 
 ---
 
-# Contents
-
-[*Cover*](Klin_9780307958495_epub_cvi_r1.htm)
-
-[*Title Page*](Klin_9780307958495_epub_tp_r1.htm)
-
-[*Copyright*](Klin_9780307958495_epub_cop_r1.htm)
-
-[*Dedication*](Klin_9780307958495_epub_ded_r1.htm)
-
-[*Epigraph*](Klin_9780307958495_epub_col1_r1.htm)
-
-[Prologue](Klin_9780307958495_epub_prl_r1.htm)
-[First Page](Klin_9780307958495_epub_c01_r1.htm)
-
-[*Acknowledgments*](Klin_9780307958495_epub_ack_r1.htm)
-
-[*A Note About the Author*](Klin_9780307958495_epub_ata_r1.htm)
-
-[*Other Books by This Author*](Klin_9780307958495_epub_adc_r1.htm)
-
----
-
-# Chapter 5
-
-# 
+# First Page
 
 Here, in short, is what I want to tell you.
 
@@ -5465,9 +5396,7 @@ For the reader who reads between the lines.
 
 ---
 
-# Chapter 6
-
-*Some Prose and Some Questions*
+# Some Prose and Some Questions
 
 Here are some passages to experiment with as you read this book.
 
@@ -6168,37 +6097,3 @@ There’s a thought here, though what it is is nearly impossible to say. “The 
 My mom and I drove to where the flames were.
 
 Or perhaps *drove toward the fire*?
-
----
-
-# Chapter 7
-
-# 
-
-*Acknowledgments*
-
-Thanks to Dan Frank and, as always, to Flip Brophy. I’m grateful for support from the Ucross Foundation and the John Simon Guggenheim Memorial Foundation. I’ve been aided and helpfully challenged by colleagues in several English departments, including those at Fordham University, where I first started teaching creative writing, Harvard University, and, especially, Pomona College.
-
-My greatest debt is to my students over the past thirty years. They’ve taught me far more than I’ve ever managed to teach them, and they’ve made teaching writing one of the great joys of my life.
-
----
-
-# Chapter 8
-
-# 
-
-A NOTE ABOUT THE AUTHOR
-
-Verlyn Klinkenborg is a member of the editorial board of *The New York Times*, to which he also contributes meditations about his small farm. Those pieces were collected in *The Rural Life*. His other books include *Making Hay*, *The Last Fine Time*, and *Timothy; or, Notes of an Abject Reptile*. He lives in Austerlitz, New York.
-
----
-
-# ALSO BY VERLYN KLINKENBORG
-
-*Timothy; or, Notes of an Abject Reptile*
-
-*The Rural Life*
-
-*The Last Fine Time*
-
-*Making Hay*

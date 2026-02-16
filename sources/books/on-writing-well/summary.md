@@ -32,41 +32,39 @@ The definitive manual for anyone who writes nonfiction — not because it invent
 
 ## Chapter map
 
-### Introduction
-- [Introduction](ch03-introduction.md) — How this book was born as a complement to Strunk & White, and why rewriting still matters in the electronic age
+### [Part I: Principles](part01-principles.md)
+- **Introduction** — How this book was born as a complement to Strunk & White, and why rewriting still matters in the electronic age
+1. **The Transaction** — The product you sell is not the subject but yourself; humanity and warmth are what keep readers reading
+2. **Simplicity** — Strip every sentence to its cleanest components; clear thinking is the only route to clear writing
+3. **Clutter** — Fight jargon, euphemism, and every word not doing useful work; bracket and kill ruthlessly
+4. **Style** — Style is organic, not applied; be yourself, use "I," relax — but first learn to hammer the nails
+5. **The Audience** — Write for yourself; separate craft (don't lose the reader) from attitude (don't pander to the reader)
+6. **Words** — Develop an obsessive respect for words — their shades, sounds, and rhythms; read aloud
+7. **Usage** — Be liberal with new words, conservative with grammar; know the quick from the dead
 
-### Part I: Principles
-1. [The Transaction](ch05-1.md) — The product you sell is not the subject but yourself; humanity and warmth are what keep readers reading
-2. [Simplicity](ch06-2.md) — Strip every sentence to its cleanest components; clear thinking is the only route to clear writing
-3. [Clutter](ch07-3.md) — Fight jargon, euphemism, and every word not doing useful work; bracket and kill ruthlessly
-4. [Style](ch08-4.md) — Style is organic, not applied; be yourself, use "I," relax — but first learn to hammer the nails
-5. [The Audience](ch09-5.md) — Write for yourself; separate craft (don't lose the reader) from attitude (don't pander to the reader)
-6. [Words](ch10-6.md) — Develop an obsessive respect for words — their shades, sounds, and rhythms; read aloud
-7. [Usage](ch11-7.md) — Be liberal with new words, conservative with grammar; know the quick from the dead
+### [Part II: Methods](part02-methods.md)
+8. **Unity** — Choose your unities (pronoun, tense, mood, scope) before you start; think small, leave the reader with one thought
+9. **The Lead and the Ending** — The first sentence must hook; the last must surprise; when you're ready to stop, stop
+10. **Bits & Pieces** — Active verbs, dead adverbs, short paragraphs, mood changers, the quickest fix, and why rewriting is where the game is won
 
-### Part II: Methods
-8. [Unity](ch13-8.md) — Choose your unities (pronoun, tense, mood, scope) before you start; think small, leave the reader with one thought
-9. [The Lead and the Ending](ch14-9.md) — The first sentence must hook; the last must surprise; when you're ready to stop, stop
-10. [Bits & Pieces](ch15-10.md) — Active verbs, dead adverbs, short paragraphs, mood changers, the quickest fix, and why rewriting is where the game is won
+### [Part III: Forms](part03-forms.md)
+11. **Nonfiction as Literature** — Nonfiction is the new American literature; good writing is good writing, whatever form it takes
+12. **Writing About People: The Interview** — Get people talking; their words are always better than yours; handle quotes with brevity and fair play
+13. **Writing About Places: The Travel Article** — Be intensely selective; kill travelese; find the central idea of the place, not the itinerary
+14. **Writing About Yourself: The Memoir** — Give yourself permission; memoir is a window, not a summary; think narrow, use specific detail
+15. **Science and Technology** — Lead the reader step by step from one narrow fact; use the upside-down pyramid; write like a person
+16. **Business Writing: Writing in Your Job** — Institutions can be warmed up; find the missing "I"; a simple style reflects hard thinking, not a simple mind
+17. **Sports** — Avoid exhausted synonyms and write good English; find the human bond; sport is a frontier of social change
+18. **Writing About the Arts: Critics and Columnists** — Love the medium you review; use specific detail, not ecstatic adjectives; criticism is serious intellectual work
+19. **Humor** — Humor is the secret weapon of nonfiction — urgent, serious work disguised as play; control and truth are everything
 
-### Part III: Forms
-11. [Nonfiction as Literature](ch17-11.md) — Nonfiction is the new American literature; good writing is good writing, whatever form it takes
-12. [Writing About People: The Interview](ch18-12.md) — Get people talking; their words are always better than yours; handle quotes with brevity and fair play
-13. [Writing About Places: The Travel Article](ch19-13.md) — Be intensely selective; kill travelese; find the central idea of the place, not the itinerary
-14. [Writing About Yourself: The Memoir](ch20-14.md) — Give yourself permission; memoir is a window, not a summary; think narrow, use specific detail
-15. [Science and Technology](ch21-15.md) — Lead the reader step by step from one narrow fact; use the upside-down pyramid; write like a person
-16. [Business Writing](ch22-16.md) — Institutions can be warmed up; find the missing "I"; a simple style reflects hard thinking, not a simple mind
-17. [Sports](ch23-17.md) — Avoid exhausted synonyms and write good English; find the human bond; sport is a frontier of social change
-18. [Writing About the Arts](ch24-18.md) — Love the medium you review; use specific detail, not ecstatic adjectives; criticism is serious intellectual work
-19. [Humor](ch25-19.md) — Humor is the secret weapon of nonfiction — urgent, serious work disguised as play; control and truth are everything
-
-### Part IV: Attitudes
-20. [The Sound of Your Voice](ch27-20.md) — Develop one voice across all subjects; avoid breeziness; taste is knowing what not to do; imitate the best
-21. [Enjoyment, Fear and Confidence](ch28-21.md) — Convey enjoyment; fight fear with genuine interest; your best credential is yourself; get on the plane
-22. [The Tyranny of the Final Product](ch29-22.md) — Focus on process, not product; learn to organize before you write; writing is related to character and intention
-23. [A Writer's Decisions](ch30-23.md) — Hundreds of small word-level decisions matter; organize long pieces with asterisks and logic; trust your material
-24. [Writing Family History and Memoir](ch31-24.md) — Think small; it's YOUR story, not everyone's; write vivid episodes on Monday, find the pattern on Friday
-25. [Write as Well as You Can](ch32-25.md) — Quality is its own reward; defend your style against editors; take obsessive pride in the smallest details of your craft
+### [Part IV: Attitudes](part04-attitudes.md)
+20. **The Sound of Your Voice** — Develop one voice across all subjects; avoid breeziness; taste is knowing what not to do; imitate the best
+21. **Enjoyment, Fear and Confidence** — Convey enjoyment; fight fear with genuine interest; your best credential is yourself; get on the plane
+22. **The Tyranny of the Final Product** — Focus on process, not product; learn to organize before you write; writing is related to character and intention
+23. **A Writer's Decisions** — Hundreds of small word-level decisions matter; organize long pieces with asterisks and logic; trust your material
+24. **Writing Family History and Memoir** — Think small; it's YOUR story, not everyone's; write vivid episodes on Monday, find the pattern on Friday
+25. **Write as Well as You Can** — Quality is its own reward; defend your style against editors; take obsessive pride in the smallest details of your craft
 
 ## Key ideas
 
