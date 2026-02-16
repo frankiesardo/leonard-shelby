@@ -5,6 +5,7 @@ aliases:
   - trust the process
 sources:
   - on-writing-well
+  - jim-rohn-challenges-succeed-seminar-anaheim
 domains:
   - writing
   - creative-process
@@ -17,6 +18,7 @@ related:
   - incremental-theory-of-intelligence
   - two-creations
   - p-pc-balance
+  - work-on-yourself
 ---
 
 # Process over Product
@@ -41,4 +43,5 @@ The tyranny of the final product is the tyranny of skipping the messy, uncertain
 - Waitzkin's [Incremental Theory of Intelligence](incremental-theory-of-intelligence.md) is the psychological foundation — process-orientation requires believing ability grows through effort
 - Covey's [Two Creations](two-creations.md) is the same principle at life scale — get the first creation (vision, plan) right before optimizing the second (execution)
 - [P/PC Balance](p-pc-balance.md) — investing in process is investing in Production Capability
-- Discussed in [On Writing Well](../sources/books/on-writing-well/summary.md)
+- Rohn's [Work on Yourself](work-on-yourself.md) frames this for life: "The major question to ask on the job is not what are you getting — but what are you becoming." Becoming is process; getting is product.
+- Discussed in [On Writing Well](../sources/books/on-writing-well/summary.md) and [Challenges to Succeed](../sources/transcripts/jim-rohn-challenges-succeed-seminar-anaheim/summary.md)

@@ -16,6 +16,7 @@ related:
   - making-smaller-circles
   - p-pc-balance
   - quadrant-ii
+  - seasons-of-life
 ---
 
 # Stress and Recovery
@@ -44,4 +45,5 @@ With incremental training, recovery time can become nearly instantaneous -- tiny
 - The physiological foundation for [Building Your Trigger](building-your-trigger.md) -- you must be able to release before you can re-enter the zone
 - Covey's [P/PC Balance](p-pc-balance.md) is the macro version — Production Capability (the goose) requires recovery, not just production (the eggs)
 - Recovery is a [Quadrant II](quadrant-ii.md) activity — important but never urgent, always the first thing cut under pressure
+- Rohn's [Seasons of Life](seasons-of-life.md) is stress and recovery at the macro scale: winter is the long stress, spring the recovery and renewal. Both describe oscillation; Rohn's metaphor captures years, Waitzkin's captures seconds.
 - Discussed in [The Art of Learning](../sources/books/the-art-of-learning/summary.md)

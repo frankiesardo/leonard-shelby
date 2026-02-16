@@ -38,4 +38,5 @@ Covey brings a volunteer named Elizabeth on stage — she directs an internation
 - [Quadrant II](../../../ideas/quadrant-ii.md) — this demonstration is the canonical visual metaphor for Quadrant II living
 - [P/PC Balance](../../../ideas/p-pc-balance.md) — the big rocks are PC activities; neglect them and production eventually collapses
 - [Two Creations](../../../ideas/two-creations.md) — deciding which rocks are "big" is a first-creation act
+- Rohn's [Challenges to Succeed](../jim-rohn-challenges-succeed-seminar-anaheim/summary.md) — "don't major in minor things" is the same principle from a different angle: check weekly that you're not spending major time on minor things
 - Discussed in [The 7 Habits](../../books/the-7-habits-of-highly-effective-people/summary.md) (Habit 3), though the demonstration itself comes from *First Things First*

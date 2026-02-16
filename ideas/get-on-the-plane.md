@@ -12,6 +12,7 @@ domains:
 related:
   - quality-is-its-own-reward
   - process-over-product
+  - the-day-that-turns-your-life-around
 ---
 
 # Get on the Plane
@@ -34,4 +35,5 @@ Zinsser sums it up without qualification: "Decide what you want to do. Then deci
 
 - You get on the plane because you value the work itself -- [Quality Is Its Own Reward](quality-is-its-own-reward.md)
 - The uncertainty of pursuit is managed by focusing on [Process over Product](process-over-product.md)
-- Discussed in [On Writing Well](../sources/books/on-writing-well/summary.md)
+- Rohn's [Day That Turns Your Life Around](the-day-that-turns-your-life-around.md) is getting on the plane for your whole life — "if you think trying is risky, wait till they hand you the bill for not trying"
+- Discussed in [On Writing Well](../sources/books/on-writing-well/summary.md) and echoed in [Challenges to Succeed](../sources/transcripts/jim-rohn-challenges-succeed-seminar-anaheim/summary.md)

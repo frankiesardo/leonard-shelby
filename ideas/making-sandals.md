@@ -6,6 +6,7 @@ aliases:
   - channeling emotions
 sources:
   - the-art-of-learning
+  - jim-rohn-challenges-succeed-seminar-anaheim
 domains:
   - personal-development
   - cognitive-science
@@ -15,6 +16,8 @@ related:
   - building-your-trigger
   - stress-and-recovery
   - investment-in-loss
+  - seasons-of-life
+  - work-on-yourself
 ---
 
 # Making Sandals
@@ -43,4 +46,5 @@ The key insight: if getting hit with adversity can produce a breakthrough, you d
 - [Investment in Loss](investment-in-loss.md) provides the ego-flexibility to accept adversity as teacher
 - [Building Your Trigger](building-your-trigger.md) is one method for internalizing the catalyst — creating peak states without external provocation
 - [Stress and Recovery](stress-and-recovery.md) — the ability to recover from adversity quickly is part of making sandals
-- Discussed in [The Art of Learning](../sources/books/the-art-of-learning/summary.md)
+- [Seasons of Life](seasons-of-life.md) — Rohn's "don't wish it was easier, wish you were better" is making sandals stated as a personal philosophy. You can't change the seasons; you change yourself.
+- Discussed in [The Art of Learning](../sources/books/the-art-of-learning/summary.md) and [Challenges to Succeed](../sources/transcripts/jim-rohn-challenges-succeed-seminar-anaheim/summary.md)

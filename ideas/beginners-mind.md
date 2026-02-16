@@ -5,6 +5,7 @@ aliases:
   - the power of being a novice
 sources:
   - the-art-of-learning
+  - jim-rohn-challenges-succeed-seminar-anaheim
 domains:
   - personal-development
   - cognitive-science
@@ -38,4 +39,5 @@ The enemy is the protective ego. The person who needs to look good at all times 
 - Related to [Incremental Theory of Intelligence](incremental-theory-of-intelligence.md) — only incremental thinkers can embrace the vulnerability of starting over
 - The inverse of [Numbers to Leave Numbers](numbers-to-leave-numbers.md) — periodically you must return to the numbers
 - Related to Covey's [Circle of Influence](circle-of-influence.md) — accepting what is before trying to change it; letting go of the need to control
-- Discussed in [The Art of Learning](../sources/books/the-art-of-learning/summary.md)
+- Rohn calls it "childish curiosity" — be like a child in four ways: curiosity, excitement, faith, and trust. Adults are too skeptical. "Unless you can become like little children, you might as well forget it."
+- Discussed in [The Art of Learning](../sources/books/the-art-of-learning/summary.md) and [Challenges to Succeed](../sources/transcripts/jim-rohn-challenges-succeed-seminar-anaheim/summary.md)

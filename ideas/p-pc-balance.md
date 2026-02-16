@@ -6,6 +6,7 @@ aliases:
   - sharpen the saw
 sources:
   - the-7-habits-of-highly-effective-people
+  - jim-rohn-challenges-succeed-seminar-anaheim
 domains:
   - management
   - personal-development
@@ -15,6 +16,7 @@ related:
   - stress-and-recovery
   - process-over-product
   - quadrant-ii
+  - work-on-yourself
 ---
 
 # P/PC Balance
@@ -42,4 +44,5 @@ The inverse is also true: pure PC without P is self-indulgent. You can sharpen t
 - [Process over Product](process-over-product.md) is P/PC Balance applied to creative work — invest in the process (PC) and the product (P) follows
 - [Inside-Out](inside-out.md) is the paradigm that makes PC investment intelligible — if you believe change comes from within, investing in yourself makes sense
 - [Quadrant II](quadrant-ii.md) is where PC activities live — important but never urgent, always the first thing cut
-- Discussed in [The 7 Habits of Highly Effective People](../sources/books/the-7-habits-of-highly-effective-people/summary.md)
+- Rohn's [Work on Yourself](work-on-yourself.md) — "work harder on yourself than on your job" — is pure PC investment. The goose is you.
+- Discussed in [The 7 Habits of Highly Effective People](../sources/books/the-7-habits-of-highly-effective-people/summary.md) and [Challenges to Succeed](../sources/transcripts/jim-rohn-challenges-succeed-seminar-anaheim/summary.md)

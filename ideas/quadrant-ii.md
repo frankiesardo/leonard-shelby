@@ -15,6 +15,8 @@ related:
   - two-creations
   - inside-out
   - stress-and-recovery
+  - work-on-yourself
+  - reasons-before-answers
 ---
 
 # Quadrant II
@@ -50,5 +52,7 @@ The most vivid illustration of Quadrant II comes from Covey's [Big Rocks demonst
 - [Two Creations](two-creations.md) — the first creation (planning, visioning, mission work) lives in Quadrant II
 - [Inside-Out](inside-out.md) — Quadrant II living requires internal discipline, not external pressure
 - [Stress and Recovery](stress-and-recovery.md) — recovery is a Quadrant II activity that directly improves Quadrant I performance
+- Rohn's [Work on Yourself](work-on-yourself.md) and "don't major in minor things" — the same priority logic. Personal development is the ultimate big rock.
 - Discussed in [The 7 Habits of Highly Effective People](../sources/books/the-7-habits-of-highly-effective-people/summary.md)
 - Demonstrated in [Big Rocks — Covey](../sources/transcripts/big-rocks-covey/summary.md)
+- Echoed in [Challenges to Succeed](../sources/transcripts/jim-rohn-challenges-succeed-seminar-anaheim/summary.md)

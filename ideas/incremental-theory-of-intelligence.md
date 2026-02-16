@@ -6,6 +6,7 @@ aliases:
   - learning theory of intelligence
 sources:
   - the-art-of-learning
+  - jim-rohn-challenges-succeed-seminar-anaheim
 domains:
   - personal-development
   - cognitive-science
@@ -16,6 +17,7 @@ related:
   - process-over-product
   - inside-out
   - abundance-mentality
+  - work-on-yourself
 ---
 
 # Incremental Theory of Intelligence
@@ -42,4 +44,5 @@ The hermit crab metaphor is useful: growth requires leaving the old shell and be
 - Zinsser's [Process over Product](process-over-product.md) is the same insight applied to writing: value the work, not the result
 - Covey's [Inside-Out](inside-out.md) principle requires believing change is possible — entity theorists can't change from within because they don't think change is real
 - The [Abundance Mentality](abundance-mentality.md) maps to incremental thinking: if ability grows, there's enough success for everyone
-- Discussed in [The Art of Learning](../sources/books/the-art-of-learning/summary.md)
+- Rohn's [Work on Yourself](work-on-yourself.md) is the popular formulation: "You can have more than you've got because you can become more than you are" — growth mindset stated as a life principle
+- Discussed in [The Art of Learning](../sources/books/the-art-of-learning/summary.md) and [Challenges to Succeed](../sources/transcripts/jim-rohn-challenges-succeed-seminar-anaheim/summary.md)

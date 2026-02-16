@@ -6,6 +6,7 @@ aliases:
   - character ethic
 sources:
   - the-7-habits-of-highly-effective-people
+  - jim-rohn-challenges-succeed-seminar-anaheim
 domains:
   - personal-development
   - philosophy
@@ -15,6 +16,8 @@ related:
   - incremental-theory-of-intelligence
   - process-over-product
   - investment-in-loss
+  - work-on-yourself
+  - the-day-that-turns-your-life-around
 ---
 
 # Inside-Out
@@ -37,4 +40,5 @@ This is not comfortable. It means owning that your current results are, in some 
 - [Incremental Theory of Intelligence](incremental-theory-of-intelligence.md) is the psychological prerequisite — you must believe change is possible
 - [Process over Product](process-over-product.md) applies the same logic to creative work — fix the process, and the product follows
 - [Investment in Loss](investment-in-loss.md) is Inside-Out applied to skill development — growth requires letting go of current identity
-- Discussed in [The 7 Habits of Highly Effective People](../sources/books/the-7-habits-of-highly-effective-people/summary.md)
+- [Work on Yourself](work-on-yourself.md) is Jim Rohn's version — "for things to change, you've got to change" — the ur-statement of inside-out, fifteen years before Covey
+- Discussed in [The 7 Habits of Highly Effective People](../sources/books/the-7-habits-of-highly-effective-people/summary.md) and [Challenges to Succeed](../sources/transcripts/jim-rohn-challenges-succeed-seminar-anaheim/summary.md)

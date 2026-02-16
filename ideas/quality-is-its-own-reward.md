@@ -5,6 +5,7 @@ aliases:
   - pride in craft
 sources:
   - on-writing-well
+  - jim-rohn-challenges-succeed-seminar-anaheim
 domains:
   - craft
   - work
@@ -35,4 +36,5 @@ The opposite is common and visible everywhere: people who calibrate their effort
 
 - Quality sustained over time requires [Process over Product](process-over-product.md) -- the focus must be on the work, not the result
 - An internal standard of quality is the backbone of [Writing for Yourself](write-for-yourself.md) -- you're the first judge
-- Discussed in [On Writing Well](../sources/books/on-writing-well/summary.md)
+- Rohn's millionaire friends who keep working 10-12 hour days making more millions — "not because they need the money, but because they need the joy and the satisfaction." The journey, not the money.
+- Discussed in [On Writing Well](../sources/books/on-writing-well/summary.md) and [Challenges to Succeed](../sources/transcripts/jim-rohn-challenges-succeed-seminar-anaheim/summary.md)

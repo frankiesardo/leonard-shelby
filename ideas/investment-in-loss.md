@@ -15,6 +15,7 @@ related:
   - the-soft-zone
   - difficulty-as-engagement
   - inside-out
+  - the-day-that-turns-your-life-around
 ---
 
 # Investment in Loss
@@ -42,4 +43,5 @@ If a student of any discipline could avoid repeating the same mistake twice — 
 - [The Soft Zone](the-soft-zone.md) provides the resilience to absorb the losses without breaking
 - Klinkenborg's [Difficulty as Engagement](difficulty-as-engagement.md) is the same insight applied to creative work
 - Covey's [Inside-Out](inside-out.md) is the same impulse at a broader level — change yourself first, even when it's uncomfortable
+- Rohn's [Day That Turns Your Life Around](the-day-that-turns-your-life-around.md) — disgust and resolve as emotional catalysts for the willingness to lose in order to change
 - Discussed in [The Art of Learning](../sources/books/the-art-of-learning/summary.md)

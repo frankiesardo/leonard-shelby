@@ -38,7 +38,7 @@ The core. The operating system underneath everything else.
 | The Courage to Be Disliked | Ichiro Kishimi & Fumitake Koga | `evergreen` |
 | The Subtle Art of Not Giving a F\*ck | Mark Manson | `evergreen` |
 | Everything is F\*cked | Mark Manson | `evergreen` |
-| The Challenge to Succeed (seminar) | Jim Rohn | `evergreen` |
+| [Challenges to Succeed — Anaheim 1981](../sources/transcripts/jim-rohn-challenges-succeed-seminar-anaheim/summary.md) | Jim Rohn | `perennial` |
 
 ## Cognitive science & how minds work
 
