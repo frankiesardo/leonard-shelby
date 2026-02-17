@@ -6,6 +6,7 @@ aliases:
   - the body shapes thought
 sources:
   - metaphors-we-live-by
+  - women-fire-and-dangerous-things
 domains:
   - cognitive-science
   - philosophy
@@ -14,6 +15,9 @@ related:
   - the-brain-as-model-maker
   - imaginative-rationality
   - metaphorical-highlighting-and-hiding
+  - embodied-reason
+  - idealized-cognitive-models
+  - experiential-realism
 ---
 
 # Experiential Grounding
@@ -38,4 +42,6 @@ It also means that the conceptual system of any culture is constrained by the ph
 - [The Brain as Model-Maker](the-brain-as-model-maker.md) -- the neural mechanism by which bodily experience becomes mental model
 - [Imaginative Rationality](imaginative-rationality.md) -- the philosophical position that emerges from taking experiential grounding seriously
 - [Metaphorical Highlighting and Hiding](metaphorical-highlighting-and-hiding.md) -- grounding explains which metaphors feel natural and which feel forced
-- Discussed in [Metaphors We Live By](../sources/books/metaphors-we-live-by/summary.md)
+- [Embodied Reason](embodied-reason.md) is the generalized version of this claim: reason itself (not just metaphor) grows from the body
+- [Idealized Cognitive Models](idealized-cognitive-models.md) — image-schematic ICMs are the most directly grounded type
+- Discussed in [Metaphors We Live By](../sources/books/metaphors-we-live-by/summary.md) and [Women, Fire, and Dangerous Things](../sources/books/women-fire-and-dangerous-things/summary.md)

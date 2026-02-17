@@ -6,6 +6,7 @@ aliases:
   - we think in metaphors
 sources:
   - metaphors-we-live-by
+  - women-fire-and-dangerous-things
 domains:
   - cognitive-science
   - philosophy
@@ -19,6 +20,11 @@ related:
   - the-brain-as-model-maker
   - analogical-thinking
   - clear-thinking-clear-writing
+  - idealized-cognitive-models
+  - radial-categories
+  - embodied-reason
+  - experiential-realism
+  - prototype-effects
 ---
 
 # Conceptual Metaphor
@@ -43,4 +49,7 @@ It also means there is no "literal" baseline of thought that exists free of meta
 - [The Brain as Model-Maker](the-brain-as-model-maker.md) -- the neural architecture that makes metaphorical thought possible; cross-activation of models
 - [Analogical Thinking](analogical-thinking.md) -- metaphor is a form of analogy; Lakoff's structural metaphors and Gentner's deep structural analogies are the same cognitive mechanism
 - [Clear Thinking Produces Clear Writing](clear-thinking-clear-writing.md) -- if thought is metaphorical, then muddled metaphors produce muddled thinking
-- Discussed in [Metaphors We Live By](../sources/books/metaphors-we-live-by/summary.md)
+- In Lakoff's ICM framework, conceptual metaphor is one of four types of [Idealized Cognitive Model](idealized-cognitive-models.md) — alongside propositional, image-schematic, and metonymic models
+- Metaphor is a key linking mechanism in [Radial Categories](radial-categories.md) — connecting central and noncentral members
+- [Embodied Reason](embodied-reason.md) depends on metaphor as the mechanism extending bodily experience to abstract thought
+- Discussed in [Metaphors We Live By](../sources/books/metaphors-we-live-by/summary.md) and [Women, Fire, and Dangerous Things](../sources/books/women-fire-and-dangerous-things/summary.md)

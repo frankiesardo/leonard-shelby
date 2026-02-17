@@ -95,3 +95,4 @@ Lakoff and Johnson's 1980 book makes a single claim and then spends thirty chapt
 
 - **[Sapiens](../sapiens/summary.md)** -- Imagined orders are shared metaphors becoming real through collective action. Same mechanism, different scale: Lakoff at the cognitive level, Harari at civilizational.
 - **[On Writing Well](../on-writing-well/summary.md)** -- Complementary: Lakoff says metaphors are unavoidable; Zinsser says strip them for clarity. Both argue that vague metaphors hide reality.
+- **[Women, Fire, and Dangerous Things](../women-fire-and-dangerous-things/summary.md)** -- The deeper, more technical sequel. MWLB showed metaphor is the structure of thought; WFDT shows categorization is the structure of reason and defends experiential realism in depth. Conceptual metaphor becomes one of four types of [idealized cognitive model](../../ideas/idealized-cognitive-models.md).

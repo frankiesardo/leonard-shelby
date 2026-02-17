@@ -6,6 +6,7 @@ aliases:
   - beyond objectivism and subjectivism
 sources:
   - metaphors-we-live-by
+  - women-fire-and-dangerous-things
 domains:
   - philosophy
   - cognitive-science
@@ -15,6 +16,9 @@ related:
   - metaphors-create-realities
   - the-brain-as-model-maker
   - mental-models-for-uncertainty
+  - experiential-realism
+  - embodied-reason
+  - idealized-cognitive-models
 ---
 
 # Imaginative Rationality
@@ -40,4 +44,6 @@ This matters for how you argue (recognizing that your opponent may be operating 
 - [Metaphors Create Realities](metaphors-create-realities.md) -- the consequence of imaginative rationality: new metaphors create new realities
 - [The Brain as Model-Maker](the-brain-as-model-maker.md) -- the neural architecture that implements imaginative rationality
 - [Mental Models for Uncertainty](mental-models-for-uncertainty.md) -- directors' mental models are imaginative rationality in practice: metaphors that structure navigating the unknown
-- Discussed in [Metaphors We Live By](../sources/books/metaphors-we-live-by/summary.md)
+- [Experiential Realism](experiential-realism.md) is the fully developed philosophical position from WFDT — imaginative rationality is the mechanism, experiential realism is the epistemology
+- [Embodied Reason](embodied-reason.md) is the stronger claim developed in WFDT: not just imagination but all reason grows from the body
+- Discussed in [Metaphors We Live By](../sources/books/metaphors-we-live-by/summary.md) and [Women, Fire, and Dangerous Things](../sources/books/women-fire-and-dangerous-things/summary.md)
