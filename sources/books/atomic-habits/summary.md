@@ -79,3 +79,8 @@ James Clear spent a decade writing about habits on his blog before distilling ev
 > "Missing once is an accident. Missing twice is the start of a new habit."
 
 > "Professionals stick to the schedule; amateurs let life get in the way."
+
+## Connections
+
+- [Drive](../drive/summary.md) — Both synthesize decades of motivation research; both argue intrinsic motivation beats extrinsic rewards; both position autonomy and mastery as non-negotiable.
+- [Man's Search for Meaning](../mans-search-for-meaning/summary.md) — Identity emerges from repeated actions (Clear) the same way meaning emerges from commitment to something beyond the self (Frankl). You become who you choose to be through incremental proving.

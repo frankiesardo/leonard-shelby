@@ -69,3 +69,9 @@ Kim Scott distills twenty-five years of management experience -- from diamond cu
 > "Is there anything I could do or stop doing that would make it easier to work with me?" -- Fred Kofman's go-to question for soliciting criticism
 
 > "If you have to use someone else's name or authority to get a point across, there is little merit to the point." -- Jack Dorsey
+
+## Connections
+
+- [Creativity, Inc.](../creativity-inc/summary.md) — Both position candor as the lifeblood of complex work. Scott's radical candor framework is Catmull's candor-as-survival-mechanism made into a management system.
+- [Drive](../drive/summary.md) — Both argue autonomy and mastery require psychological safety; Scott provides the management mechanisms, Pink the motivation science.
+- [A child psychologist's guide to working with difficult adults](../../transcripts/child-psychologists-guide-working-difficult-adults/summary.md) — Dr. Becky's "good inside + behavior is not okay" is Radical Candor's "care personally + challenge directly" reframed for parenting. Kim Scott is cited in the interview.

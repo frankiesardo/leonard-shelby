@@ -94,3 +94,8 @@ Harari tells the story of humankind through three revolutions: the Cognitive Rev
 > "People are liberated from suffering not when they experience this or that fleeting pleasure, but rather when they understand the impermanent nature of all their feelings, and stop craving them."
 
 > "We are more powerful than ever before, but have very little idea what to do with all that power. Worse still, humans seem to be more irresponsible than ever."
+
+## Connections
+
+- **[Metaphors We Live By](../metaphors-we-live-by/summary.md)**: Imagined orders are shared metaphors becoming real through collective action. Harari describes the mechanism at civilizational scale; Lakoff describes it at the cognitive level.
+- **[Everything Is F*cked](../everything-is-fucked/summary.md)**: Both argue happiness is not correlated with progress; both position meaning-making as the core human problem; both argue hope is double-edged.

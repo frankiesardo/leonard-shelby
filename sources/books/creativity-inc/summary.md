@@ -77,3 +77,9 @@ Ed Catmull spent his career building Pixar from a scrappy hardware company into 
 > "It is not the manager's job to prevent risks. It is the manager's job to make it safe to take them."
 
 > "You are not your idea, and if you identify too closely with your ideas, you will take offense when they are challenged."
+
+## Connections
+
+- [Build](../build/summary.md) — Both are product books that argue process determines output; both protect new ideas; both use case studies (Toy Story, iPod).
+- [Radical Candor](../radical-candor/summary.md) — Both position candor/feedback as the lifeblood of organizations doing complex work; both argue psychological safety is the prerequisite.
+- [Range](../range/summary.md) — Pixar University teaches experienced people to be beginners in new domains; Epstein argues breadth of experience predicts creative breakthrough. Both argue expertise can blind.

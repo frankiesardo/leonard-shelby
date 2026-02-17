@@ -65,3 +65,9 @@ Daniel Pink's thesis is disarmingly simple: the carrot-and-stick model of motiva
 > "One cannot lead a life that is truly excellent without feeling that one belongs to something greater and more permanent than oneself."
 
 > "Human beings have an innate inner drive to be autonomous, self-determined, and connected to one another. And when that drive is liberated, people achieve more and live richer lives."
+
+## Connections
+
+- [Atomic Habits](../atomic-habits/summary.md) — Both synthesize motivation research; both argue intrinsic beats extrinsic; autonomy + mastery are non-negotiable in both.
+- [Build](../build/summary.md) — Both argue ownership and agency drive performance; Fadell's mission-driven people are Pink's autonomy-mastery-purpose framework embodied.
+- [Radical Candor](../radical-candor/summary.md) — Autonomy requires the psychological safety that radical candor creates.

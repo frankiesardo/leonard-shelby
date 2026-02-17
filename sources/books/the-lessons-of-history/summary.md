@@ -68,3 +68,7 @@ After fifty years writing *The Story of Civilization*, the Durants distilled wha
 > "If progress is real despite our whining, it is not because we are born any healthier, better, or wiser than infants were in the past, but because we are born to a richer heritage, born on a higher level of that pedestal which the accumulation of knowledge and art raises as the ground and support of our being."
 
 > "History is, above all else, the creation and recording of that heritage; progress is its increasing abundance, preservation, transmission, and use."
+
+## Connections
+
+- [The Beginning of Infinity](../the-beginning-of-infinity/summary.md) -- Durant's civilizational cycles and the conditions for progress rhyme with Deutsch's dynamic-vs-static-societies framework. Historian and epistemologist describing the same phenomenon: what makes a society capable of solving new problems vs one that stagnates and collapses.

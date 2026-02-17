@@ -79,3 +79,8 @@ The central argument of *Range* is a direct challenge to the cult of early speci
 > "I don't have any particular specialist skills. I have a sort of vague knowledge of everything." -- Gunpei Yokoi, creator of the Game Boy
 
 > "The more confident a learner is of their wrong answer, the better the information sticks when they subsequently learn the right answer." -- on the hypercorrection effect
+
+## Connections
+
+- [Build](../build/summary.md) -- Both argue breadth of experience produces better judgment and creativity than narrow focus. Fadell's career bouncing between companies is Epstein's sampling period embodied.
+- [Creativity, Inc.](../creativity-inc/summary.md) -- Pixar University is deliberate amateurism institutionalized. Both argue expertise can blind you to solutions visible only to beginners.

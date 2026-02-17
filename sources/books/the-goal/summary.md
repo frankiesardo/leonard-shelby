@@ -65,3 +65,7 @@ A business novel disguised as a thriller. Alex Rogo has three months to save his
 > "An hour lost at a bottleneck is an hour lost for the entire system. An hour saved at a non-bottleneck is a mirage."
 
 > "Alex, if I simply told you what to do, ultimately you would fail. You have to gain the understanding for yourself in order to make the rules work."
+
+## Connections
+
+- **[The Courage to Be Disliked](../the-courage-to-be-disliked/summary.md)** -- Both are Socratic dialogues. Both use dialogue as a method to force discovery rather than deliver answers. Jonah's method mirrors the philosopher's exactly.

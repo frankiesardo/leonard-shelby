@@ -93,3 +93,8 @@ The definitive manual for anyone who writes nonfiction -- not because it invente
 > "I always thought that there was at least one person in the stands who had never seen me play, and I didn't want to let him down."
 
 > "My commodity as a writer, whatever I'm writing about, is me. And your commodity is you. Don't alter your voice to fit your subject. Develop one voice that readers will recognize when they hear it on the page."
+
+## Connections
+
+- **[Several Short Sentences About Writing](../several-short-sentences-about-writing/summary.md)** -- Near-identical philosophy on craft. Both argue process beats product, revision is composition, style is organic, clarity comes before everything.
+- **[Metaphors We Live By](../metaphors-we-live-by/summary.md)** -- Complementary: Lakoff says metaphors are unavoidable so understand which ones you're using; Zinsser says strip them for clarity. Both argue vague metaphors hide reality.

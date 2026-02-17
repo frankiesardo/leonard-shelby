@@ -66,3 +66,8 @@ Don Norman's foundational design text starts with a question that sounds trivial
 > "We should deal with error by embracing it, by seeking to understand the causes and ensuring they do not happen again. We need to assist rather than punish or scold."
 
 > "Complexity is good; it is confusion that is bad."
+
+## Connections
+
+- [The Happiness Hypothesis](../the-happiness-hypothesis/summary.md) -- Norman's entire project is making the elephant's job easier through environmental design. The rider can't override the elephant; design the world so the elephant naturally does the right thing.
+- [The Science of Storytelling](../the-science-of-storytelling/summary.md) -- Both are about how humans model the world internally. Storr focuses on narrative models that shape identity; Norman on how design should project the correct conceptual model so behavior follows naturally.

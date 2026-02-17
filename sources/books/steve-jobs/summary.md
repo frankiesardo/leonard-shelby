@@ -102,3 +102,7 @@ Walter Isaacson's authorized biography is the definitive account of a man whose 
 > "We do these things not because we are control freaks. We do them because we want to make great products, because we care about the user, and because we like to take responsibility for the entire experience rather than turn out the crap that other people make."
 
 > "I hate it when people call themselves 'entrepreneurs' when what they're really trying to do is launch a startup and then sell or go public, so they can cash in and move on. They're unwilling to do the work it takes to build a real company, which is the hardest work in business."
+
+## Connections
+
+- [Origin Damage](../../../ideas/origin-damage.md) -- Jobs's abandonment and adoption directly shaped his psychology. His "sense of being special" and reality distortion field are classic origin damage manifesting as drive -- the childhood wound that becomes both the sacred flaw and the engine of extraordinary achievement.

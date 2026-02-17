@@ -68,3 +68,9 @@ Jordan Peterson's book is a strange hybrid: part self-help manual, part Jungian 
 > "You must determine where you are going, so that you can bargain for yourself, so that you don't end up resentful, vengeful and cruel."
 
 > "What is expedient works only for the moment. It's immediate, impulsive and limited. What is meaningful, by contrast, is the organization of what would otherwise merely be expedient into a symphony of Being."
+
+## Connections
+
+- **[Man's Search for Meaning](../mans-search-for-meaning/summary.md)**: Both cite Solzhenitsyn, both argue meaning requires confronting suffering voluntarily, both position individual responsibility as the counter to totalitarianism.
+- **[Everything Is F*cked](../everything-is-fucked/summary.md)**: Both grapple with nihilism through Nietzsche. "Get your house in order" echoes "don't hope for better, be better."
+- **[The 7 Habits](../the-7-habits-of-highly-effective-people/summary.md)**: "Set your house in order" is circle of influence. Both argue transformation begins in your immediate sphere.

@@ -86,3 +86,8 @@ Waitzkin's autobiography doubles as a learning treatise, and the combination is 
 > "In the end, mastery involves discovering the most resonant information and integrating it so deeply and fully it disappears and allows us to fly free."
 
 > "We cannot calculate our important contests, adventures, and great loves to the end. The only thing we can really count on is getting surprised."
+
+## Connections
+
+- [The Inner Game of Tennis](../the-inner-game-of-tennis/summary.md) -- Waitzkin explicitly references Gallwey. Both describe conscious technique dissolving into unconscious mastery -- Gallwey's Self 1/Self 2 framework is the seed of Waitzkin's Numbers to Leave Numbers.
+- [The Happiness Hypothesis](../the-happiness-hypothesis/summary.md) -- Haidt's posttraumatic growth is exactly what Waitzkin describes with "investment in loss." The conditions for growth match Waitzkin's training philosophy: seek difficulty at the right degree, with the right support, and transform it into strength.

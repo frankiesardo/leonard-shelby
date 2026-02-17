@@ -63,3 +63,9 @@ Frankl's masterpiece works because it is two books that validate each other. The
 > "What man actually needs is not a tensionless state but rather the striving and struggling for a worthwhile goal, a freely chosen task."
 
 > "Man is that being who invented the gas chambers of Auschwitz; however, he is also that being who entered those gas chambers upright, with the Lord's Prayer or the Shema Yisrael on his lips."
+
+## Connections
+
+- **[12 Rules for Life](../12-rules-for-life/summary.md)**: Peterson's entire framework is built on Frankl and Solzhenitsyn. Both argue meaning requires voluntarily confronting suffering; both position individual responsibility as the counter to totalitarianism.
+- **[Everything Is F*cked](../everything-is-fucked/summary.md)**: Manson is Frankl's heir in casual prose. The existential vacuum is what Manson calls the uncomfortable truth; amor fati is will-to-meaning reframed.
+- **[The Courage to Be Disliked](../the-courage-to-be-disliked/summary.md)**: Frankl and Adler are the two psychologists whose ideas this garden most frequently echoes. Both books argue that meaning is chosen, not found, and that suffering can be reframed through attitude.

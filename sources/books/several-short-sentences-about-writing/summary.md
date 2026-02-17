@@ -45,3 +45,8 @@ This book has no traditional chapters. It reads as a continuous stream of short,
 > "Flow is something the reader experiences, not the writer."
 
 > "You can get anywhere from anywhere, always and almost instantly."
+
+## Connections
+
+- **[On Writing Well](../on-writing-well/summary.md)** -- Direct philosophical alignment. Both argue for sentence-level clarity; both argue style is organic; both argue craft beats inspiration.
+- **[Man's Search for Meaning](../mans-search-for-meaning/summary.md)** -- "Self-authorization is perpetual" is Frankl's [last human freedom](../../../ideas/the-last-human-freedom.md) applied to writing. No one gives you permission; only you can authorize yourself.

@@ -81,3 +81,8 @@ David Deutsch argues that all progress -- scientific, moral, political, artistic
 > "We have lit only a few candles here and there. We can cower in their parochial light until something beyond our ken snuffs us out, or we can resist."
 
 > "Whether the world ultimately does make sense will depend on how *people* -- the likes of us -- chose to think and to act."
+
+## Connections
+
+- [The Lessons of History](../the-lessons-of-history/summary.md) -- Deutsch's "dynamic vs static societies" framework rhymes with Durant's cycles of civilization. Both describe what makes a society that can create knowledge vs one that stagnates, from different disciplinary angles -- epistemology and history arriving at the same conclusion.
+- [The Fabric of Reality](../the-fabric-of-reality/summary.md) -- Same author, same themes explored at different depths. *The Fabric of Reality* lays the philosophical groundwork (four strands of explanation); *The Beginning of Infinity* extends it into a full theory of progress and knowledge creation.

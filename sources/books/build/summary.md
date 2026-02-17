@@ -91,3 +91,8 @@ Tony Fadell's career memoir doubles as a densely packed advice encyclopedia. The
 > "Nothing in the world is ever 100 percent sure. ... You just have to take that first step into the unknown. Combine everything you've learned and take your best guess at what's going to happen next. That's what life is. Most decisions we make are data-informed, but they're not data-made."
 
 > "You make the product. You fix the product. You build the business. Every product. Every company. Every time."
+
+## Connections
+
+- [Creativity, Inc.](../creativity-inc/summary.md) — Both argue process determines output; both say protecting new ideas is management's central task. Product books with identical DNA.
+- [Drive](../drive/summary.md) — Both argue ownership and agency drive performance. Fadell's "mission-driven assholes" are Pink's autonomy-mastery-purpose people.

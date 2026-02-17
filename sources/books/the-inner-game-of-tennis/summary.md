@@ -73,3 +73,6 @@ Every game has two halves: an outer game against an external opponent, and an in
 - [Process over Product](../../ideas/process-over-product.md) -- Gallwey explicitly argues the process of overcoming obstacles is more valuable than the victory itself.
 - [Building Your Trigger](../../ideas/building-your-trigger.md) -- Gallwey's breathing-between-points technique is a proto-trigger for re-entering focused states.
 - [Stress and Recovery](../../ideas/stress-and-recovery.md) -- the oscillation between points (focus, breathe, refocus) mirrors Waitzkin's interval model.
+- [The Art of Learning](../the-art-of-learning/summary.md) -- Waitzkin explicitly builds on Gallwey's Self 1/Self 2 framework. Conscious technique dissolving into unconscious mastery is the central arc of both books.
+- [The Happiness Hypothesis](../the-happiness-hypothesis/summary.md) -- Gallwey's Self 1/Self 2 split is the same phenomenon Haidt describes with the rider and elephant. The narrative mind interfering with the body's competence.
+- [The Science of Storytelling](../the-science-of-storytelling/summary.md) -- Both are interested in how the narrative mind (Self 1, the confabulating narrator) interferes with authentic performance.

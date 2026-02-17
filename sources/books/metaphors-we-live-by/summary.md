@@ -90,3 +90,8 @@ Lakoff and Johnson's 1980 book makes a single claim and then spends thirty chapt
 > "The idea that metaphor is just a matter of language and can at best only describe reality stems from the view that what is real is wholly external to, and independent of, how human beings conceptualize the world."
 
 > "We reject the objectivist view that there is absolute and unconditional truth without adopting the subjectivist alternative of truth as obtainable only through the imagination, unconstrained by external circumstances. The reason we have focused so much on metaphor is that it unites reason and imagination."
+
+## Connections
+
+- **[Sapiens](../sapiens/summary.md)** -- Imagined orders are shared metaphors becoming real through collective action. Same mechanism, different scale: Lakoff at the cognitive level, Harari at civilizational.
+- **[On Writing Well](../on-writing-well/summary.md)** -- Complementary: Lakoff says metaphors are unavoidable; Zinsser says strip them for clarity. Both argue that vague metaphors hide reality.
