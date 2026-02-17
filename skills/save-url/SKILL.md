@@ -80,7 +80,7 @@ One paragraph synthesis. What is this about? What's the most important insight? 
 - **Synthesis paragraph**: 2-4 sentences. Opinionated. What's the single most important takeaway?
 - **Key ideas**: 3-5 for short sources, 5-8 for long ones. Each is a full paragraph with bold headline.
 - **Key quotes**: Pick quotes that are memorable and standalone. Include timestamps for transcripts.
-- **Cross-links**: If you recognize sources that already exist in the garden, link to them: `[Source Title](../other-source/summary.md)`. Check `sources/` for existing folders.
+- **Cross-links are the highest-value part of the summary — not an afterthought.** Before writing, scan `ideas/` and `sources/` and actively map the new source's concepts against what's already in the garden. The most valuable connections are often not explicitly named in the source (e.g. an interview about parenting and leadership may never mention Adler but map perfectly onto Adlerian ideas already in the garden). Add a `## Connections` section linking to related ideas and sources with a sentence explaining *why* they connect. Don't just link to what the source explicitly cites — link to what it *rhymes with*.
 - **Domains**: Use from the controlled vocabulary in AGENTS.md. 1-3 domains per source.
 - **`ideas: []`**: Always start empty. Ideas are extracted later by the `/connect` skill.
 
