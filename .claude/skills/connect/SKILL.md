@@ -1,3 +1,8 @@
+---
+name: connect
+description: Use when extracting concept handles from a source, creating or updating idea notes, generating flashcards, and cross-linking content. Triggered by "/connect", "extract ideas from", "link this to the garden".
+---
+
 # Connect
 
 Extracts concept handles from a source, creates or updates idea notes, generates flashcards, and cross-links everything. This is the second pass — the source must already have a `summary.md`.

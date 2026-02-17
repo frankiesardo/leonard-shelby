@@ -1,3 +1,8 @@
+---
+name: cleanup
+description: Use when scanning the garden for broken markdown links, orphaned flashcards, and frontmatter inconsistencies. Triggered by "/cleanup", "fix broken links", "clean up the garden".
+---
+
 # Cleanup
 
 Scans the garden for broken markdown links, orphaned flashcards, and inconsistencies, then fixes them.

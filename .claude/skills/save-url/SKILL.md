@@ -1,3 +1,8 @@
+---
+name: save-url
+description: Use when downloading a URL (article, blog post, YouTube video) and creating a source folder with raw content and summary. Triggered by "/save {url}", "save this URL", "download this".
+---
+
 # Save URL
 
 Downloads a URL (article, blog post, or YouTube video) and creates a source folder with raw content and a summary.

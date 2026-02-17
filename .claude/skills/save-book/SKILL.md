@@ -1,3 +1,8 @@
+---
+name: save-book
+description: Use when parsing an EPUB file and creating a source folder with full text and summary. Triggered by "/save {book}", "save this book", "add book", "process this epub".
+---
+
 # Save Book
 
 Parses a local EPUB file and creates a source folder with the full text and a book-level summary. Decides how to structure the book based on its table of contents.

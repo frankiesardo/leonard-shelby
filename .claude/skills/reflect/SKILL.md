@@ -1,3 +1,8 @@
+---
+name: reflect
+description: Use when conducting a Socratic dialogue for periodic review, helping articulate positions, tensions, and open questions. Triggered by "/reflect", "let's think about", "I want to dig into".
+---
+
 # Reflect
 
 Socratic dialogue for periodic review. Helps the owner articulate what they actually think — positions, tensions, open questions — by asking probing questions against the garden's existing sources and ideas.

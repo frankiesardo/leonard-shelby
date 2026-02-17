@@ -1,3 +1,8 @@
+---
+name: note
+description: Use when capturing a quick thought, quote, or reflection into the notes directory. Triggered by "/note", "add a note", "jot this down", or sharing a quick thought.
+---
+
 # Note
 
 Captures a quick thought, quote, or reflection into the notes directory.
