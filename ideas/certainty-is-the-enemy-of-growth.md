@@ -7,6 +7,7 @@ aliases:
 sources:
   - the-subtle-art-of-not-giving-a-fuck
   - range
+  - the-beginning-of-infinity
 domains:
   - cognitive-science
   - personal-development
@@ -22,6 +23,9 @@ related:
   - the-sampling-period
   - match-quality
   - dropping-your-familiar-tools
+  - good-explanations-over-predictions
+  - fallibilism
+  - good-explanations
 ---
 
 # Certainty Is the Enemy of Growth
@@ -51,4 +55,7 @@ Viewed as a scientific process: your values are hypotheses, your actions are exp
 - Epstein's [Sampling Period](the-sampling-period.md) combats premature certainty about who you are and what you should do
 - [Match Quality](match-quality.md) requires releasing certainty about your current path to discover a better one
 - [Dropping Your Familiar Tools](dropping-your-familiar-tools.md) is the crisis moment when certainty-as-identity becomes lethal -- NASA engineers couldn't accept qualitative evidence because quantitative certainty defined them
-- Discussed in [The Subtle Art of Not Giving a F*ck](../sources/books/the-subtle-art-of-not-giving-a-fuck/summary.md) and [Range](../sources/books/range/summary.md)
+- Deutsch's [Good Explanations over Predictions](good-explanations-over-predictions.md) is the epistemological version of this: all knowledge is tentative, all theories are conjectures subject to refutation, and the demand for certainty before acting is what Deutsch calls "crypto-inductivism" -- a disease that paralyzes both science and personal growth
+- Deutsch's [Fallibilism](fallibilism.md) is the cosmic-scale version: all knowledge is conjectural, we progress from misconception to better misconception, and certainty is not merely psychologically unhealthy but epistemologically impossible
+- [Good Explanations](good-explanations.md) replace certainty with a better criterion: is this explanation hard to vary?
+- Discussed in [The Subtle Art of Not Giving a F*ck](../sources/books/the-subtle-art-of-not-giving-a-fuck/summary.md), [Range](../sources/books/range/summary.md), and [The Beginning of Infinity](../sources/books/the-beginning-of-infinity/summary.md)

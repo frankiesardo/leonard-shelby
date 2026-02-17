@@ -6,6 +6,7 @@ aliases:
   - journey over destination
 sources:
   - the-happiness-hypothesis
+  - atomic-habits
 domains:
   - cognitive-science
   - personal-development

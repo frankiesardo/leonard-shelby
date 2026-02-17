@@ -5,6 +5,7 @@ aliases:
   - hard work is the work
 sources:
   - several-short-sentences-about-writing
+  - atomic-habits
 domains:
   - craft
   - creativity
@@ -14,6 +15,8 @@ related:
   - investment-in-loss
   - the-soft-zone
   - desirable-difficulties
+  - goldilocks-tasks
+  - mastery-as-asymptote
 ---
 
 # Difficulty as Engagement

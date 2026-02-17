@@ -18,6 +18,7 @@ related:
   - beginners-mind
   - the-hidden-and-the-unseen
   - noticing-as-discipline
+  - experience-as-virtual-reality
 ---
 
 # Mental Models for Uncertainty

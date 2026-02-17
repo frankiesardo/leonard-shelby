@@ -8,6 +8,7 @@ sources:
   - the-art-of-learning
   - jim-rohn-challenges-succeed-seminar-anaheim
   - range
+  - drive
 domains:
   - personal-development
   - cognitive-science
@@ -25,6 +26,8 @@ related:
   - desirable-difficulties
   - beginners-mind
   - growth-trajectories
+  - mastery-as-asymptote
+  - type-i-vs-type-x
 ---
 
 # Incremental Theory of Intelligence

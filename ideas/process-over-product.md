@@ -7,6 +7,8 @@ sources:
   - on-writing-well
   - jim-rohn-challenges-succeed-seminar-anaheim
   - creativity-inc
+  - atomic-habits
+  - drive
 domains:
   - writing
   - creative-process
@@ -38,6 +40,9 @@ related:
   - three-generations-to-profitability
   - heartbeats-and-handcuffs
   - products-not-profits
+  - mastery-as-asymptote
+  - type-i-vs-type-x
+  - the-sawyer-effect
 ---
 
 # Process over Product

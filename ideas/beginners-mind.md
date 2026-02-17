@@ -30,6 +30,7 @@ related:
   - mental-models-for-uncertainty
   - failure-as-investment
   - protect-the-new
+  - good-explanations-over-predictions
 ---
 
 # Beginner's Mind

@@ -6,6 +6,7 @@ aliases:
   - fail early, fail fast
 sources:
   - creativity-inc
+  - the-design-of-everyday-things
 domains:
   - management
   - personal-development
@@ -20,6 +21,7 @@ related:
   - the-backwards-law
   - process-over-product
   - protect-the-new
+  - human-error-is-design-error
 ---
 
 # Failure as Investment
@@ -43,4 +45,5 @@ Catmull's framing inverts the usual risk calculus: the real risk isn't that peop
 - [Desirable Difficulties](desirable-difficulties.md) is the cognitive science behind this: struggle and error improve long-term retention
 - [The Backwards Law](the-backwards-law.md) applies: the more you try to eliminate failure, the more you guarantee it
 - [Choose Your Struggle](choose-your-struggle.md) -- what you're willing to fail at determines what you can succeed at
-- Discussed in [Creativity, Inc.](../sources/books/creativity-inc/summary.md)
+- Norman takes this further in [Human Error Is Design Error](human-error-is-design-error.md): not only is failure valuable, but the *framing* of failure as individual blame is itself the costliest error an organization makes. When you blame people, you stop redesigning the system. IDEO's "Fail often, fail fast" is an explicit principle at the design firm Norman cites. Norman adds: "We need to remove the word *failure* from our vocabulary, replacing it instead with *learning experience*."
+- Discussed in [Creativity, Inc.](../sources/books/creativity-inc/summary.md) and [The Design of Everyday Things](../sources/books/the-design-of-everyday-things/summary.md)

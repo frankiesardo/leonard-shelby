@@ -7,6 +7,7 @@ aliases:
 sources:
   - jim-rohn-challenges-succeed-seminar-anaheim
   - the-7-habits-of-highly-effective-people
+  - 12-rules-for-life
 domains:
   - personal-development
   - philosophy

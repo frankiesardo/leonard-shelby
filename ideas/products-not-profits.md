@@ -6,6 +6,7 @@ aliases:
   - the product people vs. the sales people
 sources:
   - steve-jobs
+  - drive
 domains:
   - management
   - product
@@ -17,6 +18,9 @@ related:
   - focus-is-saying-no
   - quality-is-its-own-reward
   - process-over-product
+  - type-i-vs-type-x
+  - baseline-rewards
+  - the-sawyer-effect
 ---
 
 # Products, Not Profits

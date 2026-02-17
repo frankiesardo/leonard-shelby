@@ -7,6 +7,7 @@ aliases:
 sources:
   - mans-search-for-meaning
   - the-happiness-hypothesis
+  - 12-rules-for-life
 domains:
   - philosophy
   - personal-development

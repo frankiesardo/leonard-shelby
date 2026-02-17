@@ -16,6 +16,8 @@ related:
   - failure-as-investment
   - beginners-mind
   - abundance-mentality
+  - static-vs-dynamic-societies
+  - rational-and-anti-rational-memes
 ---
 
 # Protect the New
@@ -39,4 +41,5 @@ The distinction between protecting and enabling matters. Protection isn't uncrit
 - [Failure as Investment](failure-as-investment.md) -- protecting the new means accepting early failure as part of the growth process
 - [Candor as Survival Mechanism](candor-as-survival-mechanism.md) -- protection doesn't mean avoiding criticism; it means ensuring criticism is constructive and well-timed
 - [Beginner's Mind](beginners-mind.md) -- you can only protect the new if you're open to things that look unfamiliar
+- Deutsch's [Static vs. Dynamic Societies](static-vs-dynamic-societies.md) gives the civilizational framing: static societies are defined by the suppression of new ideas, and dynamic societies by their protection. The "organizational immune system" Catmull describes is the corporate equivalent of the taboos that keep static societies static. [Rational and Anti-Rational Memes](rational-and-anti-rational-memes.md) explains the mechanism: anti-rational memes replicate by preventing criticism of existing ideas; protecting the new is precisely the act of keeping space open for rational memes to form.
 - Discussed in [Creativity, Inc.](../sources/books/creativity-inc/summary.md)

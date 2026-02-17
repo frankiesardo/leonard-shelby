@@ -8,6 +8,8 @@ aliases:
 sources:
   - range
   - creativity-inc
+  - atomic-habits
+  - metaphors-we-live-by
 domains:
   - cognitive-science
   - management
@@ -22,6 +24,8 @@ related:
   - lateral-thinking-with-withered-technology
   - the-hidden-and-the-unseen
   - candor-as-survival-mechanism
+  - metaphorical-highlighting-and-hiding
+  - static-vs-dynamic-societies
 ---
 
 # Cognitive Entrenchment
@@ -50,4 +54,6 @@ Dane's suggestions for avoiding it are the polar opposite of narrow specializati
 - The inverse of [Beginner's Mind](beginners-mind.md) -- entrenchment is what happens when you've been an expert too long without returning to the beginner's perspective
 - Catmull describes the organizational version: successful companies "cast off the startup mentality because they tell themselves they have figured out what to do." They stop being beginners, and by resisting beginner's mind, they become more prone to repeat themselves than to create something new. [The Hidden and the Unseen](the-hidden-and-the-unseen.md) is what accumulates when entrenchment goes unchecked at the organizational level.
 - [Candor as Survival Mechanism](candor-as-survival-mechanism.md) -- one antidote to organizational entrenchment: external perspectives that bypass internal blind spots
-- Discussed in [Range](../sources/books/range/summary.md) and [Creativity, Inc.](../sources/books/creativity-inc/summary.md)
+- Lakoff and Johnson's [Metaphorical Highlighting and Hiding](metaphorical-highlighting-and-hiding.md) is the conceptual version of entrenchment: the dominant metaphor for a domain highlights certain features so strongly that the hidden features become invisible. An expert's entrenched mental model is, in Lakoff's terms, a metaphor so deeply internalized that it no longer feels like a metaphor at all.
+- Deutsch's [Static vs. Dynamic Societies](static-vs-dynamic-societies.md) is entrenchment at the civilizational level: static societies are *defined* by the systematic suppression of the creativity that could break entrenched patterns. The Easter Islanders' compulsive statue-building -- repeating the same thing ever more intensely rather than solving the actual problem -- is cognitive entrenchment made collective.
+- Discussed in [Range](../sources/books/range/summary.md), [Creativity, Inc.](../sources/books/creativity-inc/summary.md), and [Metaphors We Live By](../sources/books/metaphors-we-live-by/summary.md)

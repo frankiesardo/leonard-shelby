@@ -7,6 +7,7 @@ aliases:
   - the outside view
 sources:
   - range
+  - metaphors-we-live-by
 domains:
   - cognitive-science
   - science
@@ -20,6 +21,9 @@ related:
   - deliberate-amateurs
   - the-whole-customer-journey
   - the-intersection-of-humanities-and-technology
+  - conceptual-metaphor
+  - good-explanations
+  - the-reach-of-explanations
 ---
 
 # Analogical Thinking
@@ -46,4 +50,6 @@ Breadth of training predicts breadth of transfer. The more contexts in which som
 - Core mechanism behind [The Outsider Advantage](the-outsider-advantage.md) -- outsiders bring analogies insiders cannot imagine
 - Breaks through [Cognitive Entrenchment](cognitive-entrenchment.md) -- distant analogies are the "circuit breaker" Hogarth described
 - [Lateral Thinking with Withered Technology](lateral-thinking-with-withered-technology.md) is analogical thinking applied to product design
-- Discussed in [Range](../sources/books/range/summary.md)
+- Lakoff and Johnson's [Conceptual Metaphor](conceptual-metaphor.md) theory shows that all structural metaphors are deep analogies -- understanding one kind of thing in terms of another. ARGUMENT IS WAR is an analogy between verbal discourse and armed conflict. The mechanism is the same one Gentner describes, operating at the level of everyday thought.
+- Deutsch provides a critical counterpoint: "arguments by analogy are fallacies." The Easter Island analogy for modern civilization, he argues, is exactly the kind of surface analogy that misleads rather than illuminates. The useful version of analogical thinking is when the analogy reveals shared deep structure ([The Reach of Explanations](the-reach-of-explanations.md)), not surface similarity. Gentner's distinction between surface and structural analogies maps to Deutsch's distinction between bad explanations (easy to vary) and [Good Explanations](good-explanations.md) (hard to vary).
+- Discussed in [Range](../sources/books/range/summary.md) and [Metaphors We Live By](../sources/books/metaphors-we-live-by/summary.md)

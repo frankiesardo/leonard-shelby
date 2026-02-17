@@ -7,6 +7,9 @@ aliases:
 sources:
   - the-science-of-storytelling
   - sapiens
+  - the-design-of-everyday-things
+  - the-fabric-of-reality
+  - metaphors-we-live-by
 domains:
   - cognitive-science
   - writing
@@ -21,6 +24,10 @@ related:
   - unexpected-change-as-story-engine
   - the-hidden-and-the-unseen
   - mental-models-for-uncertainty
+  - conceptual-models
+  - experience-as-virtual-reality
+  - conceptual-metaphor
+  - experiential-grounding
 ---
 
 # The Brain as Model-Maker
@@ -45,4 +52,7 @@ For writers, the practical implication is that description is never neutral. Eve
 - [Trust the Reader](trust-the-reader.md) -- the reader's model-making brain does half the work; over-explaining shuts down the process
 - Catmull's description of learning to draw is a perfect illustration: we draw noses, eyes, and mouths too large and foreheads too small because our model overweights the "important" features. Training artists to draw negative space or upside-down objects is literally training them to bypass the model-maker. At the organizational level, [The Hidden and the Unseen](the-hidden-and-the-unseen.md) is what accumulates when leaders' models prevent them from seeing reality clearly.
 - [Mental Models for Uncertainty](mental-models-for-uncertainty.md) shows how directors deliberately construct useful models (tunnels, mazes, sailing) to navigate creative uncertainty -- the constructive use of the brain's model-making tendency.
-- Discussed in [The Science of Storytelling](../sources/books/the-science-of-storytelling/summary.md) and [Creativity, Inc.](../sources/books/creativity-inc/summary.md)
+- Norman's [Conceptual Models](conceptual-models.md) is the design-facing application of this same architecture. People cannot interact with any object without constructing a model of how it works. The thermostat-as-valve folk theory is model-making in action -- fragmentary evidence, confident conclusions, resistance to correction. Norman's insight is that designers can't stop people from building models; they can only influence which model gets built, by controlling the "system image" the product projects.
+- Deutsch's [Experience as Virtual Reality](experience-as-virtual-reality.md) gives this same insight a physics foundation: the brain is a virtual-reality generator, and all experience is a rendering. Where Storr focuses on storytelling implications, Deutsch argues this is the defining feature of human cognition and the reason our species exists.
+- Lakoff and Johnson's [Conceptual Metaphor](conceptual-metaphor.md) theory provides the cognitive-science framing: metaphor is cross-activation of neural models. The brain doesn't just build models of the physical world; it uses those models to understand abstract domains. [Experiential Grounding](experiential-grounding.md) explains why: abstract thought is always built on bodily experience, never free-floating.
+- Discussed in [The Science of Storytelling](../sources/books/the-science-of-storytelling/summary.md), [Creativity, Inc.](../sources/books/creativity-inc/summary.md), [The Design of Everyday Things](../sources/books/the-design-of-everyday-things/summary.md), [The Fabric of Reality](../sources/books/the-fabric-of-reality/summary.md), and [Metaphors We Live By](../sources/books/metaphors-we-live-by/summary.md)
