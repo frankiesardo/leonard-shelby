@@ -2,7 +2,6 @@
 title: "Challenges to Succeed Seminar — Anaheim 1981"
 author: "Jim Rohn"
 type: transcript
-tier: perennial
 domains:
   - personal-development
   - philosophy

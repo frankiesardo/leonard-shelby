@@ -45,7 +45,6 @@ Read the newly created `source.md` and create `summary.md` in the same folder.
 title: "Source Title"
 author: "Author Name"
 type: essay                    # essay | transcript
-tier: seasonal                 # perennial | evergreen | seasonal
 domains:
   - domain-1
   - domain-2
@@ -82,7 +81,6 @@ One paragraph synthesis. What is this about? What's the most important insight? 
 - **Key ideas**: 3-5 for short sources, 5-8 for long ones. Each is a full paragraph with bold headline.
 - **Key quotes**: Pick quotes that are memorable and standalone. Include timestamps for transcripts.
 - **Cross-links**: If you recognize sources that already exist in the garden, link to them: `[Source Title](../other-source/summary.md)`. Check `sources/` for existing folders.
-- **Tier assignment**: Default to `seasonal` for new sources. Only use `evergreen` if the user specifically says it's important, or you recognize it as a classic. Use `perennial` only if explicitly told.
 - **Domains**: Use from the controlled vocabulary in AGENTS.md. 1-3 domains per source.
 - **`ideas: []`**: Always start empty. Ideas are extracted later by the `/connect` skill.
 

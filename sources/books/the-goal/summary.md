@@ -2,7 +2,6 @@
 title: "The Goal: A Process of Ongoing Improvement"
 author: "Eliyahu M. Goldratt"
 type: book
-tier: evergreen
 domains:
   - systems-thinking
   - management

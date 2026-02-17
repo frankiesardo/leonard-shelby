@@ -2,7 +2,6 @@
 title: "Evergreen Notes"
 author: "Andy Matuschak"
 type: essay
-tier: evergreen
 domains:
   - writing
   - knowledge-management

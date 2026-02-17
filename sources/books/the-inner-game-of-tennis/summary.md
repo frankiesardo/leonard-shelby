@@ -2,7 +2,6 @@
 title: "The Inner Game of Tennis"
 author: "W. Timothy Gallwey"
 type: book
-tier: perennial
 domains:
   - personal-development
   - cognitive-science

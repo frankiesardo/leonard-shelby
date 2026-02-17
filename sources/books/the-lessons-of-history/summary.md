@@ -2,7 +2,6 @@
 title: "The Lessons of History"
 author: "Will Durant, Ariel Durant"
 type: book
-tier: evergreen
 domains:
   - history
   - philosophy

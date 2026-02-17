@@ -2,7 +2,6 @@
 title: "Several Short Sentences About Writing"
 author: "Verlyn Klinkenborg"
 type: book
-tier: evergreen
 domains:
   - writing
   - communication

@@ -2,7 +2,6 @@
 title: "The Art of Learning"
 author: "Josh Waitzkin"
 type: book
-tier: evergreen
 domains:
   - personal-development
   - cognitive-science

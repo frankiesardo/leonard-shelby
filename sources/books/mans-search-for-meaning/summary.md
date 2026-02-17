@@ -2,7 +2,6 @@
 title: "Man's Search for Meaning"
 author: "Viktor E. Frankl"
 type: book
-tier: perennial
 domains:
   - philosophy
   - cognitive-science

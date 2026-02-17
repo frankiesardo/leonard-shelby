@@ -2,7 +2,6 @@
 title: "Everything Is F*cked: A Book About Hope"
 author: "Mark Manson"
 type: book
-tier: evergreen
 domains:
   - philosophy
   - cognitive-science

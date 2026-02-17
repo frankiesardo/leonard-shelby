@@ -2,7 +2,6 @@
 title: "Radical Candor: Be a Kick-Ass Boss Without Losing Your Humanity"
 author: "Kim Scott"
 type: book
-tier: evergreen
 domains:
   - management
   - communication

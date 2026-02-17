@@ -2,7 +2,6 @@
 title: "The 7 Habits of Highly Effective People"
 author: "Stephen R. Covey"
 type: book
-tier: perennial
 domains:
   - personal-development
   - management

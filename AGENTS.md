@@ -8,7 +8,7 @@ This document describes the conventions, file formats, and organization of the g
 garden/
 ├── README.md                          ← Vision and philosophy
 ├── AGENTS.md                          ← This file. Conventions and formats.
-├── sources/                           ← Books, essays, transcripts
+├── sources/                           ← Books, essays, transcripts, bookmarks
 │   ├── books/
 │   │   └── {book-slug}/              ← One folder per book
 │   │       ├── summary.md            ← Entry point. Metadata + synthesis.
@@ -20,8 +20,12 @@ garden/
 │   │   └── {essay-slug}/
 │   │       ├── summary.md
 │   │       └── source.md
-│   └── transcripts/
-│       └── {transcript-slug}/
+│   ├── transcripts/
+│   │   └── {transcript-slug}/
+│   │       ├── summary.md
+│   │       └── source.md
+│   └── bookmarks/
+│       └── {bookmark-slug}/
 │           ├── summary.md
 │           └── source.md
 ├── ideas/                             ← Evergreen notes. Atomic concept handles.
@@ -44,10 +48,11 @@ garden/
 
 A source is a thing I consumed: a book, an essay, a transcript (talk, podcast, video). Each source lives in its own folder under the appropriate category.
 
-**Categories:**
-- `books/` — Books and long-form non-fiction.
+**Categories (in order of weight):**
+- `books/` — Books and long-form non-fiction. Deeply processed. Highest connection weight.
 - `essays/` — Articles, blog posts, short written pieces.
 - `transcripts/` — Talks, podcasts, YouTube videos, interviews.
+- `bookmarks/` — Captured URLs with source and summary, but not yet connected to the garden's idea graph. Lightweight captures that may be promoted to essays or transcripts later.
 
 **Folder structure:**
 
@@ -69,8 +74,7 @@ Every source folder contains at least a `summary.md`. Richer sources also contai
 ---
 title: "Nonfiction Writing Advice"
 author: "Scott Alexander"
-type: essay                    # book | essay | transcript
-tier: evergreen                # perennial | evergreen | seasonal
+type: essay                    # book | essay | transcript | bookmark
 domains:                       # which intellectual domains this touches
   - writing
   - communication
@@ -217,18 +221,6 @@ Domains are cross-cutting tags that identify intellectual territory. They're use
 
 This list will grow. Domains are a controlled vocabulary, not free-form tags — keep them stable and meaningful.
 
-## Tier definitions
-
-| Tier | Criteria | Typical sources |
-|------|----------|----------------|
-| `perennial` | Identity-level. Frameworks I think *through*. Revisited for years. Would recommend to anyone. Shapes how I see the world. | Core philosophy books, foundational CS/neuroscience texts, life-shaping biographies |
-| `evergreen` | Well-integrated. Connects to many ideas. Has proven its value over time. I can recall key ideas without re-reading. | Strong non-fiction, influential essays, talks that changed my thinking |
-| `seasonal` | Interesting and timely. Useful now. May become evergreen, or may naturally compost. No pressure either way. | Podcast episodes, articles, conference talks, books that were good but not transformative |
-
-**Promotion is natural, not forced.** A seasonal source becomes evergreen when you find yourself returning to it, quoting it, connecting its ideas to other things. Don't overthink the initial classification — you can always change it.
-
-**New sources start without a tier.** A source only receives a tier once it has been processed with at least a `summary.md`. Unprocessed captures live in `notes/`.
-
 ## Linking conventions
 
 - **Source → Idea:** A source's `summary.md` frontmatter `ideas` field lists the concept handles extracted from it. Body text links to idea files.
@@ -247,7 +239,7 @@ If you are an AI agent working with this garden:
 2. **Read `conversations/`** for the owner's actual positions, tensions, and open questions. This is higher-signal than source summaries.
 3. **Use `ideas/`** as the primary knowledge graph. These are the atomic units of the owner's thinking.
 4. **Use `summary.md`** as the entry point for any source. Read the summary before diving into chapter notes or source text.
-5. **Respect tiers.** When connecting new content to the garden, weight connections to `perennial` and `evergreen` sources more heavily. A new article that echoes a perennial idea is more notable than one that echoes a seasonal source.
-6. **Extract concept handles** from new content. If the content introduces a genuinely new idea (not already in `ideas/`), propose it as a new evergreen note. If it reinforces or challenges an existing idea, note that.
+5. **Weight by source type.** Books carry the most weight — they're deeply processed and richly connected. Essays and transcripts are meaningful but lighter. Bookmarks are captures, not yet part of the knowledge graph. When connecting new content, prioritize connections to books and well-connected essays.
+6. **Extract concept handles** from new content. If the content introduces a genuinely new idea (not already in `ideas/`), propose it as a new idea note. If it reinforces or challenges an existing idea, note that.
 7. **Preserve voice.** Notes and idea files are written in the owner's voice. When drafting, match the tone: concise, direct, bullet-point-friendly, with occasional dry humor. Avoid corporate speak. Avoid fluff.
 8. **When in doubt, capture to `notes/`.** Append to today's journal entry. It's better to capture too much than to lose a thought.

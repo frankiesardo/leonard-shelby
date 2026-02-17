@@ -2,7 +2,6 @@
 title: "The Happiness Hypothesis"
 author: "Jonathan Haidt"
 type: book
-tier: evergreen
 domains:
   - philosophy
   - cognitive-science

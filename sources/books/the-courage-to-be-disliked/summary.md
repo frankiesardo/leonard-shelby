@@ -2,7 +2,6 @@
 title: "The Courage to Be Disliked"
 author: "Ichiro Kishimi, Fumitake Koga"
 type: book
-tier: evergreen
 domains:
   - philosophy
   - personal-development

@@ -2,7 +2,6 @@
 title: "Evergreen notes turn ideas into objects that you can manipulate"
 author: "Steph Ango"
 type: essay
-tier: seasonal
 domains:
   - writing
   - knowledge-management

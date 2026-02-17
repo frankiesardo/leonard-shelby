@@ -2,7 +2,6 @@
 title: "On Writing Well"
 author: "William Zinsser"
 type: book
-tier: evergreen
 domains:
   - writing
   - communication

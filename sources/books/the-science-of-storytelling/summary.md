@@ -2,7 +2,6 @@
 title: "The Science of Storytelling"
 author: "Will Storr"
 type: book
-tier: evergreen
 domains:
   - writing
   - cognitive-science

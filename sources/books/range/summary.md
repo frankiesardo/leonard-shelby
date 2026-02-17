@@ -2,7 +2,6 @@
 title: "Range: Why Generalists Triumph in a Specialized World"
 author: "David Epstein"
 type: book
-tier: evergreen
 domains:
   - cognitive-science
   - personal-development

@@ -2,7 +2,6 @@
 title: "Nonfiction Writing Advice"
 author: "Scott Alexander"
 type: essay
-tier: evergreen
 domains:
   - writing
   - communication

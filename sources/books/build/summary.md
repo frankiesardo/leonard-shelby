@@ -2,7 +2,6 @@
 title: "Build: An Unorthodox Guide to Making Things Worth Making"
 author: "Tony Fadell"
 type: book
-tier: evergreen
 domains:
   - product
   - management

@@ -106,7 +106,6 @@ Create `sources/books/<slug>/summary.md` — the entry point for the entire book
 title: "Book Title"
 author: "Author Name"
 type: book
-tier: evergreen                # perennial | evergreen | seasonal
 domains:
   - domain-1
   - domain-2

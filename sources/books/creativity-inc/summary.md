@@ -2,7 +2,6 @@
 title: "Creativity, Inc."
 author: "Ed Catmull"
 type: book
-tier: evergreen
 domains:
   - management
   - systems-thinking

@@ -35,18 +35,18 @@ digraph reflect {
 Before proposing threads, scan:
 - `maps/` — thematic structure, owner's priorities
 - `ideas/` — concept handles, which ones lack personal positions
-- `sources/*/summary.md` — key ideas, tiers, connections
+- `sources/*/summary.md` — key ideas, connections
 - `conversations/` — past dialogues, open questions left unresolved
 
 ## Step 2: Propose Threads
 
 Suggest 2-3 threads worth pulling on. Prioritize:
 
-1. **Tensions** — two high-tier sources that disagree on something
+1. **Tensions** — two important sources that disagree on something
 2. **Under-explored** — ideas linked to many sources but never discussed in a conversation
 3. **Open questions** — unresolved questions from previous `/reflect` sessions
 4. **Cross-domain** — connections that span different intellectual domains
-5. **High-tier, low-position** — perennial/evergreen sources where the summary mostly restates the author with no personal take
+5. **High-weight, low-position** — books or key essays where the summary mostly restates the author with no personal take
 
 The owner can also bring their own topic. That's fine — skip to step 3.
 

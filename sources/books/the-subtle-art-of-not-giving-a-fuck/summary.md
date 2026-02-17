@@ -2,7 +2,6 @@
 title: "The Subtle Art of Not Giving a F*ck"
 author: "Mark Manson"
 type: book
-tier: evergreen
 domains:
   - philosophy
   - personal-development

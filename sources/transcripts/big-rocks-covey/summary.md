@@ -2,7 +2,6 @@
 title: "Big Rocks — Stephen Covey"
 author: "Stephen R. Covey"
 type: transcript
-tier: evergreen
 domains:
   - personal-development
   - management

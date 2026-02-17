@@ -11,7 +11,7 @@ Most note-taking systems fail me in one of two ways: either everything is flat (
 ## Core principles
 
 **1. Not all knowledge is equally load-bearing.**
-Marcus Aurelius' Meditations is not the same kind of object as a podcast episode, even if they share an insight about resilience. The garden has explicit depth tiers — from bedrock philosophy to timely articles — so that foundational ideas maintain their gravitational pull without excluding fresh thinking.
+Marcus Aurelius' Meditations is not the same kind of object as a podcast episode, even if they share an insight about resilience. The directory structure encodes this: books are deeply processed, essays and transcripts are lighter, bookmarks are captures. Foundational ideas maintain their gravitational pull without excluding fresh thinking.
 
 **2. Sources and ideas are separate layers.**
 A book is a *source*. "Antifragility" is an *idea*. Sources are deeply processed in their own folders — summaries, chapter notes, mind maps. Ideas are atomic, free-floating, and connect to each other as peers regardless of origin. The ideas form the web; the sources form the root system.
@@ -25,24 +25,12 @@ First pass: process a source deeply. Extract everything interesting into its own
 **5. Simplicity is a feature.**
 Plain markdown. Git. A directory structure you can hold in your head. Complexity can be layered on top (build steps, viewers, SRS) but the foundation must remain something you can edit with any text editor and navigate with `ls` and `grep`.
 
-## The tier system
-
-Sources (books, essays, transcripts) are classified by how deeply they've shaped my thinking:
-
-| Tier | Name | What it means | Examples |
-|------|------|--------------|----------|
-| `perennial` | Deep roots | Identity-level. Frameworks I think *through*, not just *about*. Revisited for years. | Meditations, 7 Habits, Society of Mind |
-| `evergreen` | Strong branches | Proven ideas that connect broadly. Well-integrated into my thinking. | Antifragile, Sapiens, Radical Candor |
-| `seasonal` | Current growth | Interesting and timely. May become evergreen with time, or may fade naturally. | A good podcast episode, a thought-provoking article |
-
-Ideas (evergreen notes / concept handles) don't have tiers — they connect freely. But they accumulate *weight* naturally through how many connections they have and how often they're revisited.
-
 ## What's in the garden
 
 See [AGENTS.md](AGENTS.md) for the full layout. The short version:
 
 ```
-sources/       → Books, essays, transcripts. Each in its own folder with summary, source text, and optional part-level notes.
+sources/       → Books, essays, transcripts, bookmarks. Each in its own folder with summary, source text, and optional part-level notes.
 ideas/         → Evergreen notes. Atomic concept handles. The connective tissue.
 notes/         → Personal journal and reflections. Quick captures and deeper thinking.
 flashcards/    → Spaced repetition cards extracted from sources and ideas.
@@ -75,7 +63,7 @@ But those are layers on top. The foundation is just markdown, links, and clear s
 
 **As a human:** Browse `maps/` for thematic entry points. Open any source's `summary.md` for a quick overview. Explore `ideas/` for atomic concepts. Follow the links.
 
-**As an agent:** Read `AGENTS.md` for conventions. Parse YAML frontmatter for metadata. Use `maps/` as high-level context. Use `ideas/` as the primary knowledge graph. Use source tiers to weight relevance. Start with `summary.md` inside any source folder for the entry point.
+**As an agent:** Read `AGENTS.md` for conventions. Parse YAML frontmatter for metadata. Use `maps/` as high-level context. Use `ideas/` as the primary knowledge graph. Weight connections by source type (books > essays/transcripts > bookmarks). Start with `summary.md` inside any source folder for the entry point.
 
 ---
 

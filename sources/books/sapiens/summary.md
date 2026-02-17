@@ -2,7 +2,6 @@
 title: "Sapiens: A Brief History of Humankind"
 author: "Yuval Noah Harari"
 type: book
-tier: evergreen
 domains:
   - history
   - philosophy

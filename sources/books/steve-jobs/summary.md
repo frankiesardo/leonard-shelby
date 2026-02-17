@@ -2,7 +2,6 @@
 title: "Steve Jobs"
 author: "Walter Isaacson"
 type: book
-tier: evergreen
 domains:
   - product
   - management
