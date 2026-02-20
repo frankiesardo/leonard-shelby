@@ -8,6 +8,7 @@ sources:
   - mans-search-for-meaning
   - the-7-habits-of-highly-effective-people
   - the-courage-to-be-disliked
+  - the-last-lecture-randy-pausch
 domains:
   - philosophy
   - personal-development
@@ -49,4 +50,5 @@ This principle is not limited to extreme situations. It applies every time someo
 - [Tragic Optimism](tragic-optimism.md) is this freedom exercised in the face of pain, guilt, and death
 - Adler's [Teleology vs. Etiology](teleology-vs-etiology.md) is the same claim from a different angle: you are not determined by the past, because you are always choosing your present goals. Frankl says you *can* choose your attitude; Adler says you already *are* choosing it.
 - [Separation of Tasks](separation-of-tasks.md) is the practical application: others' judgments are their task, not yours. Your response is your task, always.
-- Discussed in [Man's Search for Meaning](../sources/books/mans-search-for-meaning/summary.md) and [The Courage to Be Disliked](../sources/books/the-courage-to-be-disliked/summary.md)
+- Pausch opens The Last Lecture with this principle embodied: "We cannot change the cards we are dealt, just how we play the hand." Ten tumors, three months, and he's doing pushups on stage. Not denial — a choice about what to do with the time remaining.
+- Discussed in [Man's Search for Meaning](../sources/books/mans-search-for-meaning/summary.md), [The Courage to Be Disliked](../sources/books/the-courage-to-be-disliked/summary.md), and [The Last Lecture](../sources/transcripts/the-last-lecture-randy-pausch/summary.md)

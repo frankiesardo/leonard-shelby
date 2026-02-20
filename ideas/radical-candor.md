@@ -6,6 +6,7 @@ aliases:
   - the radical candor framework
 sources:
   - radical-candor
+  - the-last-lecture-randy-pausch
 domains:
   - management
   - communication
@@ -21,6 +22,7 @@ related:
   - growth-trajectories
   - rock-stars-and-superstars
   - the-get-stuff-done-wheel
+  - the-art-of-competing
 ---
 
 # Radical Candor
