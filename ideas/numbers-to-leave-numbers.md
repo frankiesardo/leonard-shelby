@@ -1,12 +1,14 @@
 ---
 title: "Numbers to Leave Numbers"
 aliases:
+  - from form to formlessness
   - form to leave form
   - study of numbers to leave numbers
   - internalization of fundamentals
 sources:
   - the-art-of-learning
   - the-inner-game-of-tennis
+  - myelination-practice-and-mastery
 domains:
   - personal-development
   - cognitive-science
@@ -43,4 +45,5 @@ Jackson Pollock could draw like a camera but chose to splatter paint. The absenc
 - [Slowing Down Time](slowing-down-time.md) is the result — when fundamentals are unconscious, conscious perception sharpens
 - Relates to [Beginner's Mind](beginners-mind.md) — to teach what you've internalized, you must reverse the process
 - Gallwey's "groove theory" in [Self 1 vs Self 2](self-1-vs-self-2.md) describes the same progression from the opposite direction -- technique leaves Self 1's control and becomes Self 2's unconscious competence. [Letting It Happen](letting-it-happen.md) is the endpoint of the process: technique so internalized that only trust can access it.
-- Discussed in [The Art of Learning](../sources/books/the-art-of-learning/summary.md) and [The Inner Game of Tennis](../sources/books/the-inner-game-of-tennis/summary.md)
+- **Myelination** is the biological mechanism. Repetition builds layers of myelin sheath around axons, creating faster and more efficient neural pathways. What feels like "knowledge sinking into the body" is literally insulation being wrapped around nerve fibers. This explains why both Gallwey and Waitzkin are partly right: mirror neurons give you a rough copy (Self 2 can approximate from an image), but myelination through conscious repetition is what makes the movement fluid, efficient, and effortless. See [How to Practice Effectively](../sources/transcripts/myelination-practice-and-mastery/summary.md).
+- Discussed in [The Art of Learning](../sources/books/the-art-of-learning/summary.md), [The Inner Game of Tennis](../sources/books/the-inner-game-of-tennis/summary.md), and [How to Practice Effectively](../sources/transcripts/myelination-practice-and-mastery/summary.md)
