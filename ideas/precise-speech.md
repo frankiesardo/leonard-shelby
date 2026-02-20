@@ -6,6 +6,7 @@ aliases:
   - the logos
 sources:
   - 12-rules-for-life
+  - julio-velasco-hitters-dont-talk-about-the-set
 domains:
   - philosophy
   - communication
@@ -16,6 +17,8 @@ related:
   - clear-thinking-clear-writing
   - set-your-house-in-order
   - it-is-not-mean-it-is-clear
+  - nonjudgmental-awareness
+  - self-1-vs-self-2
 ---
 
 # Precise Speech
@@ -37,4 +40,5 @@ Precise speech is the antidote to both the [life-lie](the-life-lie.md) and to ch
 - [Clear Thinking, Clear Writing](clear-thinking-clear-writing.md) -- the same principle applied to prose
 - [Set Your House in Order](set-your-house-in-order.md) -- you can't fix what you haven't named
 - [It Is Not Mean, It Is Clear](it-is-not-mean-it-is-clear.md) -- Scott's version: clarity in feedback feels harsh but is actually kind
-- Discussed in [12 Rules for Life](../sources/books/12-rules-for-life/summary.md)
+- Velasco's volleyball rule is precise speech under time pressure: "the ball is low" names reality and opens solution files; "the set is bad" assigns blame and wastes the fraction of a second the hitter needs. In sports, imprecise speech doesn't just fail to solve the problem — it *prevents* [Self 2](self-1-vs-self-2.md) from solving it. See [Nonjudgmental Awareness](nonjudgmental-awareness.md).
+- Discussed in [12 Rules for Life](../sources/books/12-rules-for-life/summary.md) and [Velasco — Hitters Don't Talk About the Set](../sources/transcripts/julio-velasco-hitters-dont-talk-about-the-set/summary.md)

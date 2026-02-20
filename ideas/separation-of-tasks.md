@@ -8,6 +8,7 @@ aliases:
 sources:
   - the-courage-to-be-disliked
   - radical-candor
+  - julio-velasco-hitters-dont-talk-about-the-set
 domains:
   - philosophy
   - personal-development
@@ -52,4 +53,5 @@ Most interpersonal suffering comes from two sources: intruding on other people's
 - [Community Feeling](community-feeling.md) is the goal that separation of tasks serves -- not isolation, but healthy connection
 - [Horizontal Relationships](horizontal-relationships.md) are the relationship structure that makes separation of tasks natural rather than painful
 - Kim Scott's [Radical Candor](radical-candor.md) implicitly relies on task separation: giving honest feedback is *your* task as a manager; how the other person responds is *their* task. [Ruinous Empathy](ruinous-empathy.md) is a boundary violation -- taking ownership of someone else's emotional reaction and letting that prevent you from doing your job. [It's Not Mean, It's Clear](it-is-not-mean-it-is-clear.md) is the practical application: clarity about the work is your task; the other person's feelings about that clarity are theirs.
-- Discussed in [The Courage to Be Disliked](../sources/books/the-courage-to-be-disliked/summary.md) and [Radical Candor](../sources/books/radical-candor/summary.md)
+- Velasco's volleyball rule is task separation under game pressure: the hitter's task is hitting, the setter's task is setting. When the hitter judges the set, they've crossed into someone else's task — and wasted the moment they needed to do their own. "Hitters don't talk about the set. They solve it."
+- Discussed in [The Courage to Be Disliked](../sources/books/the-courage-to-be-disliked/summary.md), [Radical Candor](../sources/books/radical-candor/summary.md), and [Velasco — Hitters Don't Talk About the Set](../sources/transcripts/julio-velasco-hitters-dont-talk-about-the-set/summary.md)

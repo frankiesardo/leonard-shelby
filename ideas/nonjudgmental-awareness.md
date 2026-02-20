@@ -7,6 +7,8 @@ aliases:
 sources:
   - the-inner-game-of-tennis
   - the-happiness-hypothesis
+  - joe-rogan-experience-1309-naval-ravikant
+  - julio-velasco-hitters-dont-talk-about-the-set
 domains:
   - cognitive-science
   - personal-development
@@ -20,6 +22,7 @@ related:
   - process-over-product
   - beginners-mind
   - the-rider-and-the-elephant
+  - happiness-as-skill
 ---
 
 # Nonjudgmental Awareness
@@ -50,4 +53,6 @@ The practical move: replace evaluative words with descriptive ones. Not "my pres
 - [Process over Product](process-over-product.md) -- nonjudgmental awareness is process-oriented by nature; judgment is product-oriented
 - [Beginner's Mind](beginners-mind.md) -- the nonjudgmental observer sees things fresh, without the accumulated weight of past evaluations
 - Haidt's [The Rider and the Elephant](the-rider-and-the-elephant.md) provides the neuroscience behind why this works: meditation trains the elephant's automatic processes by weakening the negativity bias and reducing reactivity, rather than arguing with the elephant from the rider's seat
-- Discussed in [The Inner Game of Tennis](../sources/books/the-inner-game-of-tennis/summary.md) and [The Happiness Hypothesis](../sources/books/the-happiness-hypothesis/summary.md)
+- Velasco's volleyball rule is the sharpest applied example: "The ball is low" (observation) vs "the set is bad" (judgment). The hitter who judges opens the complaint file; the hitter who observes opens the solution file. "I want hitters who hit well on badly set balls." Even positive judgment ("perfect!") is still judgment — it keeps the hitter focused on evaluating the setter instead of solving the hit. See [Separation of Tasks](separation-of-tasks.md).
+- Naval extends this from tennis to life: "Watch your mind all day long. Watch what it does. Not judge it, not try to control it." His practice is 24/7 nonjudgmental awareness — noticing each thought, tracing it to its origin, letting it dissolve through understanding. The mechanism is the same as Gallwey's: occupied with observation, Self 1 stops interfering. See [Happiness as Skill](happiness-as-skill.md).
+- Discussed in [The Inner Game of Tennis](../sources/books/the-inner-game-of-tennis/summary.md), [The Happiness Hypothesis](../sources/books/the-happiness-hypothesis/summary.md), and [JRE #1309 — Naval Ravikant](../sources/transcripts/joe-rogan-experience-1309-naval-ravikant/summary.md)

@@ -9,6 +9,7 @@ sources:
   - the-courage-to-be-disliked
   - the-happiness-hypothesis
   - sapiens
+  - joe-rogan-experience-1309-naval-ravikant
 domains:
   - philosophy
   - personal-development
@@ -35,6 +36,7 @@ related:
   - failure-as-investment
   - happiness-comes-from-between
   - the-progress-principle
+  - happiness-as-skill
 ---
 
 # The Backwards Law
@@ -62,4 +64,5 @@ The practical move is counterintuitive: instead of asking "how do I feel good?" 
 - [The Courage to Be Normal](the-courage-to-be-normal.md) is the Backwards Law applied to the desire for specialness: pursuing exceptionality makes you feel more ordinary
 - Haidt's [The Hedonic Treadmill](the-hedonic-treadmill.md) is the empirical mechanism behind the Backwards Law: each gain resets the baseline, so pursuit never delivers lasting satisfaction
 - [The Rider and the Elephant](the-rider-and-the-elephant.md) explains why the Backwards Law is so hard to escape: the elephant pursues status and pleasure automatically, regardless of the rider's knowledge
-- Discussed in [The Subtle Art of Not Giving a F*ck](../sources/books/the-subtle-art-of-not-giving-a-fuck/summary.md), [The Courage to Be Disliked](../sources/books/the-courage-to-be-disliked/summary.md), and [The Happiness Hypothesis](../sources/books/the-happiness-hypothesis/summary.md)
+- Naval gives the Backwards Law its most memorable formulation: "Desire is a contract you make with yourself to be unhappy until you get what you want." The remedy is radical desire curation — pick one overwhelming desire, let the rest go. See [Happiness as Skill](happiness-as-skill.md).
+- Discussed in [The Subtle Art of Not Giving a F*ck](../sources/books/the-subtle-art-of-not-giving-a-fuck/summary.md), [The Courage to Be Disliked](../sources/books/the-courage-to-be-disliked/summary.md), [The Happiness Hypothesis](../sources/books/the-happiness-hypothesis/summary.md), and [JRE #1309 — Naval Ravikant](../sources/transcripts/joe-rogan-experience-1309-naval-ravikant/summary.md)

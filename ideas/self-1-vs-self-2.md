@@ -7,6 +7,8 @@ aliases:
 sources:
   - the-inner-game-of-tennis
   - the-happiness-hypothesis
+  - joe-rogan-experience-1309-naval-ravikant
+  - julio-velasco-hitters-dont-talk-about-the-set
 domains:
   - cognitive-science
   - personal-development
@@ -24,6 +26,7 @@ related:
   - the-art-of-competing
   - the-rider-and-the-elephant
   - mental-models-for-uncertainty
+  - happiness-as-skill
 ---
 
 # Self 1 vs Self 2
@@ -54,4 +57,6 @@ The practical move is not to fight Self 1 (that's Self 1 fighting itself) but to
 - [The Soft Zone](the-soft-zone.md) is the Self 2 mode of concentration -- resilient and absorbed rather than rigid
 - [The Backwards Law](the-backwards-law.md) and [Paradoxical Intention](paradoxical-intention.md) describe the same mechanism from the other side: trying harder (Self 1 taking over) produces worse results
 - Haidt's [The Rider and the Elephant](the-rider-and-the-elephant.md) is the broader cognitive science version: Self 1 maps to the rider (conscious, verbal), Self 2 maps to the elephant (automatic, emotional, embodied). Haidt adds the evolutionary framing -- the rider evolved to serve the elephant, not to command it.
-- Discussed in [The Inner Game of Tennis](../sources/books/the-inner-game-of-tennis/summary.md) and [The Happiness Hypothesis](../sources/books/the-happiness-hypothesis/summary.md)
+- Velasco's volleyball rule crystallizes the Self 1/Self 2 dynamic: when the hitter judges the set ("it's bad"), Self 1 wastes the fraction of a second that Self 2 needs to compute. When the hitter sees the set ("it's low"), Self 1 feeds accurate data and Self 2 opens the right solution files. Self 1 is not absent — it is *perceiving* instead of *evaluating*. "I want hitters who hit well on badly set balls." See [JRE #1309 — Naval Ravikant](../sources/transcripts/joe-rogan-experience-1309-naval-ravikant/summary.md) and [Velasco — Hitters Don't Talk About the Set](../sources/transcripts/julio-velasco-hitters-dont-talk-about-the-set/summary.md).
+- Naval Ravikant's "debug mode" is a third relationship between Self 1 and Self 2: Self 1 as continuous background observer. Not silent (Gallwey), not commanding (the default), but *watching* — "watch your mind all day long, watch what it does, not judge it, not try to control it." When Self 1 traces a pattern to its origin ("I'm rehearsing because I was a poor kid who survived by sounding smart"), the pattern dissolves through understanding, not willpower. See [Happiness as Skill](happiness-as-skill.md).
+- Discussed in [The Inner Game of Tennis](../sources/books/the-inner-game-of-tennis/summary.md), [The Happiness Hypothesis](../sources/books/the-happiness-hypothesis/summary.md), and [JRE #1309 — Naval Ravikant](../sources/transcripts/joe-rogan-experience-1309-naval-ravikant/summary.md)

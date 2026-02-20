@@ -6,6 +6,7 @@ aliases:
   - trust self 2
 sources:
   - the-inner-game-of-tennis
+  - julio-velasco-hitters-dont-talk-about-the-set
 domains:
   - personal-development
   - cognitive-science
@@ -57,4 +58,5 @@ This insight applies everywhere: the writer who overwrites because he can't trus
 - Waitzkin's [Numbers to Leave Numbers](numbers-to-leave-numbers.md) describes the endpoint: technique so internalized that letting it happen is the only way to access it
 - [Making Smaller Circles](making-smaller-circles.md) is the training process that builds the trust -- condense until Self 2 owns the movement
 - Catmull describes the same phenomenon in directing: "If you think, you stink." Byron Howard does his best storyboard work when he's "zipping through the scene, not overthinking." Andrew Stanton's "hurry up and fail" approach is letting it happen at the decision-making level -- be decisive, trust the process, correct later. See [Mental Models for Uncertainty](mental-models-for-uncertainty.md).
-- Discussed in [The Inner Game of Tennis](../sources/books/the-inner-game-of-tennis/summary.md) and [Creativity, Inc.](../sources/books/creativity-inc/summary.md)
+- Velasco's "I want hitters who hit well on badly set balls" is letting it happen under imperfect conditions. Don't wait for the perfect set. See reality as it is, open the right mental file, and respond to what's actually there.
+- Discussed in [The Inner Game of Tennis](../sources/books/the-inner-game-of-tennis/summary.md), [Creativity, Inc.](../sources/books/creativity-inc/summary.md), and [Velasco — Hitters Don't Talk About the Set](../sources/transcripts/julio-velasco-hitters-dont-talk-about-the-set/summary.md)
