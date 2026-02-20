@@ -9,6 +9,7 @@ sources:
   - the-7-habits-of-highly-effective-people
   - the-courage-to-be-disliked
   - the-last-lecture-randy-pausch
+  - practical-guide-finding-inner-peace-jack-kornfield
 domains:
   - philosophy
   - personal-development
@@ -27,6 +28,8 @@ related:
   - paradoxical-intention
   - self-transcendence
   - the-existential-vacuum
+  - the-mindful-pause
+  - forgiveness-as-freedom
 ---
 
 # The Last Human Freedom
@@ -51,4 +54,5 @@ This principle is not limited to extreme situations. It applies every time someo
 - Adler's [Teleology vs. Etiology](teleology-vs-etiology.md) is the same claim from a different angle: you are not determined by the past, because you are always choosing your present goals. Frankl says you *can* choose your attitude; Adler says you already *are* choosing it.
 - [Separation of Tasks](separation-of-tasks.md) is the practical application: others' judgments are their task, not yours. Your response is your task, always.
 - Pausch opens The Last Lecture with this principle embodied: "We cannot change the cards we are dealt, just how we play the hand." Ten tumors, three months, and he's doing pushups on stage. Not denial — a choice about what to do with the time remaining.
-- Discussed in [Man's Search for Meaning](../sources/books/mans-search-for-meaning/summary.md), [The Courage to Be Disliked](../sources/books/the-courage-to-be-disliked/summary.md), and [The Last Lecture](../sources/transcripts/the-last-lecture-randy-pausch/summary.md)
+- Kornfield's [Mindful Pause](the-mindful-pause.md) is this freedom made operational: the practice of taking a breath before responding, creating the gap where choice lives. Frankl identified the space philosophically; Kornfield trains people to inhabit it as a daily habit. His [Forgiveness as Freedom](forgiveness-as-freedom.md) is the hardest application: choosing not to carry bitterness even when wronged. The prisoner of war who hasn't forgiven his captors "is still in prison."
+- Discussed in [Man's Search for Meaning](../sources/books/mans-search-for-meaning/summary.md), [The Courage to Be Disliked](../sources/books/the-courage-to-be-disliked/summary.md), [The Last Lecture](../sources/transcripts/the-last-lecture-randy-pausch/summary.md), and [A Practical Guide on Finding Inner Peace](../sources/transcripts/practical-guide-finding-inner-peace-jack-kornfield/summary.md)

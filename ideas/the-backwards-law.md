@@ -10,6 +10,7 @@ sources:
   - the-happiness-hypothesis
   - sapiens
   - joe-rogan-experience-1309-naval-ravikant
+  - practical-guide-finding-inner-peace-jack-kornfield
 domains:
   - philosophy
   - personal-development
@@ -65,4 +66,5 @@ The practical move is counterintuitive: instead of asking "how do I feel good?" 
 - Haidt's [The Hedonic Treadmill](the-hedonic-treadmill.md) is the empirical mechanism behind the Backwards Law: each gain resets the baseline, so pursuit never delivers lasting satisfaction
 - [The Rider and the Elephant](the-rider-and-the-elephant.md) explains why the Backwards Law is so hard to escape: the elephant pursues status and pleasure automatically, regardless of the rider's knowledge
 - Naval gives the Backwards Law its most memorable formulation: "Desire is a contract you make with yourself to be unhappy until you get what you want." The remedy is radical desire curation — pick one overwhelming desire, let the rest go. See [Happiness as Skill](happiness-as-skill.md).
-- Discussed in [The Subtle Art of Not Giving a F*ck](../sources/books/the-subtle-art-of-not-giving-a-fuck/summary.md), [The Courage to Be Disliked](../sources/books/the-courage-to-be-disliked/summary.md), [The Happiness Hypothesis](../sources/books/the-happiness-hypothesis/summary.md), and [JRE #1309 — Naval Ravikant](../sources/transcripts/joe-rogan-experience-1309-naval-ravikant/summary.md)
+- Kornfield demonstrates the Backwards Law in the emotional domain: fighting emotions strengthens them, and suppressing anger makes it persist. "Stop that, I hate all that judgment — how do I get rid of it? But what's that? It's more judgment." His alternative — welcoming emotions as visitors, thanking the fearful thoughts for trying to protect you — is the Backwards Law's remedy applied to inner life. You can't [water seeds](watering-seeds.md) of peace by aggressively attacking seeds of anxiety.
+- Discussed in [The Subtle Art of Not Giving a F*ck](../sources/books/the-subtle-art-of-not-giving-a-fuck/summary.md), [The Courage to Be Disliked](../sources/books/the-courage-to-be-disliked/summary.md), [The Happiness Hypothesis](../sources/books/the-happiness-hypothesis/summary.md), [JRE #1309 — Naval Ravikant](../sources/transcripts/joe-rogan-experience-1309-naval-ravikant/summary.md), and [A Practical Guide on Finding Inner Peace](../sources/transcripts/practical-guide-finding-inner-peace-jack-kornfield/summary.md)

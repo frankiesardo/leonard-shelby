@@ -5,6 +5,7 @@ aliases:
   - clarity of thought
 sources:
   - on-writing-well
+  - nonfiction-writing-advice
 domains:
   - writing
   - thinking
@@ -14,6 +15,7 @@ related:
   - simplicity-in-writing
   - clutter
   - guard-the-door-of-your-mind
+  - concept-handles
 ---
 
 # Clear Thinking Produces Clear Writing
@@ -36,4 +38,5 @@ The practical implication: writing isn't just a way to communicate ideas you alr
 
 - The discipline of clear thinking manifests as [Simplicity in Writing](simplicity-in-writing.md)
 - Its absence manifests as [Clutter](clutter.md)
-- Discussed in [On Writing Well](../sources/books/on-writing-well/summary.md)
+- [Concept Handles](concept-handles.md) are what clear thinking looks like when compressed into a portable phrase
+- Discussed in [On Writing Well](../sources/books/on-writing-well/summary.md) and [Nonfiction Writing Advice](../sources/essays/nonfiction-writing-advice/summary.md)

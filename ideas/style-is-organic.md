@@ -13,6 +13,7 @@ related:
   - the-personal-transaction
   - write-for-yourself
   - boldness-over-hedging
+  - microhumor
 ---
 
 # Style Is Organic

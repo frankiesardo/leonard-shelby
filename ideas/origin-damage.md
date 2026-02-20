@@ -7,6 +7,7 @@ aliases:
 sources:
   - the-science-of-storytelling
   - steve-jobs
+  - practical-guide-finding-inner-peace-jack-kornfield
 domains:
   - writing
   - cognitive-science
@@ -41,4 +42,5 @@ For life, the concept is humbling. Our personalities are shaped by events we may
 - [Incremental Theory of Intelligence](incremental-theory-of-intelligence.md) -- entity theorists are often shaped by origin damage in the form of identity-based praise ("you're so smart") that makes failure an identity crisis
 - [The Hero-Maker Narrative](the-hero-maker-narrative.md) -- the brain constructs a heroic story around the damage to make it feel like a virtue
 - Jobs's adoption is a textbook case of origin damage. Being abandoned at birth created a lifelong oscillation between the need to control everything (you can't be abandoned if you're in charge) and the capacity for magical thinking (the adopted child who is "special" and "chosen"). Isaacson traces how this wound produced both the [Reality Distortion Field](reality-distortion-field.md) and the cruelty -- the same damage that drove extraordinary creation also drove extraordinary destruction of relationships.
-- Discussed in [The Science of Storytelling](../sources/books/the-science-of-storytelling/summary.md) and [Steve Jobs](../sources/books/steve-jobs/summary.md)
+- Kornfield's autobiography is a textbook case: a violent, paranoid father created a child who identified as "the peacemaker" — a survival strategy that became invisible to its owner. Decades later, sitting in silence in a monastery, the stored anger surfaced. "I considered myself a very peaceful person," he says, until meditation made the origin damage audible. His teacher's response — "Good. Sit with it. Feel it. Know it." — is the contemplative method for making the invisible wound visible. The strength of an emotional reaction reveals the conditioning from the past: when a slight provokes disproportionate fury, it's not about the slight.
+- Discussed in [The Science of Storytelling](../sources/books/the-science-of-storytelling/summary.md), [Steve Jobs](../sources/books/steve-jobs/summary.md), and [A Practical Guide on Finding Inner Peace](../sources/transcripts/practical-guide-finding-inner-peace-jack-kornfield/summary.md)

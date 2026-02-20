@@ -6,6 +6,7 @@ aliases:
   - condensing the routine
 sources:
   - the-art-of-learning
+  - practical-guide-finding-inner-peace-jack-kornfield
 domains:
   - personal-development
   - cognitive-science
@@ -15,6 +16,7 @@ related:
   - the-soft-zone
   - making-sandals
   - relaxed-concentration
+  - the-mindful-pause
 ---
 
 # Building Your Trigger
@@ -44,4 +46,5 @@ The practical implication: virtually everyone has an activity that puts them in 
 - [The Soft Zone](the-soft-zone.md) is the state the trigger summons
 - Works alongside [Making Sandals](making-sandals.md) -- the trigger is one tool for channeling emotions into focus
 - Gallwey's between-points breathing technique is a proto-trigger for [Relaxed Concentration](relaxed-concentration.md) -- focus on the breath going in and out to prevent the mind from wandering between points. Simpler than Waitzkin's full routine, but the same principle: a reliable path back to the focused state.
-- Discussed in [The Art of Learning](../sources/books/the-art-of-learning/summary.md)
+- Kornfield observes that elite athletes use ritual as trigger: Federer bouncing the ball the same number of times, LeBron's powder toss, NBA players' free-throw routines. These are not superstitions — they're mindful pauses that reset the nervous system between plays, preventing the last moment (good or bad) from bleeding into the next. Kornfield himself uses candle-lighting and moments of silence to shift collective energy in therapy sessions and corporate meetings. See [The Mindful Pause](the-mindful-pause.md).
+- Discussed in [The Art of Learning](../sources/books/the-art-of-learning/summary.md) and [A Practical Guide on Finding Inner Peace](../sources/transcripts/practical-guide-finding-inner-peace-jack-kornfield/summary.md)

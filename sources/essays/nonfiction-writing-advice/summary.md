@@ -8,7 +8,10 @@ domains:
 status: read
 date_consumed: 2024
 url: "https://slatestarcodex.com/2016/02/20/writing-advice/"
-ideas: []
+ideas:
+  - concept-handles
+  - microhumor
+  - crossing-tribal-boundaries
 ---
 
 # Nonfiction Writing Advice — Scott Alexander
@@ -34,3 +37,15 @@ Ten rules for writing nonfiction that people will actually read, from one of the
 > "I think this microhumor stuff is really important, maybe the number one thing that separates really enjoyable writers from people who are technically proficient but still a chore to read."
 
 > "Crossing tribal signaling boundaries is by far the most important persuasive technique I know, besides which none of the others even deserve to be called persuasive techniques at all."
+
+## Connections
+
+- **[On Writing Well](../../books/on-writing-well/summary.md)** — Zinsser is the patron saint of everything Alexander practices. The overlap is almost total: simplicity, clarity, humor, rewriting. Where Zinsser is the textbook, Alexander is the field report from someone who internalized it and now runs a million-reader blog.
+- **[Several Short Sentences About Writing](../../books/several-short-sentences-about-writing/summary.md)** — Klinkenborg's "trust the reader" is the philosophical foundation for Alexander's microhumor and tribal signaling: both assume an intelligent audience that doesn't need hand-holding.
+- **[Concept Handles](../../../ideas/concept-handles.md)** — Alexander's most original contribution to writing advice. The idea that naming an insight is as important as discovering it.
+- **[Microhumor](../../../ideas/microhumor.md)** — The background-level wit that separates enjoyable writers from technically proficient ones. Zinsser calls humor "the secret weapon"; Alexander operationalizes it.
+- **[Crossing Tribal Boundaries](../../../ideas/crossing-tribal-boundaries.md)** — His most important persuasive technique. Signal that you belong before you argue.
+- **[Humor as a Serious Tool](../../../ideas/humor-as-a-serious-tool.md)** — Microhumor is the ambient version of Zinsser's principle: humor as a disarming mechanism.
+- **[Numbers to Leave Numbers](../../../ideas/numbers-to-leave-numbers.md)** — Alexander's rule 10 ("learn the rules, then break them") is exactly Waitzkin's form-to-formlessness: internalize the fundamentals until they dissolve into instinct.
+- **[Clear Thinking Produces Clear Writing](../../../ideas/clear-thinking-clear-writing.md)** — Concept handles are what clear thinking looks like when it's been compressed into a portable phrase.
+- **[Boldness over Hedging](../../../ideas/boldness-over-hedging.md)** — Alexander's tribal signaling advice is bold persuasion: commit to understanding the other side, then speak with conviction from inside their frame.

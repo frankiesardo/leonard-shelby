@@ -5,6 +5,7 @@ aliases:
   - comedy as criticism
 sources:
   - on-writing-well
+  - nonfiction-writing-advice
 domains:
   - communication
   - writing
@@ -13,6 +14,8 @@ domains:
 related:
   - trust-your-material
   - paradoxical-intention
+  - microhumor
+  - crossing-tribal-boundaries
 ---
 
 # Humor as a Serious Tool
@@ -34,4 +37,6 @@ Two practical constraints: humor must be about something concrete, and the humor
 ## Connections
 
 - Humor works best when the underlying facts are strong -- see [Trust Your Material](trust-your-material.md)
-- Discussed in [On Writing Well](../sources/books/on-writing-well/summary.md)
+- Alexander's [Microhumor](microhumor.md) is the ambient, everyday version — not the big comedic weapon, but background-level wit that keeps readers engaged
+- Humor is also a mechanism for [Crossing Tribal Boundaries](crossing-tribal-boundaries.md) — it disarms before the argument lands
+- Discussed in [On Writing Well](../sources/books/on-writing-well/summary.md) and [Nonfiction Writing Advice](../sources/essays/nonfiction-writing-advice/summary.md)

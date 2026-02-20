@@ -9,6 +9,7 @@ sources:
   - jim-rohn-challenges-succeed-seminar-anaheim
   - the-courage-to-be-disliked
   - the-happiness-hypothesis
+  - practical-guide-finding-inner-peace-jack-kornfield
 domains:
   - personal-development
   - philosophy
@@ -75,4 +76,5 @@ This is not comfortable. It means owning that your current results are, in some 
 - Adler's closing line: "If I change, the world will change. No one else will change the world for me." Pure Inside-Out.
 - Haidt's [Happiness Comes from Between](happiness-comes-from-between.md) refines Inside-Out: internal work is necessary but not sufficient. Happiness requires getting the *relationships* right -- between yourself and others, yourself and your work, yourself and something larger. Pure inside-out, taken to the extreme of Buddhist detachment, misses half the picture.
 - [The Rider and the Elephant](the-rider-and-the-elephant.md) explains *why* inside-out change is hard: you must train the elephant (automatic processes, emotions, habits), not just convince the rider (conscious reasoning).
-- Discussed in [The 7 Habits of Highly Effective People](../sources/books/the-7-habits-of-highly-effective-people/summary.md), [Challenges to Succeed](../sources/transcripts/jim-rohn-challenges-succeed-seminar-anaheim/summary.md), [The Subtle Art of Not Giving a F*ck](../sources/books/the-subtle-art-of-not-giving-a-fuck/summary.md), [The Courage to Be Disliked](../sources/books/the-courage-to-be-disliked/summary.md), and [The Happiness Hypothesis](../sources/books/the-happiness-hypothesis/summary.md)
+- Kornfield's entire teaching is inside-out change at its most literal: "If we want to change the world for the better, it starts with these inner capacities." No amount of technology will stop war, racism, or climate destruction — because those are born in the human heart. His practical tools ([The Mindful Pause](the-mindful-pause.md), [Watering Seeds](watering-seeds.md), [Forgiveness as Freedom](forgiveness-as-freedom.md)) are all inside-out moves: change the inner response, and the outer behavior follows. Even his [Compassion as Verb](compassion-as-verb.md) requires self-compassion first — you can't sustainably give what you haven't cultivated in yourself.
+- Discussed in [The 7 Habits of Highly Effective People](../sources/books/the-7-habits-of-highly-effective-people/summary.md), [Challenges to Succeed](../sources/transcripts/jim-rohn-challenges-succeed-seminar-anaheim/summary.md), [The Subtle Art of Not Giving a F*ck](../sources/books/the-subtle-art-of-not-giving-a-fuck/summary.md), [The Courage to Be Disliked](../sources/books/the-courage-to-be-disliked/summary.md), [The Happiness Hypothesis](../sources/books/the-happiness-hypothesis/summary.md), and [A Practical Guide on Finding Inner Peace](../sources/transcripts/practical-guide-finding-inner-peace-jack-kornfield/summary.md)

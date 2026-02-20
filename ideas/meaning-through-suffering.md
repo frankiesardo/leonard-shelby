@@ -9,6 +9,7 @@ sources:
   - the-happiness-hypothesis
   - 12-rules-for-life
   - the-last-lecture-randy-pausch
+  - practical-guide-finding-inner-peace-jack-kornfield
 domains:
   - philosophy
   - personal-development
@@ -23,6 +24,8 @@ related:
   - progress-as-increasing-heritage
   - the-existential-vacuum
   - posttraumatic-growth
+  - the-mindful-pause
+  - forgiveness-as-freedom
 ---
 
 # Meaning Through Suffering
@@ -48,4 +51,5 @@ The practical application is Frankl's distinction between "getting through suffe
 - [The Day That Turns Your Life Around](the-day-that-turns-your-life-around.md) is the moment when suffering becomes fuel for transformation
 - [Posttraumatic Growth](posttraumatic-growth.md) is the empirical elaboration: Haidt identifies the conditions under which suffering actually produces growth (right time, right degree, right social support), adding scientific specificity to Frankl's existential claim
 - Randy Pausch's Last Lecture is a live demonstration: a dying man chooses to spend his remaining time encoding life lessons for children who won't remember him. "I'm dying and I'm having fun. And I'm going to keep having fun every day I have left." Not denial — a choice. The second head fake: "This talk's not for you; it's for my kids."
-- Discussed in [Man's Search for Meaning](../sources/books/mans-search-for-meaning/summary.md), [The Happiness Hypothesis](../sources/books/the-happiness-hypothesis/summary.md), and [The Last Lecture](../sources/transcripts/the-last-lecture-randy-pausch/summary.md)
+- Ajahn Chah's "two kinds of suffering" is a Buddhist formulation of Frankl's insight: "the suffering you run from follows you everywhere; the suffering you face is the gateway to freedom." Kornfield's entire monastic training — sitting with anger, grief, malaria — was the practice of facing suffering as transformation rather than punishment. His [Forgiveness as Freedom](forgiveness-as-freedom.md) extends this: the suffering of being wronged, when faced rather than carried as bitterness, becomes the catalyst for the deepest inner work.
+- Discussed in [Man's Search for Meaning](../sources/books/mans-search-for-meaning/summary.md), [The Happiness Hypothesis](../sources/books/the-happiness-hypothesis/summary.md), [The Last Lecture](../sources/transcripts/the-last-lecture-randy-pausch/summary.md), and [A Practical Guide on Finding Inner Peace](../sources/transcripts/practical-guide-finding-inner-peace-jack-kornfield/summary.md)

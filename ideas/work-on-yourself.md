@@ -8,6 +8,7 @@ sources:
   - jim-rohn-challenges-succeed-seminar-anaheim
   - the-7-habits-of-highly-effective-people
   - 12-rules-for-life
+  - practical-guide-finding-inner-peace-jack-kornfield
 domains:
   - personal-development
   - philosophy
@@ -33,3 +34,5 @@ The question to ask on the job is not "what am I getting paid?" but "what am I b
 This is [inside-out](inside-out.md) at its most practical: change yourself, and external results follow. It's also [P/PC balance](p-pc-balance.md) reframed for economic life — working on yourself is investing in the goose. And it presumes the [incremental theory of intelligence](incremental-theory-of-intelligence.md): you *can* become more than you are. The whole modern personal development tradition flows from this spring.
 
 Rohn's formula for the change: find out how things work (study, read, be curious), take action through [discipline](the-day-that-turns-your-life-around.md) (start small), and [guard what goes into your mind](guard-the-door-of-your-mind.md).
+
+Kornfield frames this from the contemplative tradition: "I got an Ivy League education, but nobody taught me what to do with my anger, how to have a kind relationship, or how to be with myself in a deep way. I had half the curriculum of a wise education, and I needed the second half." The second half — forgiveness, compassion, emotional awareness, unshakable presence — is the inner work that no external achievement can substitute for. See [A Practical Guide on Finding Inner Peace](../sources/transcripts/practical-guide-finding-inner-peace-jack-kornfield/summary.md).

@@ -7,6 +7,7 @@ aliases:
 sources:
   - joe-rogan-experience-1309-naval-ravikant
   - the-happiness-hypothesis
+  - practical-guide-finding-inner-peace-jack-kornfield
 domains:
   - personal-development
   - philosophy
@@ -21,6 +22,9 @@ related:
   - relaxed-concentration
   - choose-your-struggle
   - work-on-yourself
+  - the-mindful-pause
+  - watering-seeds
+  - compassion-as-verb
 ---
 
 # Happiness as Skill
@@ -46,4 +50,5 @@ The default cultural model treats happiness as an outcome: get the job, the rela
 - [Choose Your Struggle](choose-your-struggle.md) is Manson's angle on the same skill: you can't choose to avoid pain, but you can choose which pain to practice with
 - [Work on Yourself](work-on-yourself.md) is Rohn's meta-principle: "Work harder on yourself than you do on your job"
 - [Happiness Comes from Between](happiness-comes-from-between.md) is Haidt's amendment: the skill is not purely internal; it includes getting the right relationships with others, work, and something larger
-- Discussed in [JRE #1309 — Naval Ravikant](../sources/transcripts/joe-rogan-experience-1309-naval-ravikant/summary.md) and [The Happiness Hypothesis](../sources/books/the-happiness-hypothesis/summary.md)
+- Kornfield explicitly frames mindfulness and compassion as trainable skills: "If you want to learn to play guitar or code a computer, you can do this." His methods — [The Mindful Pause](the-mindful-pause.md), [Watering Seeds](watering-seeds.md), loving-kindness meditation — are specific training regimens for the skill of happiness. Like Naval, Kornfield reports that the practice eventually becomes default rather than effortful: seeing someone struggling triggers automatic compassion rather than automatic irritation.
+- Discussed in [JRE #1309 — Naval Ravikant](../sources/transcripts/joe-rogan-experience-1309-naval-ravikant/summary.md), [The Happiness Hypothesis](../sources/books/the-happiness-hypothesis/summary.md), and [A Practical Guide on Finding Inner Peace](../sources/transcripts/practical-guide-finding-inner-peace-jack-kornfield/summary.md)

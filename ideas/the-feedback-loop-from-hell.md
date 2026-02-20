@@ -6,6 +6,7 @@ aliases:
   - feeling bad about feeling bad
 sources:
   - the-subtle-art-of-not-giving-a-fuck
+  - practical-guide-finding-inner-peace-jack-kornfield
 domains:
   - cognitive-science
   - personal-development
@@ -20,6 +21,8 @@ related:
   - all-problems-are-interpersonal
   - the-rider-and-the-elephant
   - the-luxury-trap
+  - the-mindful-pause
+  - forgiveness-as-freedom
 ---
 
 # The Feedback Loop from Hell
@@ -42,4 +45,5 @@ The loop also explains why much conventional self-help backfires: telling someon
 - [The Downward Spiral](the-downward-spiral.md) is the same pattern from a performance context — one mistake cascades because you're fighting the mistake instead of seeing the board
 - [The Soft Zone](the-soft-zone.md) is the antidote from another tradition — build resilience by flowing with disruption, not rigidly resisting it
 - [Circle of Influence](circle-of-influence.md) — the loop is a Circle of Concern problem disguised as a Circle of Influence problem
-- Discussed in [The Subtle Art of Not Giving a F*ck](../sources/books/the-subtle-art-of-not-giving-a-fuck/summary.md)
+- Kornfield names the loop explicitly in a contemplative context: "Stop that, I hate all that judgment — how do I get rid of it? But what's that? It's more judgment, right?" His exit: instead of adding judgment on top of judgment, acknowledge the pattern with kindness — "thank you for trying to protect me, I'm okay." The [Mindful Pause](the-mindful-pause.md) short-circuits the loop by creating a gap before the meta-layer forms. [Forgiveness as Freedom](forgiveness-as-freedom.md) is the interpersonal version: bitterness feeds itself through rumination, and refusing to carry it is the exit.
+- Discussed in [The Subtle Art of Not Giving a F*ck](../sources/books/the-subtle-art-of-not-giving-a-fuck/summary.md) and [A Practical Guide on Finding Inner Peace](../sources/transcripts/practical-guide-finding-inner-peace-jack-kornfield/summary.md)

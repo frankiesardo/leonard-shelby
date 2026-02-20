@@ -15,6 +15,7 @@ related:
   - the-brain-as-model-maker
   - the-dramatic-question
   - unexpected-change-as-story-engine
+  - microhumor
 ---
 
 # Trust the Reader

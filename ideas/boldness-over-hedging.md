@@ -17,6 +17,7 @@ related:
   - opinion-driven-decisions
   - mission-driven-assholes
   - reality-distortion-field
+  - crossing-tribal-boundaries
 ---
 
 # Boldness over Hedging
@@ -40,4 +41,5 @@ This doesn't mean being reckless or dishonest. If you genuinely don't know, say 
 - Hedging is a species of [Clutter](clutter.md) -- words that don't do useful work
 - The courage to be bold comes from [Writing for Yourself](write-for-yourself.md) -- internal standards, not audience-pleasing
 - Boldness is an expression of [Style Is Organic](style-is-organic.md) -- being yourself rather than performing
+- Boldness works best after [Crossing Tribal Boundaries](crossing-tribal-boundaries.md) — earn the right to be heard, then commit to your point
 - Discussed in [On Writing Well](../sources/books/on-writing-well/summary.md)
