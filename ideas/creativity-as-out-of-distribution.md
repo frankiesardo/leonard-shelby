@@ -25,6 +25,8 @@ Naval Ravikant draws the line here: creativity is coming up with an answer "that
 
 Steve Jobs said "creativity is just putting things together." Naval disagrees. Putting things together is what AI excels at. The creativity that matters is inventing a new genre of painting, not painting within an existing one. It's proposing a scientific theory that turns out to be true but couldn't have been predicted from prior theories. Demis Hassabis asks the sharper version of this question: can AI ask the *new interesting questions*? Not solve existing ones — ask ones nobody thought to ask.
 
+There's a corollary in the art market: "people don't buy art, they buy artists." The value isn't in any single artwork — it's in the artist's identity, trajectory, and vision. AI can produce artworks, but it can't produce an *artist* — a self-directed creative identity with authentic desires and a body of work that reflects a genuine point of view. When everyone can generate art, the differentiator is who you are, not what you made.
+
 ## Why it matters
 
 This distinction separates two things that look similar but are fundamentally different. AI can produce novel combinations of existing knowledge — and those combinations can be genuinely useful, even surprising. But the space of possible combinations is bounded by the training distribution. Creativity that matters most is the kind that breaks out of that distribution entirely: a new framework, a new question, a new genre.
