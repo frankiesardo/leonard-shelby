@@ -6,6 +6,7 @@ aliases:
   - asking the new question
 sources:
   - artificial-intelligence
+  - people-dont-buy-art-they-buy-artists
 domains:
   - philosophy
   - cognitive-science

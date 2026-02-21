@@ -27,7 +27,7 @@ Naval and Nivi walking and talking about AI — informal, wide-ranging, surprisi
 
 - **Creativity is out-of-distribution.** AI solving an Erdos problem doesn't demonstrate creativity — the solution was already embedded across the training data in different forms, languages, and paradigms. The AI assembled the pieces. True creativity is coming up with answers "not predictable or foreseeable from the question and from the elements that were already known." Inventing a new genre, not executing within one. See [Creativity as Out-of-Distribution](../../../ideas/creativity-as-out-of-distribution.md).
 
-- **The middle gets destroyed.** Winner-take-all dynamics intensify with AI. A few massive aggregators at the head, an infinite long tail of niche apps, and the 5-20 person software companies in the middle get crushed from both directions. This is [Aggregation Theory](../../bookmarks/aggregation-theory/summary.md) applied to the AI era.
+- **The middle gets destroyed.** Winner-take-all dynamics intensify with AI. A few massive aggregators at the head, an infinite long tail of niche apps, and the 5-20 person software companies in the middle get crushed from both directions. This is [Aggregation Theory](../../essays/aggregation-theory/summary.md) applied to the AI era.
 
 - **AI as the ultimate personalized tutor.** It meets you at exactly the edge of your knowledge — not incomprehensible, not boring. "The means of learning are abundant. It's the desire to learn that's scarce." For the first time, nothing is beyond reach: any textbook, any paper, any concept can be broken down until you get it.
 
@@ -57,5 +57,5 @@ Naval and Nivi walking and talking about AI — informal, wide-ranging, surprisi
 - [The Bitter Lesson](../../../ideas/the-bitter-lesson.md) — AI as another layer in the abstraction stack, from transistors to English
 - [Self-Authorization](../../../ideas/self-authorization.md) — extreme agency requires perpetual self-authorization
 - [What Happens After Coding Is Solved](../after-coding-is-solved-boris-cherny/summary.md) — Boris Cherny covers the same territory from inside Anthropic; Naval's photography analogy complements Boris's printing press
-- [Aggregation Theory](../../bookmarks/aggregation-theory/summary.md) — Ben Thompson's framework for the winner-take-all dynamics Naval describes
+- [Aggregation Theory](../../essays/aggregation-theory/summary.md) — Ben Thompson's framework for the winner-take-all dynamics Naval describes
 - Will Manidis's [Against Taste](https://minutes.substack.com/p/against-taste) argues the "human as critic" framing is a demotion — the discriminator in a GAN exists to train the generator, then becomes obsolete. Naval's stronger point is humans as explorers, not humans as critics.
