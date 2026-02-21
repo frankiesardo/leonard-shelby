@@ -7,6 +7,7 @@ aliases:
 sources:
   - the-art-of-learning
   - the-inner-game-of-tennis
+  - practical-guide-finding-inner-peace-jack-kornfield
 domains:
   - personal-development
   - cognitive-science
@@ -26,6 +27,8 @@ related:
   - investment-in-loss
   - the-feedback-loop-from-hell
   - thinking-brain-vs-feeling-brain
+  - the-mindful-pause
+  - forgiveness-as-freedom
 ---
 
 # The Soft Zone
@@ -51,4 +54,5 @@ The progression is three stages: first, learn to flow with distraction (survive 
 - Complements [Stress and Recovery](stress-and-recovery.md) — the soft zone is what you return to during recovery
 - Covey's [Circle of Influence](circle-of-influence.md) is the same idea at a life level — don't waste energy on what you can't control; focus on your response
 - Gallwey's [Relaxed Concentration](relaxed-concentration.md) is the same state from a different angle -- what Waitzkin calls the Soft Zone, Gallwey calls "the art of relaxed concentration." Both describe absorbed, effortless focus that doesn't shatter under pressure.
-- Discussed in [The Art of Learning](../sources/books/the-art-of-learning/summary.md) and [The Inner Game of Tennis](../sources/books/the-inner-game-of-tennis/summary.md)
+- Kornfield's approach to emotions is the Soft Zone applied to inner life. His teacher didn't say "block out the anger" — he said wrap yourself in robes in a hot hut and *sit with it until you know it*. Feel the energy pulsing through your body, hear the stories it tells, find a way to be with it rather than run from it. The anger becomes material, not obstacle — the same progression from surviving distraction to using it as fuel. His ritual with gang kids (placing stones for dead friends) didn't suppress grief; it gave it a channel. The hoods came off because the pain was *integrated*, not ignored. See [The Mindful Pause](the-mindful-pause.md).
+- Discussed in [The Art of Learning](../sources/books/the-art-of-learning/summary.md), [The Inner Game of Tennis](../sources/books/the-inner-game-of-tennis/summary.md), and [A Practical Guide on Finding Inner Peace](../sources/transcripts/practical-guide-finding-inner-peace-jack-kornfield/summary.md)
