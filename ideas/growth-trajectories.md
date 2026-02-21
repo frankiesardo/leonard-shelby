@@ -15,6 +15,7 @@ related:
   - match-quality
   - seasons-of-life
   - incremental-theory-of-intelligence
+  - area-under-the-curve
 ---
 
 # Growth Trajectories

@@ -16,6 +16,7 @@ related:
   - adversarial-nullification
   - universal-explainers
   - the-bitter-lesson
+  - weird-wins
 ---
 
 # Creativity as Out-of-Distribution

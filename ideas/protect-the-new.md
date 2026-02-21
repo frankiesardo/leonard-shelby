@@ -18,6 +18,7 @@ related:
   - abundance-mentality
   - static-vs-dynamic-societies
   - rational-and-anti-rational-memes
+  - weird-wins
 ---
 
 # Protect the New

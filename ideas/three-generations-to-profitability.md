@@ -17,6 +17,7 @@ related:
   - heartbeats-and-handcuffs
   - the-whole-customer-journey
   - process-over-product
+  - area-under-the-curve
 ---
 
 # Three Generations to Profitability

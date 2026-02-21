@@ -16,6 +16,7 @@ related:
   - the-whole-customer-journey
   - protect-the-new
   - beginners-mind
+  - weird-wins
 ---
 
 # Latent Demand

@@ -14,6 +14,7 @@ related:
   - self-authorization
   - creativity-as-out-of-distribution
   - adversarial-nullification
+  - weird-wins
 ---
 
 # Extreme Agency

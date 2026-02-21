@@ -31,6 +31,7 @@ related:
   - failure-as-investment
   - protect-the-new
   - good-explanations-over-predictions
+  - weird-wins
 ---
 
 # Beginner's Mind
