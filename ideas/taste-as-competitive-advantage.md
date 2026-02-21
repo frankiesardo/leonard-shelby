@@ -19,6 +19,8 @@ related:
   - unity-of-form
   - clutter
   - products-not-profits
+  - patronage-as-co-creation
+  - the-discriminator-is-disposable
 ---
 
 # Taste as Competitive Advantage
@@ -41,4 +43,5 @@ The harder lesson is that taste cannot be hired. You can hire talented designers
 - The opposite of [Clutter](clutter.md) -- taste strips things to their essence
 - Echoes [Simplicity in Writing](simplicity-in-writing.md) -- "omit needless words" is taste applied to prose
 - Shares DNA with [Unity of Form](unity-of-form.md) -- taste demands coherence between form and function
+- Manidis's [Against Taste](../sources/essays/against-taste/summary.md) argues this is a demotion, not empowerment — that Jobs was actually a patron (in the room, fighting with engineers, specifying materials) rather than a selector. The taste that mattered was embedded in the making. See [Patronage as Co-Creation](patronage-as-co-creation.md) and [The Discriminator Is Disposable](the-discriminator-is-disposable.md).
 - Discussed in [Steve Jobs](../sources/books/steve-jobs/summary.md)
