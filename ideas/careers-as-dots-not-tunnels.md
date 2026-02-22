@@ -7,6 +7,7 @@ aliases:
   - connecting the dots forward
 sources:
   - how-to-pick-a-career
+  - steve-jobs-stanford-2005
 domains:
   - personal-development
 related:
@@ -18,6 +19,7 @@ related:
   - the-yearning-octopus
   - imposter-yearnings
   - life-as-a-series-of-moments
+  - stay-hungry-stay-foolish
 ---
 
 # Careers as Dots Not Tunnels
@@ -46,4 +48,6 @@ You're literally not qualified to plan dot #4 from where you stand now. By the t
 - [Investment in Loss](investment-in-loss.md) — jumping dots means temporarily losing accumulated status and skill, which feels like regression but is often growth
 - [Beginner's Mind](beginners-mind.md) — each new dot requires tolerating the discomfort of being a novice again
 - [The Yearning Octopus](the-yearning-octopus.md) will evolve between dots, which is precisely why long-term planning is delusional
-- Discussed in [How to Pick a Career](../sources/essays/how-to-pick-a-career/summary.md)
+- [Stay Hungry, Stay Foolish](stay-hungry-stay-foolish.md) — you can only follow curiosity dot-by-dot if you're willing to be foolish about where they lead
+- Jobs's Stanford commencement address is the original source for the "connecting the dots" metaphor: "You can't connect the dots looking forward; you can only connect them looking backwards."
+- Discussed in [How to Pick a Career](../sources/essays/how-to-pick-a-career/summary.md) and [Steve Jobs's 2005 Stanford Commencement Address](../sources/transcripts/steve-jobs-stanford-2005/summary.md)

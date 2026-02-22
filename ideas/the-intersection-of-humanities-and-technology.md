@@ -6,6 +6,7 @@ aliases:
   - technology alone is not enough
 sources:
   - steve-jobs
+  - steve-jobs-stanford-2005
 domains:
   - product
   - philosophy
@@ -37,4 +38,4 @@ This has implications far beyond technology. Any field where human beings are th
 - Related to [The Outsider Advantage](the-outsider-advantage.md) -- Jobs's liberal arts sensibility was an outsider perspective in the engineering-dominated tech world
 - Echoes [Deliberate Amateurs](deliberate-amateurs.md) -- the value of bringing cross-domain knowledge
 - Feeds [Analogical Thinking](analogical-thinking.md) -- humanities and technology as complementary sources of analogy
-- Discussed in [Steve Jobs](../sources/books/steve-jobs/summary.md)
+- Discussed in [Steve Jobs](../sources/books/steve-jobs/summary.md) and [Steve Jobs's 2005 Stanford Commencement Address](../sources/transcripts/steve-jobs-stanford-2005/summary.md)

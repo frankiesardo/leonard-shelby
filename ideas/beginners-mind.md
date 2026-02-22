@@ -9,6 +9,7 @@ sources:
   - range
   - creativity-inc
   - steve-jobs
+  - steve-jobs-stanford-2005
 domains:
   - personal-development
   - cognitive-science
@@ -32,6 +33,7 @@ related:
   - protect-the-new
   - good-explanations-over-predictions
   - weird-wins
+  - stay-hungry-stay-foolish
 ---
 
 # Beginner's Mind
@@ -66,4 +68,5 @@ The enemy is the protective ego. The person who needs to look good at all times 
 - [Mental Models for Uncertainty](mental-models-for-uncertainty.md) -- the directors' mental models are tools for staying in the beginner's space when the pressure mounts to retreat to the known
 - [Failure as Investment](failure-as-investment.md) -- beginner's mind requires accepting failure as the cost of entry
 - Jobs's Zen training and his "Stay Hungry, Stay Foolish" mantra were expressions of shoshin. His calligraphy class at Reed College -- taken purely out of curiosity after dropping out -- gave the Macintosh its beautiful typography a decade later. The dropout as the ultimate beginner.
-- Discussed in [The Art of Learning](../sources/books/the-art-of-learning/summary.md), [Challenges to Succeed](../sources/transcripts/jim-rohn-challenges-succeed-seminar-anaheim/summary.md), [Range](../sources/books/range/summary.md), [Creativity, Inc.](../sources/books/creativity-inc/summary.md), and [Steve Jobs](../sources/books/steve-jobs/summary.md)
+- [Stay Hungry, Stay Foolish](stay-hungry-stay-foolish.md) is beginner's mind expressed as a battle cry — "Stay Foolish" is *shoshin* compressed into two words
+- Discussed in [The Art of Learning](../sources/books/the-art-of-learning/summary.md), [Challenges to Succeed](../sources/transcripts/jim-rohn-challenges-succeed-seminar-anaheim/summary.md), [Range](../sources/books/range/summary.md), [Creativity, Inc.](../sources/books/creativity-inc/summary.md), [Steve Jobs](../sources/books/steve-jobs/summary.md), and [Steve Jobs's 2005 Stanford Commencement Address](../sources/transcripts/steve-jobs-stanford-2005/summary.md)
