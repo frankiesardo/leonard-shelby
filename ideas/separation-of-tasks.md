@@ -27,6 +27,8 @@ related:
   - it-is-not-mean-it-is-clear
   - candor-as-survival-mechanism
   - the-braintrust
+  - the-yearning-octopus
+  - imposter-yearnings
 ---
 
 # Separation of Tasks

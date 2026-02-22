@@ -29,6 +29,7 @@ related:
   - the-happiness-formula
   - failure-as-investment
   - the-luxury-trap
+  - the-yearning-octopus
 ---
 
 # Choose Your Struggle

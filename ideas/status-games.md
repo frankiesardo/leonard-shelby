@@ -23,6 +23,7 @@ related:
   - conspicuous-vs-inconspicuous-consumption
   - the-hedonic-treadmill
   - money-as-vaccine
+  - the-yearning-octopus
 ---
 
 # Status Games

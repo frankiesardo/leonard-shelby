@@ -18,6 +18,7 @@ related:
   - investment-in-loss
   - certainty-is-the-enemy-of-growth
   - deliberate-amateurs
+  - careers-as-dots-not-tunnels
 ---
 
 # The Sampling Period

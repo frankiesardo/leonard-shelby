@@ -18,6 +18,7 @@ related:
   - companies-as-technology
   - extreme-agency
   - differentiate-even-if-worse
+  - imposter-yearnings
 ---
 
 # Self-Authorization

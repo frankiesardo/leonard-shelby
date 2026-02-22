@@ -43,6 +43,8 @@ related:
   - the-rider-and-the-elephant
   - happiness-comes-from-between
   - the-happiness-formula
+  - the-yearning-octopus
+  - imposter-yearnings
 ---
 
 # Inside-Out

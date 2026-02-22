@@ -30,6 +30,8 @@ related:
   - the-hedonic-treadmill
   - conspicuous-vs-inconspicuous-consumption
   - the-ethic-of-divinity
+  - the-yearning-octopus
+  - imposter-yearnings
 ---
 
 # Good and Bad Values

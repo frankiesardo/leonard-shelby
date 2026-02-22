@@ -15,6 +15,7 @@ related:
   - creativity-as-out-of-distribution
   - adversarial-nullification
   - weird-wins
+  - imposter-yearnings
 ---
 
 # Extreme Agency
