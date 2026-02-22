@@ -7,8 +7,12 @@ permalink: /flashcards/
 <p>{{ collections.flashcards | length }} cards.</p>
 
 <div class="random-buttons">
-  <button onclick="goRandom('/api/flashcards.json')">Random flashcard</button>
+  <button onclick="goRandom(flashcardUrls)">Random flashcard</button>
 </div>
+<script>
+var flashcardUrls = [{% for card in collections.flashcards %}"{{ card.url | url }}"{% if not loop.last %},{% endif %}{% endfor %}];
+function goRandom(list) { if (list.length) window.location.href = list[Math.floor(Math.random() * list.length)]; }
+</script>
 
 <ul class="flashcard-list">
   {% for card in collections.flashcards | sort(attribute="fileSlug") %}

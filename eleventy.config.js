@@ -1,9 +1,11 @@
 import path from "node:path";
+import { EleventyHtmlBasePlugin } from "@11ty/eleventy";
+
+const PATH_PREFIX = "/leonard-shelby";
 
 export default function (eleventyConfig) {
   // --- Passthrough copy ---
   eleventyConfig.addPassthroughCopy("site/css");
-  eleventyConfig.addPassthroughCopy("site/js");
 
   // --- Ignore non-content files ---
   eleventyConfig.ignores.add("README.md");
@@ -125,13 +127,17 @@ export default function (eleventyConfig) {
         // Strip .md extension → trailing slash
         urlPath = urlPath.replace(/\.md$/, "/");
 
-        return `href="${urlPath}${anchor || ""}"`;
+        return `href="${PATH_PREFIX}${urlPath}${anchor || ""}"`;
       }
     );
   });
 
+  // --- HTML base plugin (rewrites href/src for GitHub Pages path prefix) ---
+  eleventyConfig.addPlugin(EleventyHtmlBasePlugin);
+
   // --- Config ---
   return {
+    pathPrefix: "/leonard-shelby/",
     dir: {
       input: ".",
       includes: "site/_includes",

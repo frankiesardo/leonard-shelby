@@ -1,5 +1,0 @@
----
-permalink: /api/ideas.json
-eleventyExcludeFromCollections: true
----
-[{% for idea in collections.ideas %}{"url":"{{ idea.url }}","title":"{{ idea.data.title | replace('"', '\\"') or idea.fileSlug }}"}{% if not loop.last %},{% endif %}{% endfor %}]
