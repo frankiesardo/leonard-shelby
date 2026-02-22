@@ -5,6 +5,7 @@ aliases:
   - giving yourself permission
 sources:
   - several-short-sentences-about-writing
+  - tobi-lutke-21-years-building-shopify
 domains:
   - creativity
   - identity
@@ -14,6 +15,9 @@ related:
   - write-for-yourself
   - trust-the-reader
   - reality-distortion-field
+  - companies-as-technology
+  - extreme-agency
+  - differentiate-even-if-worse
 ---
 
 # Self-Authorization
@@ -36,4 +40,7 @@ The first person who needs to be persuaded of your authority is you. Don't make 
 
 - Related to [Noticing as Discipline](noticing-as-discipline.md) — you can't notice what you don't feel authorized to notice
 - Zinsser's [Write for Yourself](write-for-yourself.md) is the practical application: write what interests you, in your own voice
-- Discussed in [Several Short Sentences About Writing](../sources/books/several-short-sentences-about-writing/summary.md)
+- [Companies as Technology](companies-as-technology.md) -- Tobi Lütke spent 15 years "cosplaying a serious CEO" before authorizing himself to lead as an engineer. The moment he stopped performing someone else's script and started engineering the company from his own axioms, everything changed. Self-authorization applied to company building.
+- [Extreme Agency](extreme-agency.md) -- self-authorization is the inner move that makes extreme agency possible
+- [Differentiate Even If Worse](differentiate-even-if-worse.md) -- choosing differentiation over copying requires authorizing yourself to be temporarily worse
+- Discussed in [Several Short Sentences About Writing](../sources/books/several-short-sentences-about-writing/summary.md) and [Tobi Lütke: 21 Years of Building Shopify](../sources/transcripts/tobi-lutke-21-years-building-shopify/summary.md)

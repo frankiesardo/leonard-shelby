@@ -7,6 +7,7 @@ aliases:
 sources:
   - the-inner-game-of-tennis
   - the-last-lecture-randy-pausch
+  - tobi-lutke-21-years-building-shopify
 domains:
   - personal-development
   - philosophy
@@ -16,6 +17,8 @@ related:
   - investment-in-loss
   - choose-your-struggle
   - good-and-bad-values
+  - rivalry-over-competition
+  - the-corporate-raider-exercise
 ---
 
 # The Art of Competing
@@ -48,4 +51,6 @@ Gallwey discovered this during a tournament where he lost 6-4, 6-4 but walked of
 - Manson's [Choose Your Struggle](choose-your-struggle.md) is the life-scale version -- pick the struggle that reveals who you want to become
 - [Good and Bad Values](good-and-bad-values.md) -- competing to prove yourself is an external, uncontrollable value; competing to grow is internal and within your control
 - Pausch's "brick walls are there for a reason" is competition-as-cooperation applied to life obstacles. The wall is not your enemy — it's a filter that stops the people who don't want it badly enough. The obstacle is the gift, the same way the big wave is the surfer's gift.
-- Discussed in [The Inner Game of Tennis](../sources/books/the-inner-game-of-tennis/summary.md) and [The Last Lecture](../sources/transcripts/the-last-lecture-randy-pausch/summary.md)
+- [Rivalry over Competition](rivalry-over-competition.md) is the organizational application: how companies can channel competitive energy into self-improvement rather than mimicry. Tobi Lütke's distinction between rivals (who inspire your best) and competitors (who you copy) maps directly onto Gallwey's insight
+- [The Corporate Raider Exercise](the-corporate-raider-exercise.md) -- competing against your past self as a company, not just as an individual
+- Discussed in [The Inner Game of Tennis](../sources/books/the-inner-game-of-tennis/summary.md), [The Last Lecture](../sources/transcripts/the-last-lecture-randy-pausch/summary.md), and [Tobi Lütke: 21 Years of Building Shopify](../sources/transcripts/tobi-lutke-21-years-building-shopify/summary.md)

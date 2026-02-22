@@ -6,6 +6,7 @@ aliases:
   - knowing what to leave out
 sources:
   - steve-jobs
+  - tobi-lutke-21-years-building-shopify
 domains:
   - product
   - management
@@ -21,6 +22,8 @@ related:
   - products-not-profits
   - patronage-as-co-creation
   - the-discriminator-is-disposable
+  - differentiate-even-if-worse
+  - companies-as-technology
 ---
 
 # Taste as Competitive Advantage
@@ -44,4 +47,5 @@ The harder lesson is that taste cannot be hired. You can hire talented designers
 - Echoes [Simplicity in Writing](simplicity-in-writing.md) -- "omit needless words" is taste applied to prose
 - Shares DNA with [Unity of Form](unity-of-form.md) -- taste demands coherence between form and function
 - Manidis's [Against Taste](../sources/essays/against-taste/summary.md) argues this is a demotion, not empowerment — that Jobs was actually a patron (in the room, fighting with engineers, specifying materials) rather than a selector. The taste that mattered was embedded in the making. See [Patronage as Co-Creation](patronage-as-co-creation.md) and [The Discriminator Is Disposable](the-discriminator-is-disposable.md).
-- Discussed in [Steve Jobs](../sources/books/steve-jobs/summary.md)
+- Tobi Lütke extends taste from product design to company design. Norman doors in the office are a taste violation. Meeting room placement, pod sizing, ambient noise levels -- "the way you do anything is how you do everything." If the environment surrounding people has broken taste, the products they build will too. "A product is just details." The SpaceX Raptor evolution -- progress by subtraction -- is taste expressed through engineering iteration. See [Differentiate Even If Worse](differentiate-even-if-worse.md) and [Companies as Technology](companies-as-technology.md).
+- Discussed in [Steve Jobs](../sources/books/steve-jobs/summary.md) and [Tobi Lütke: 21 Years of Building Shopify](../sources/transcripts/tobi-lutke-21-years-building-shopify/summary.md)
