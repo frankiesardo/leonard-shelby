@@ -18,6 +18,7 @@ related:
   - mission-driven-assholes
   - reality-distortion-field
   - crossing-tribal-boundaries
+  - delete-before-optimizing
 ---
 
 # Boldness over Hedging
@@ -42,4 +43,5 @@ This doesn't mean being reckless or dishonest. If you genuinely don't know, say 
 - The courage to be bold comes from [Writing for Yourself](write-for-yourself.md) -- internal standards, not audience-pleasing
 - Boldness is an expression of [Style Is Organic](style-is-organic.md) -- being yourself rather than performing
 - Boldness works best after [Crossing Tribal Boundaries](crossing-tribal-boundaries.md) — earn the right to be heard, then commit to your point
+- [Delete Before Optimizing](delete-before-optimizing.md) — "just in case" part additions are hedging in engineering form; Musk's algorithm is a forced commitment to boldness at the process level
 - Discussed in [On Writing Well](../sources/books/on-writing-well/summary.md)

@@ -26,6 +26,7 @@ related:
   - candor-as-survival-mechanism
   - metaphorical-highlighting-and-hiding
   - static-vs-dynamic-societies
+  - delete-before-optimizing
 ---
 
 # Cognitive Entrenchment
@@ -56,4 +57,5 @@ Dane's suggestions for avoiding it are the polar opposite of narrow specializati
 - [Candor as Survival Mechanism](candor-as-survival-mechanism.md) -- one antidote to organizational entrenchment: external perspectives that bypass internal blind spots
 - Lakoff and Johnson's [Metaphorical Highlighting and Hiding](metaphorical-highlighting-and-hiding.md) is the conceptual version of entrenchment: the dominant metaphor for a domain highlights certain features so strongly that the hidden features become invisible. An expert's entrenched mental model is, in Lakoff's terms, a metaphor so deeply internalized that it no longer feels like a metaphor at all.
 - Deutsch's [Static vs. Dynamic Societies](static-vs-dynamic-societies.md) is entrenchment at the civilizational level: static societies are *defined* by the systematic suppression of the creativity that could break entrenched patterns. The Easter Islanders' compulsive statue-building -- repeating the same thing ever more intensely rather than solving the actual problem -- is cognitive entrenchment made collective.
+- [Delete Before Optimizing](delete-before-optimizing.md) is the corrective: a forced sequencing that makes step 2 (deletion) structurally impossible to skip, counteracting the entrenched reflex to jump straight to optimization
 - Discussed in [Range](../sources/books/range/summary.md), [Creativity, Inc.](../sources/books/creativity-inc/summary.md), and [Metaphors We Live By](../sources/books/metaphors-we-live-by/summary.md)

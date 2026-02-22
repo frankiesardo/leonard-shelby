@@ -20,6 +20,7 @@ related:
   - history-repeats-in-outline
   - heartbeats-and-handcuffs
   - the-hungry-beast-and-the-ugly-baby
+  - delete-before-optimizing
 ---
 
 # The Five Focusing Steps
@@ -51,4 +52,5 @@ In Rogo's plant, the team cycled through the five steps multiple times. First th
 - Steps 2-3 are measured by [Throughput Accounting](throughput-accounting.md)
 - Step 3 is implemented via [Drum-Buffer-Rope](drum-buffer-rope.md)
 - Steps 2-3 require understanding [Non-Bottleneck Utilization](non-bottleneck-utilization.md)
+- [Delete Before Optimizing](delete-before-optimizing.md) is a parallel framework from Musk — same sequencing logic, applied at the process/requirements level rather than the system constraint level
 - Discussed in [The Goal](../sources/books/the-goal/summary.md)

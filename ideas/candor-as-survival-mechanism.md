@@ -21,6 +21,7 @@ related:
   - failure-as-investment
   - the-hungry-beast-and-the-ugly-baby
   - protect-the-new
+  - requirements-need-owners
 ---
 
 # Candor as Survival Mechanism
@@ -44,4 +45,5 @@ Catmull's insight is that this isn't a people problem -- it's a systems problem.
 - Covey's [Emotional Bank Account](emotional-bank-account.md) explains why candor requires a foundation of trust
 - [Empathic Listening](empathic-listening.md) is the receptive half -- candor only works if the listener genuinely seeks to understand, not just to respond
 - The [Socratic Method in Management](socratic-method-in-management.md) is another mechanism for surfacing truth through questions rather than assertions
+- [Requirements Need Owners](requirements-need-owners.md) is candor at the requirements level: attaching a name to a constraint makes it possible to challenge and update it
 - Discussed in [Creativity, Inc.](../sources/books/creativity-inc/summary.md)

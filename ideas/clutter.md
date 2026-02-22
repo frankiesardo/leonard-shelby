@@ -17,6 +17,7 @@ related:
   - trust-your-material
   - taste-as-competitive-advantage
   - focus-is-saying-no
+  - delete-before-optimizing
 ---
 
 # Clutter
@@ -37,4 +38,5 @@ Writing improves in direct ratio to the number of things we can keep out of it t
 
 - The positive principle behind fighting clutter is [Simplicity in Writing](simplicity-in-writing.md)
 - Qualifiers are a specific species of clutter — see [Boldness over Hedging](boldness-over-hedging.md)
+- [Delete Before Optimizing](delete-before-optimizing.md) is the engineering equivalent: any part or step that doesn't earn its place is actively working against you
 - Discussed in [On Writing Well](../sources/books/on-writing-well/summary.md)
