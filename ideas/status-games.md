@@ -8,6 +8,7 @@ aliases:
 sources:
   - the-science-of-storytelling
   - the-happiness-hypothesis
+  - morgan-housel-build-wealth-buy-freedom-stay-rich
 domains:
   - cognitive-science
   - writing
@@ -21,6 +22,7 @@ related:
   - emotional-bank-account
   - conspicuous-vs-inconspicuous-consumption
   - the-hedonic-treadmill
+  - money-as-vaccine
 ---
 
 # Status Games

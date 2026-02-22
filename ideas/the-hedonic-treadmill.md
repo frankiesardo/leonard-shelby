@@ -7,6 +7,7 @@ aliases:
   - affective forecasting
 sources:
   - the-happiness-hypothesis
+  - morgan-housel-build-wealth-buy-freedom-stay-rich
 domains:
   - cognitive-science
   - philosophy
@@ -20,6 +21,8 @@ related:
   - status-games
   - happiness-comes-from-between
   - the-rider-and-the-elephant
+  - money-as-vaccine
+  - saving-as-buying-independence
 ---
 
 # The Hedonic Treadmill
