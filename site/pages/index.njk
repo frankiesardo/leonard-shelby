@@ -1,0 +1,32 @@
+---
+layout: base.njk
+title: Digital Garden
+permalink: /
+---
+<h1>Digital Garden</h1>
+
+<div id="search"></div>
+<script>
+  window.addEventListener('DOMContentLoaded', () => {
+    if (window.PagefindUI) {
+      new PagefindUI({ element: "#search", showSubResults: true });
+    }
+  });
+</script>
+
+<div class="random-buttons">
+  <button onclick="goRandom('/api/ideas.json')">Random idea</button>
+  <button onclick="goRandom('/api/flashcards.json')">Random flashcard</button>
+</div>
+
+<section class="garden-overview">
+  <h2>Sections</h2>
+  <ul>
+    <li><a href="/ideas/">Ideas</a> — {{ collections.ideas | length }} atomic concepts</li>
+    <li><a href="/sources/">Sources</a> — books, essays, transcripts, bookmarks</li>
+    <li><a href="/flashcards/">Flashcards</a> — {{ collections.flashcards | length }} cards</li>
+    <li><a href="/conversations/">Conversations</a> — {{ collections.conversations | length }} dialogues</li>
+    <li><a href="/notes/">Notes</a> — {{ collections.notes | length }} entries</li>
+    <li><a href="/maps/">Maps</a> — {{ collections.maps | length }} maps of content</li>
+  </ul>
+</section>

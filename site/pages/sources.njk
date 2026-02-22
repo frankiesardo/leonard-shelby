@@ -1,0 +1,54 @@
+---
+layout: base.njk
+title: Sources
+permalink: /sources/
+---
+<h1>Sources</h1>
+
+<h2>Books</h2>
+<ul class="source-list">
+  {% for s in collections.sourceSummaries | sort(attribute="data.title") %}
+  {% if s.data.type == "book" %}
+  <li>
+    <a href="{{ s.url }}">{{ s.data.title }}</a>
+    {% if s.data.author %}<span class="author">— {{ s.data.author }}</span>{% endif %}
+  </li>
+  {% endif %}
+  {% endfor %}
+</ul>
+
+<h2>Essays</h2>
+<ul class="source-list">
+  {% for s in collections.sourceSummaries | sort(attribute="data.title") %}
+  {% if s.data.type == "essay" %}
+  <li>
+    <a href="{{ s.url }}">{{ s.data.title }}</a>
+    {% if s.data.author %}<span class="author">— {{ s.data.author }}</span>{% endif %}
+  </li>
+  {% endif %}
+  {% endfor %}
+</ul>
+
+<h2>Transcripts</h2>
+<ul class="source-list">
+  {% for s in collections.sourceSummaries | sort(attribute="data.title") %}
+  {% if s.data.type == "transcript" %}
+  <li>
+    <a href="{{ s.url }}">{{ s.data.title }}</a>
+    {% if s.data.author %}<span class="author">— {{ s.data.author }}</span>{% endif %}
+  </li>
+  {% endif %}
+  {% endfor %}
+</ul>
+
+<h2>Bookmarks</h2>
+<ul class="source-list">
+  {% for s in collections.sourceSummaries | sort(attribute="data.title") %}
+  {% if s.data.type == "bookmark" %}
+  <li>
+    <a href="{{ s.url }}">{{ s.data.title }}</a>
+    {% if s.data.author %}<span class="author">— {{ s.data.author }}</span>{% endif %}
+  </li>
+  {% endif %}
+  {% endfor %}
+</ul>

@@ -1,0 +1,16 @@
+---
+layout: base.njk
+title: Ideas
+permalink: /ideas/
+---
+<h1>Ideas</h1>
+<p>{{ collections.ideas | length }} concept handles, alphabetical.</p>
+
+<ul class="idea-list">
+  {% for idea in collections.ideas %}
+  <li>
+    <a href="{{ idea.url }}">{{ idea.data.title or idea.fileSlug }}</a>
+    {% if idea.data.domains %}<span class="domains-inline">{% for d in idea.data.domains %}<span class="domain">{{ d }}</span>{% if not loop.last %} {% endif %}{% endfor %}</span>{% endif %}
+  </li>
+  {% endfor %}
+</ul>

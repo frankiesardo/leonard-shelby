@@ -1,0 +1,9 @@
+---
+layout: base.njk
+---
+<article class="source source-text" data-pagefind-ignore>
+  <h1>{{ title or page.fileSlug }}</h1>
+  <div class="content">
+    {{ content | safe }}
+  </div>
+</article>

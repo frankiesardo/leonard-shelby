@@ -1,0 +1,16 @@
+---
+layout: base.njk
+title: Conversations
+permalink: /conversations/
+---
+<h1>Conversations</h1>
+<p>{{ collections.conversations | length }} Socratic dialogues.</p>
+
+<ul class="conversation-list">
+  {% for c in collections.conversations %}
+  <li>
+    <a href="{{ c.url }}">{{ c.data.title or c.fileSlug }}</a>
+    {% if c.data.date %}<time>{{ c.data.date }}</time>{% endif %}
+  </li>
+  {% endfor %}
+</ul>

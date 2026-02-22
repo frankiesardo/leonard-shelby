@@ -1,0 +1,16 @@
+---
+layout: base.njk
+---
+<article class="map">
+  <h1>{{ title }}</h1>
+
+  {% if description %}<p class="map-description">{{ description }}</p>{% endif %}
+
+  {% if domains %}
+  <p class="domains">{% for d in domains %}<span class="domain">{{ d }}</span>{% if not loop.last %} {% endif %}{% endfor %}</p>
+  {% endif %}
+
+  <div class="content">
+    {{ content | safe }}
+  </div>
+</article>

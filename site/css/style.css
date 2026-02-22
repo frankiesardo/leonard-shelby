@@ -1,0 +1,162 @@
+/* --- Reset & base --- */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --font: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  --font-mono: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
+  --max-width: 46rem;
+  --bg: #fafaf8;
+  --fg: #1a1a1a;
+  --muted: #666;
+  --border: #e0e0dc;
+  --accent: #2563eb;
+  --accent-hover: #1d4ed8;
+  --surface: #fff;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #1a1a1e;
+    --fg: #e8e8e4;
+    --muted: #999;
+    --border: #333;
+    --accent: #60a5fa;
+    --accent-hover: #93bbfd;
+    --surface: #222226;
+  }
+}
+
+html { font-size: 16px; }
+body {
+  font-family: var(--font);
+  color: var(--fg);
+  background: var(--bg);
+  line-height: 1.6;
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 1rem 1.5rem;
+}
+
+/* --- Typography --- */
+h1 { font-size: 1.5rem; margin: 1.5rem 0 0.75rem; }
+h2 { font-size: 1.25rem; margin: 1.5rem 0 0.5rem; }
+h3 { font-size: 1.1rem; margin: 1.25rem 0 0.5rem; }
+p { margin: 0.5rem 0; }
+a { color: var(--accent); text-decoration: none; }
+a:hover { color: var(--accent-hover); text-decoration: underline; }
+code { font-family: var(--font-mono); font-size: 0.9em; background: var(--surface); padding: 0.1em 0.3em; border-radius: 3px; }
+pre { background: var(--surface); padding: 1rem; border-radius: 4px; overflow-x: auto; margin: 1rem 0; }
+pre code { background: none; padding: 0; }
+blockquote { border-left: 3px solid var(--border); padding-left: 1rem; color: var(--muted); margin: 1rem 0; }
+hr { border: none; border-top: 1px solid var(--border); margin: 1.5rem 0; }
+table { width: 100%; border-collapse: collapse; margin: 1rem 0; font-size: 0.9rem; }
+th, td { border: 1px solid var(--border); padding: 0.4rem 0.6rem; text-align: left; }
+th { background: var(--surface); font-weight: 600; }
+ul, ol { padding-left: 1.5rem; margin: 0.5rem 0; }
+li { margin: 0.2rem 0; }
+img { max-width: 100%; height: auto; }
+strong { font-weight: 600; }
+
+/* --- Nav --- */
+nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  padding: 0.75rem 0;
+  border-bottom: 1px solid var(--border);
+  margin-bottom: 1rem;
+  font-size: 0.9rem;
+}
+nav a[aria-current="page"] { font-weight: 600; }
+
+/* --- Footer --- */
+footer {
+  margin-top: 3rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--border);
+  color: var(--muted);
+  font-size: 0.85rem;
+}
+
+/* --- Domains --- */
+.domains { margin: 0.5rem 0; }
+.domain {
+  display: inline-block;
+  font-size: 0.75rem;
+  padding: 0.15rem 0.5rem;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 3px;
+  color: var(--muted);
+}
+.domains-inline { margin-left: 0.5rem; }
+
+/* --- Source meta --- */
+dl.source-meta {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 0.25rem 1rem;
+  margin: 0.75rem 0;
+  font-size: 0.9rem;
+}
+dl.source-meta dt { font-weight: 600; color: var(--muted); }
+dl.source-meta dd { margin: 0; }
+
+/* --- Aside / meta sections --- */
+aside.meta {
+  margin-top: 2rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--border);
+}
+aside.meta h2 { font-size: 1rem; color: var(--muted); margin-bottom: 0.5rem; }
+aside.meta ul { list-style: none; padding: 0; }
+aside.meta li { margin: 0.2rem 0; }
+
+/* --- Aliases --- */
+.aliases { font-size: 0.9rem; color: var(--muted); font-style: italic; margin: 0.25rem 0 0.75rem; }
+
+/* --- Flashcard --- */
+.flashcard-source, .flashcard-idea { font-size: 0.9rem; color: var(--muted); }
+.flashcard-idea-tag { font-size: 0.8rem; color: var(--muted); margin-left: 0.5rem; }
+
+/* --- Author --- */
+.author { color: var(--muted); font-size: 0.9rem; }
+
+/* --- Conversations --- */
+.conversation-list time { font-size: 0.85rem; color: var(--muted); margin-left: 0.5rem; }
+
+/* --- Map description --- */
+.map-description { color: var(--muted); font-style: italic; margin-bottom: 1rem; }
+
+/* --- Search --- */
+#search { margin: 1rem 0; }
+
+/* --- Random buttons --- */
+.random-buttons { margin: 1rem 0; display: flex; gap: 0.5rem; }
+.random-buttons button {
+  padding: 0.4rem 0.8rem;
+  font-size: 0.9rem;
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  background: var(--surface);
+  color: var(--fg);
+  cursor: pointer;
+}
+.random-buttons button:hover { border-color: var(--accent); color: var(--accent); }
+
+/* --- Garden overview --- */
+.garden-overview ul { list-style: none; padding: 0; }
+.garden-overview li { margin: 0.4rem 0; }
+
+/* --- Lists --- */
+.idea-list, .source-list, .flashcard-list, .conversation-list, .note-list, .map-list {
+  list-style: none;
+  padding: 0;
+}
+.idea-list li, .source-list li, .flashcard-list li, .conversation-list li, .note-list li, .map-list li {
+  margin: 0.3rem 0;
+  padding: 0.2rem 0;
+}
+
+/* --- Pagefind overrides --- */
+.pagefind-ui { --pagefind-ui-primary: var(--accent); --pagefind-ui-text: var(--fg); --pagefind-ui-background: var(--surface); --pagefind-ui-border: var(--border); --pagefind-ui-border-width: 1px; --pagefind-ui-border-radius: 4px; --pagefind-ui-font: var(--font); }

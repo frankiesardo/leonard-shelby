@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ title or "Digital Garden" }}</title>
+  <link rel="stylesheet" href="/site/css/style.css">
+  <link rel="stylesheet" href="/pagefind/pagefind-ui.css">
+</head>
+<body>
+  <header>
+    {% include "nav.njk" %}
+  </header>
+  <main>
+    {{ content | safe }}
+  </main>
+  <footer>
+    <p>A digital garden.</p>
+  </footer>
+  <script src="/pagefind/pagefind-ui.js" type="text/javascript"></script>
+  <script src="/site/js/random.js"></script>
+</body>
+</html>

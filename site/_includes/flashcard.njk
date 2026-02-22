@@ -1,0 +1,11 @@
+---
+layout: base.njk
+---
+<article class="flashcard">
+  {% if source %}<p class="flashcard-source">Source: <a href="/sources/books/{{ source }}/">{{ source }}</a></p>{% endif %}
+  {% if idea %}<p class="flashcard-idea">Idea: <a href="/ideas/{{ idea }}/">{{ idea }}</a></p>{% endif %}
+
+  <div class="content">
+    {{ content | safe }}
+  </div>
+</article>

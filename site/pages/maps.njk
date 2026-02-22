@@ -1,0 +1,15 @@
+---
+layout: base.njk
+title: Maps of Content
+permalink: /maps/
+---
+<h1>Maps of Content</h1>
+
+<ul class="map-list">
+  {% for m in collections.maps %}
+  <li>
+    <a href="{{ m.url }}">{{ m.data.title or m.fileSlug }}</a>
+    {% if m.data.description %}<p>{{ m.data.description }}</p>{% endif %}
+  </li>
+  {% endfor %}
+</ul>

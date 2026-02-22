@@ -1,0 +1,31 @@
+---
+layout: base.njk
+---
+<article class="source source-summary">
+  <h1>{{ title }}</h1>
+
+  <dl class="source-meta">
+    {% if author %}<dt>Author</dt><dd>{{ author }}</dd>{% endif %}
+    {% if type %}<dt>Type</dt><dd>{{ type }}</dd>{% endif %}
+    {% if status %}<dt>Status</dt><dd>{{ status }}</dd>{% endif %}
+    {% if date_consumed %}<dt>Consumed</dt><dd>{{ date_consumed }}</dd>{% endif %}
+    {% if url %}<dt>URL</dt><dd><a href="{{ url }}">{{ url }}</a></dd>{% endif %}
+  </dl>
+
+  {% if domains %}
+  <p class="domains">{% for d in domains %}<span class="domain">{{ d }}</span>{% if not loop.last %} {% endif %}{% endfor %}</p>
+  {% endif %}
+
+  <div class="content">
+    {{ content | safe }}
+  </div>
+
+  {% if ideas %}
+  <aside class="meta">
+    <h2>Ideas</h2>
+    <ul>
+      {% for i in ideas %}<li><a href="/ideas/{{ i }}/">{{ i }}</a></li>{% endfor %}
+    </ul>
+  </aside>
+  {% endif %}
+</article>

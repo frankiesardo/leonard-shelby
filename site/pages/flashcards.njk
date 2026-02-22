@@ -1,0 +1,20 @@
+---
+layout: base.njk
+title: Flashcards
+permalink: /flashcards/
+---
+<h1>Flashcards</h1>
+<p>{{ collections.flashcards | length }} cards.</p>
+
+<div class="random-buttons">
+  <button onclick="goRandom('/api/flashcards.json')">Random flashcard</button>
+</div>
+
+<ul class="flashcard-list">
+  {% for card in collections.flashcards | sort(attribute="fileSlug") %}
+  <li>
+    <a href="{{ card.url }}">{{ card.fileSlug }}</a>
+    {% if card.data.idea %}<span class="flashcard-idea-tag">{{ card.data.idea }}</span>{% endif %}
+  </li>
+  {% endfor %}
+</ul>

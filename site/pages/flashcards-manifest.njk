@@ -1,0 +1,5 @@
+---
+permalink: /api/flashcards.json
+eleventyExcludeFromCollections: true
+---
+[{% for card in collections.flashcards %}{"url":"{{ card.url }}","slug":"{{ card.fileSlug }}"}{% if not loop.last %},{% endif %}{% endfor %}]

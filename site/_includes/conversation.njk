@@ -1,0 +1,34 @@
+---
+layout: base.njk
+---
+<article class="conversation">
+  <h1>{{ title }}</h1>
+
+  {% if date %}<time>{{ date }}</time>{% endif %}
+
+  {% if domains %}
+  <p class="domains">{% for d in domains %}<span class="domain">{{ d }}</span>{% if not loop.last %} {% endif %}{% endfor %}</p>
+  {% endif %}
+
+  <div class="content">
+    {{ content | safe }}
+  </div>
+
+  {% if sources %}
+  <aside class="meta">
+    <h2>Sources</h2>
+    <ul>
+      {% for s in sources %}<li><a href="/sources/books/{{ s }}/">{{ s }}</a></li>{% endfor %}
+    </ul>
+  </aside>
+  {% endif %}
+
+  {% if ideas %}
+  <aside class="meta">
+    <h2>Ideas</h2>
+    <ul>
+      {% for i in ideas %}<li><a href="/ideas/{{ i }}/">{{ i }}</a></li>{% endfor %}
+    </ul>
+  </aside>
+  {% endif %}
+</article>

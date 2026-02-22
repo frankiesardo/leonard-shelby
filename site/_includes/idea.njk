@@ -1,0 +1,36 @@
+---
+layout: base.njk
+---
+<article class="idea">
+  <h1>{{ title }}</h1>
+
+  {% if aliases %}
+  <p class="aliases">Also: {{ aliases | join(", ") }}</p>
+  {% endif %}
+
+  {% if domains %}
+  <p class="domains">{% for d in domains %}<span class="domain">{{ d }}</span>{% if not loop.last %} {% endif %}{% endfor %}</p>
+  {% endif %}
+
+  <div class="content">
+    {{ content | safe }}
+  </div>
+
+  {% if sources %}
+  <aside class="meta">
+    <h2>Sources</h2>
+    <ul>
+      {% for s in sources %}<li><a href="/sources/books/{{ s }}/">{{ s }}</a></li>{% endfor %}
+    </ul>
+  </aside>
+  {% endif %}
+
+  {% if related %}
+  <aside class="meta">
+    <h2>Related ideas</h2>
+    <ul>
+      {% for r in related %}<li><a href="/ideas/{{ r }}/">{{ r }}</a></li>{% endfor %}
+    </ul>
+  </aside>
+  {% endif %}
+</article>

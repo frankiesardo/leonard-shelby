@@ -1,0 +1,16 @@
+---
+layout: base.njk
+title: Notes
+permalink: /notes/
+---
+<h1>Notes</h1>
+<p>{{ collections.notes | length }} entries.</p>
+
+<ul class="note-list">
+  {% for n in collections.notes %}
+  <li>
+    <a href="{{ n.url }}">{{ n.data.title or n.fileSlug }}</a>
+    {% if n.data.date %}<time>{{ n.data.date }}</time>{% endif %}
+  </li>
+  {% endfor %}
+</ul>

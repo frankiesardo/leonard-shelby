@@ -3,7 +3,10 @@
   "type": "module",
   "scripts": {
     "save-url": "npx tsx scripts/save-url.ts",
-    "parse-epub": "npx tsx scripts/parse-epub.ts"
+    "parse-epub": "npx tsx scripts/parse-epub.ts",
+    "build": "npx @11ty/eleventy",
+    "serve": "npx @11ty/eleventy --serve",
+    "build:full": "npx @11ty/eleventy && npx pagefind --site _site"
   },
   "dependencies": {
     "@mozilla/readability": "^0.5.0",
@@ -13,6 +16,8 @@
     "turndown": "^7.2.0"
   },
   "devDependencies": {
+    "@11ty/eleventy": "^3.1.2",
+    "pagefind": "^1.4.0",
     "tsx": "^4.19.0",
     "typescript": "^5.7.0"
   }
