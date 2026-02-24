@@ -39,5 +39,6 @@ This is why Boris recommends shipping early and rough. You can't discover latent
 - Related to [Lateral Thinking with Withered Technology](lateral-thinking-with-withered-technology.md) — Yokoi found novel applications for commodity tech; latent demand finds novel applications that users discovered for you
 - Informed by [The Bitter Lesson](the-bitter-lesson.md) — if you stop boxing the model in, you discover its latent capabilities, which reveals latent user demand
 - Connects to [Protect the New](protect-the-new.md) — latent demand often surfaces as something that looks wrong ("people are abusing groups!") and requires the organizational willingness to see signal rather than violation
+- [Weird Wins](weird-wins.md) — users misusing general-purpose chatbots for companionship and emotional support is a latent demand signal for the companion products Anish Acharya describes
 - [Beginner's Mind](beginners-mind.md) — you can only see latent demand if you're open to uses you didn't intend
 - Discussed in [What Happens After Coding Is Solved](../sources/transcripts/after-coding-is-solved-boris-cherny/summary.md)
