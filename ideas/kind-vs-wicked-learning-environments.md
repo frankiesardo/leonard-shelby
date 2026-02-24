@@ -7,6 +7,7 @@ aliases:
   - Hogarth's kind and wicked domains
 sources:
   - range
+  - thinking-in-bets
 domains:
   - cognitive-science
   - systems-thinking
@@ -24,6 +25,8 @@ related:
   - dropping-your-familiar-tools
   - lateral-thinking-with-withered-technology
   - match-quality
+  - resulting
+  - tilt
 ---
 
 # Kind vs. Wicked Learning Environments
@@ -50,4 +53,5 @@ The practical implication: when the environment is kind, specialize early and pr
 - [The Outsider Advantage](the-outsider-advantage.md) exists precisely because insiders are optimized for a kind-world version of their problem
 - [Desirable Difficulties](desirable-difficulties.md) deliberately make learning more wicked to build durable, transferable knowledge
 - Contrasts sharply with [Making Smaller Circles](making-smaller-circles.md) -- Waitzkin's method works because chess is a kind domain; the method itself is less useful in wicked ones
-- Discussed in [Range](../sources/books/range/summary.md)
+- [Resulting](resulting.md) is especially destructive in wicked environments, where the noise in outcomes makes it easy to draw the wrong lessons from results
+- Discussed in [Range](../sources/books/range/summary.md) and [Thinking in Bets](../sources/books/thinking-in-bets/summary.md) — Duke's chess-vs-poker distinction is essentially the kind/wicked split

@@ -15,6 +15,8 @@ related:
   - stress-and-recovery
   - the-feedback-loop-from-hell
   - the-luxury-trap
+  - tilt
+  - resulting
 ---
 
 # The Downward Spiral
@@ -39,4 +41,5 @@ Practical interventions can be absurdly simple: a few deep breaths, cold water o
 - [Incremental Theory of Intelligence](incremental-theory-of-intelligence.md) determines whether a mistake is interpreted as data or as identity threat
 - [Stress and Recovery](stress-and-recovery.md) — micro-recoveries between moments of intensity prevent the spiral
 - [The Feedback Loop from Hell](the-feedback-loop-from-hell.md) is the emotional variant — meta-emotions compounding suffering the way meta-errors compound in performance
-- Discussed in [The Art of Learning](../sources/books/the-art-of-learning/summary.md)
+- [Tilt](tilt.md) is the poker-specific name for the same mechanism — Duke's contribution is the explicit recognition that you're temporarily not "decision fit" and should defer decisions
+- Discussed in [The Art of Learning](../sources/books/the-art-of-learning/summary.md) and [Thinking in Bets](../sources/books/thinking-in-bets/summary.md)

@@ -9,6 +9,7 @@ sources:
   - creativity-inc
   - atomic-habits
   - drive
+  - thinking-in-bets
 domains:
   - writing
   - creative-process
@@ -43,6 +44,7 @@ related:
   - mastery-as-asymptote
   - type-i-vs-type-x
   - the-sawyer-effect
+  - resulting
 ---
 
 # Process over Product

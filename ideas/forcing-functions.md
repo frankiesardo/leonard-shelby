@@ -18,6 +18,7 @@ related:
   - knowledge-in-the-world
   - the-gulf-of-execution-and-evaluation
   - conceptual-models
+  - ulysses-contracts
 ---
 
 # Forcing Functions
@@ -40,4 +41,5 @@ The ATM card-before-cash design is the archetype. Nobody experiences it as a con
 - [Knowledge in the World](knowledge-in-the-world.md) -- forcing functions are the extreme case: not just putting knowledge in the world, but building the correct behavior into the physical structure
 - [Affordances and Signifiers](affordances-and-signifiers.md) -- forcing functions use physical constraints to eliminate wrong affordances
 - Toyota's *jidoka* philosophy -- "automation with a human touch" -- is the organizational-scale version: workers stop the entire assembly line (pull the *andon* cord) when they detect an error, treating the line stop as a forcing function against shipping defects
+- [Ulysses Contracts](ulysses-contracts.md) are the self-imposed cousin: you design a forcing function for your own future self, binding a rational present to an irrational future
 - Discussed in [The Design of Everyday Things](../sources/books/the-design-of-everyday-things/summary.md)
