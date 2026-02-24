@@ -5,6 +5,7 @@ aliases:
   - switching cost trap
   - captive customers
 sources:
+  - alex-rampell-best-founders-materialise-capital
   - a16z-anish-acharya-saas-dead-margins-still-matter
 domains:
   - product
@@ -14,6 +15,7 @@ related:
   - live-data-advantage
   - area-under-the-curve
   - latent-demand
+  - green-field-bingo
 ---
 
 # Hostages Not Customers
@@ -33,4 +35,5 @@ The inverse lesson for builders: build loyalty, not lock-in. Lock-in is fragile 
 - [Live Data Advantage](live-data-advantage.md) — the opposite of hostage lock-in. Live data is a moat that's *earned* through deep workflow integration and compounds over time. Lock-in is *imposed* through migration cost and erodes the moment switching becomes easy. One is an asset; the other is a wall.
 - [Area Under the Curve](area-under-the-curve.md) — area-under-the-curve companies often look like hostage situations from the outside (slow growth, sticky customers), but the mechanism is different: customers stay because the product got deeply embedded through genuine value, not because leaving is too scary.
 - [Latent Demand](latent-demand.md) — hostage situations suppress demand for better products. When switching costs fall, latent demand surfaces as migration.
-- Discussed in [Is SaaS Dead? Do Margins Still Matter?](../sources/transcripts/a16z-anish-acharya-saas-dead-margins-still-matter/summary.md)
+- [Green Field Bingo](green-field-bingo.md) — Rampell's strategic counter to the hostage problem. Don't fight to free hostages; sell to companies that haven't been captured yet.
+- Discussed in [The Best Founders Materialise Capital, Customers & Labour](../sources/transcripts/alex-rampell-best-founders-materialise-capital/summary.md) (origin) and [Is SaaS Dead? Do Margins Still Matter?](../sources/transcripts/a16z-anish-acharya-saas-dead-margins-still-matter/summary.md)

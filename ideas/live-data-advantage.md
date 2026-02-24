@@ -5,6 +5,7 @@ aliases:
   - live data moat
   - live context beats frontier model
 sources:
+  - alex-rampell-best-founders-materialise-capital
   - a16z-anish-acharya-saas-dead-margins-still-matter
 domains:
   - product
@@ -14,6 +15,7 @@ related:
   - hostages-not-customers
   - area-under-the-curve
   - latent-demand
+  - green-field-bingo
 ---
 
 # Live Data Advantage
@@ -35,4 +37,5 @@ The corollary: systems of record with high human workflow density (core banking,
 - [Hostages Not Customers](hostages-not-customers.md) — the distinction between earning retention (live data) and imposing it (lock-in). Both make customers sticky, but live data compounds while lock-in erodes.
 - [Area Under the Curve](area-under-the-curve.md) — live data advantages take time to accumulate. The company that's been in the workflow for years has richer live data than the hot newcomer. This is one mechanism by which area-under-the-curve companies build their defensibility.
 - [Latent Demand](latent-demand.md) — live data is a byproduct of being deeply embedded in a workflow. The same embeddedness that generates latent demand signals generates live data.
-- Discussed in [Is SaaS Dead? Do Margins Still Matter?](../sources/transcripts/a16z-anish-acharya-saas-dead-margins-still-matter/summary.md)
+- [Green Field Bingo](green-field-bingo.md) — green field companies that accumulate live data from day one build the strongest version of this moat
+- Discussed in [The Best Founders Materialise Capital, Customers & Labour](../sources/transcripts/alex-rampell-best-founders-materialise-capital/summary.md) (Rampell's "walled garden" thesis) and [Is SaaS Dead? Do Margins Still Matter?](../sources/transcripts/a16z-anish-acharya-saas-dead-margins-still-matter/summary.md)

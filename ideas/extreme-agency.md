@@ -6,6 +6,7 @@ aliases:
   - the wanting
 sources:
   - artificial-intelligence
+  - alex-rampell-best-founders-materialise-capital
 domains:
   - philosophy
   - personal-development
@@ -16,6 +17,7 @@ related:
   - adversarial-nullification
   - weird-wins
   - imposter-yearnings
+  - materialise-labor-capital-customers
 ---
 
 # Extreme Agency
@@ -37,4 +39,5 @@ The distinction also offers a definition of intelligence that AI fails by design
 - [Self-Authorization](self-authorization.md) — the inner prerequisite: you must give yourself permission before you can exercise extreme agency
 - [Creativity as Out-of-Distribution](creativity-as-out-of-distribution.md) — extreme agency is what generates genuinely out-of-distribution work
 - [Adversarial Nullification](adversarial-nullification.md) — in zero-sum domains, AI cancels itself out; the remaining edge is human agency
-- Discussed in [On Artificial Intelligence](../sources/transcripts/artificial-intelligence/summary.md)
+- [Materialise Labor, Capital, and Customers](materialise-labor-capital-customers.md) — Rampell's operational version: agency manifests as the ability to conjure resources from nothing. The Count of Monte Cristo motivation is what sustains agency through the long grind.
+- Discussed in [On Artificial Intelligence](../sources/transcripts/artificial-intelligence/summary.md) and [The Best Founders Materialise Capital, Customers & Labour](../sources/transcripts/alex-rampell-best-founders-materialise-capital/summary.md)
