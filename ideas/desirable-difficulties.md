@@ -17,6 +17,7 @@ related:
   - process-over-product
   - difficulty-as-engagement
   - failure-as-investment
+  - frustration-tolerance
 ---
 
 # Desirable Difficulties

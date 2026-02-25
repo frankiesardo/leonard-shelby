@@ -20,6 +20,7 @@ related:
   - the-hero-maker-narrative
   - incremental-theory-of-intelligence
   - reality-distortion-field
+  - factory-settings
 ---
 
 # Origin Damage

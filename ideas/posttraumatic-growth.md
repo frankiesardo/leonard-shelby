@@ -18,6 +18,7 @@ related:
   - the-rider-and-the-elephant
   - seasons-of-life
   - the-happiness-formula
+  - factory-settings
 ---
 
 # Posttraumatic Growth

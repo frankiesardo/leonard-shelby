@@ -17,6 +17,8 @@ related:
   - the-luxury-trap
   - tilt
   - resulting
+  - deeply-feeling-kids
+  - co-regulation
 ---
 
 # The Downward Spiral

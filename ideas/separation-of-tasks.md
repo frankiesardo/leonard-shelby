@@ -29,6 +29,8 @@ related:
   - the-braintrust
   - the-yearning-octopus
   - imposter-yearnings
+  - co-regulation
+  - frustration-tolerance
 ---
 
 # Separation of Tasks
