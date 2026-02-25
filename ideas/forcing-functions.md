@@ -19,6 +19,7 @@ related:
   - the-gulf-of-execution-and-evaluation
   - conceptual-models
   - ulysses-contracts
+  - lowering-the-courage-threshold
 ---
 
 # Forcing Functions

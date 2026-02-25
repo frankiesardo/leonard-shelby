@@ -18,6 +18,7 @@ related:
   - beginners-mind
   - deliberate-amateurs
   - the-intersection-of-humanities-and-technology
+  - fall-in-love-with-problems
 ---
 
 # The Outsider Advantage

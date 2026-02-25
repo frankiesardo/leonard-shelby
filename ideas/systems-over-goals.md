@@ -16,6 +16,8 @@ related:
   - identity-based-habits
   - the-four-laws-of-behavior-change
   - the-progress-principle
+  - environment-over-policy
+  - goodharts-law-in-product
 ---
 
 # Systems over Goals

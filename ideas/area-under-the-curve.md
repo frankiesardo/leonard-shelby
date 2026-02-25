@@ -16,6 +16,7 @@ related:
   - live-data-advantage
   - hostages-not-customers
   - heartbeats-and-handcuffs
+  - the-positional-game
 ---
 
 # Area Under the Curve

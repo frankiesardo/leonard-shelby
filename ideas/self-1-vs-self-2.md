@@ -28,6 +28,7 @@ related:
   - the-rider-and-the-elephant
   - mental-models-for-uncertainty
   - happiness-as-skill
+  - stay-in-character
 ---
 
 # Self 1 vs Self 2

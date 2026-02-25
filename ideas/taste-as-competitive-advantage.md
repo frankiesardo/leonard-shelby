@@ -24,6 +24,7 @@ related:
   - the-discriminator-is-disposable
   - differentiate-even-if-worse
   - companies-as-technology
+  - vertical-depth-over-horizontal-expansion
 ---
 
 # Taste as Competitive Advantage

@@ -17,6 +17,7 @@ related:
   - quality-is-its-own-reward
   - products-not-profits
   - the-intersection-of-humanities-and-technology
+  - software-has-a-worldview
 ---
 
 # End-to-End Integration

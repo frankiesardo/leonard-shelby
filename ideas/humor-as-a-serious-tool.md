@@ -16,6 +16,7 @@ related:
   - paradoxical-intention
   - microhumor
   - crossing-tribal-boundaries
+  - stakes-toolkit
 ---
 
 # Humor as a Serious Tool

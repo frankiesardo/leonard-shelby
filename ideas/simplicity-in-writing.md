@@ -16,6 +16,7 @@ related:
   - trust-your-material
   - unity-of-form
   - taste-as-competitive-advantage
+  - the-dinner-test
 ---
 
 # Simplicity in Writing

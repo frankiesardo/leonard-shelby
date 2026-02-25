@@ -29,6 +29,7 @@ related:
   - thinking-brain-vs-feeling-brain
   - the-mindful-pause
   - forgiveness-as-freedom
+  - stay-in-character
 ---
 
 # The Soft Zone

@@ -16,6 +16,8 @@ related:
   - stress-and-recovery
   - relaxed-concentration
   - unexpected-change-as-story-engine
+  - homework-for-life
+  - stakes-toolkit
 ---
 
 # Slowing Down Time

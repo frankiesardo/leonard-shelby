@@ -34,6 +34,7 @@ related:
   - good-explanations-over-predictions
   - weird-wins
   - stay-hungry-stay-foolish
+  - fall-in-love-with-problems
 ---
 
 # Beginner's Mind

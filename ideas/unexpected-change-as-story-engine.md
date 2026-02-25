@@ -17,6 +17,7 @@ related:
   - slowing-down-time
   - noticing-as-discipline
   - trust-the-reader
+  - the-five-second-moment
 ---
 
 # Unexpected Change as Story Engine

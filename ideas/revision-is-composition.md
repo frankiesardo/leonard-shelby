@@ -12,6 +12,7 @@ domains:
 related:
   - difficulty-as-engagement
   - writing-is-rewriting
+  - the-accordion-method
 ---
 
 # Revision Is Composition

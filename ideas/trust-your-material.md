@@ -14,6 +14,9 @@ related:
   - clutter
   - trust-the-reader
   - humor-as-a-serious-tool
+  - the-dinner-test
+  - speaking-with-adjacency
+  - the-accordion-method
 ---
 
 # Trust Your Material

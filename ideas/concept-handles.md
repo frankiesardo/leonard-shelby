@@ -14,6 +14,8 @@ related:
   - clear-thinking-clear-writing
   - simplicity-in-writing
   - seed-crystals
+  - speaking-with-adjacency
+  - the-bow-and-arrow
 ---
 
 # Concept Handles

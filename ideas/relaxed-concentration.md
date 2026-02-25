@@ -6,6 +6,7 @@ aliases:
   - still mind
 sources:
   - the-inner-game-of-tennis
+  - overcome-speaking-anxiety-tristan-de-montebello
 domains:
   - cognitive-science
   - personal-development
@@ -21,6 +22,9 @@ related:
   - slowing-down-time
   - mental-models-for-uncertainty
   - the-progress-principle
+  - speaking-as-meta-skill
+  - enjoyment-as-barometer
+  - stay-in-character
 ---
 
 # Relaxed Concentration

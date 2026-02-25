@@ -19,6 +19,9 @@ related:
   - think-small
   - clutter
   - death-as-the-great-motivator
+  - the-beautiful-problem
+  - vertical-depth-over-horizontal-expansion
+  - the-positional-game
 ---
 
 # Focus Is Saying No

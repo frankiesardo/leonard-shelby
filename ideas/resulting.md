@@ -17,6 +17,7 @@ related:
   - failure-as-investment
   - the-downward-spiral
   - fallibilism
+  - goodharts-law-in-product
 ---
 
 # Resulting

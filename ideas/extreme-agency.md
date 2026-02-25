@@ -18,6 +18,8 @@ related:
   - weird-wins
   - imposter-yearnings
   - materialise-labor-capital-customers
+  - fall-in-love-with-problems
+  - courage-over-genius
 ---
 
 # Extreme Agency

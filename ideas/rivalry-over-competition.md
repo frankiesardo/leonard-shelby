@@ -16,6 +16,7 @@ related:
   - beginners-mind
   - companies-as-technology
   - protect-the-new
+  - the-positional-game
 ---
 
 # Rivalry over Competition

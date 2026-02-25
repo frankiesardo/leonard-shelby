@@ -17,6 +17,8 @@ related:
   - self-acceptance-vs-self-affirmation
   - teleology-vs-etiology
   - quadrant-ii
+  - the-five-second-moment
+  - homework-for-life
 ---
 
 # Life as a Series of Moments

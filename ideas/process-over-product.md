@@ -45,6 +45,7 @@ related:
   - type-i-vs-type-x
   - the-sawyer-effect
   - resulting
+  - enjoyment-as-barometer
 ---
 
 # Process over Product

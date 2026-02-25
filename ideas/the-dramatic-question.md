@@ -19,6 +19,8 @@ related:
   - status-games
   - unexpected-change-as-story-engine
   - the-virus-of-doubt
+  - the-five-second-moment
+  - stakes-toolkit
 ---
 
 # The Dramatic Question

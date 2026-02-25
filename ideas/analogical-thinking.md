@@ -24,6 +24,7 @@ related:
   - conceptual-metaphor
   - good-explanations
   - the-reach-of-explanations
+  - speaking-with-adjacency
 ---
 
 # Analogical Thinking

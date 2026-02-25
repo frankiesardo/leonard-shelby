@@ -19,6 +19,9 @@ related:
   - extreme-agency
   - differentiate-even-if-worse
   - imposter-yearnings
+  - speaking-as-meta-skill
+  - courage-over-genius
+  - exothermic-leadership
 ---
 
 # Self-Authorization

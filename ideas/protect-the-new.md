@@ -19,6 +19,7 @@ related:
   - static-vs-dynamic-societies
   - rational-and-anti-rational-memes
   - weird-wins
+  - exothermic-leadership
 ---
 
 # Protect the New

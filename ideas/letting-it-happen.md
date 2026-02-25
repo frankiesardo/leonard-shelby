@@ -21,6 +21,7 @@ related:
   - numbers-to-leave-numbers
   - making-smaller-circles
   - mental-models-for-uncertainty
+  - enjoyment-as-barometer
 ---
 
 # Letting It Happen

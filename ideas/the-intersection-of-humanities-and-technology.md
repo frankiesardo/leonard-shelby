@@ -18,6 +18,7 @@ related:
   - deliberate-amateurs
   - analogical-thinking
   - reality-distortion-field
+  - software-has-a-worldview
 ---
 
 # The Intersection of Humanities and Technology

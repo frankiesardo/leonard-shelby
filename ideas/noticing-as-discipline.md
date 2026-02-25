@@ -19,6 +19,7 @@ related:
   - unexpected-change-as-story-engine
   - the-hidden-and-the-unseen
   - mental-models-for-uncertainty
+  - homework-for-life
 ---
 
 # Noticing as Discipline

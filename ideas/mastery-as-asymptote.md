@@ -19,6 +19,7 @@ related:
   - stress-and-recovery
   - the-art-of-competing
   - making-smaller-circles
+  - the-beautiful-problem
 ---
 
 # Mastery as Asymptote

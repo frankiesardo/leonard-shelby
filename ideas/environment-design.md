@@ -16,6 +16,8 @@ related:
   - systems-over-goals
   - building-your-trigger
   - the-two-minute-rule
+  - environment-over-policy
+  - lowering-the-courage-threshold
 ---
 
 # Environment Design

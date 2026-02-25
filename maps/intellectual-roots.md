@@ -84,6 +84,9 @@ Engineering management, startups, product thinking. How small teams create outsi
 | [Creativity, Inc.](../sources/books/creativity-inc/summary.md) | Ed Catmull |
 | Quiet | Susan Cain |
 | The Design of Everyday Things | Don Norman |
+| [Tobi Lütke: 21 Years of Building Shopify](../sources/transcripts/tobi-lutke-21-years-building-shopify/summary.md) | Tobi Lütke |
+| [Tobi Lütke: Still Captivated by Internet Commerce](../sources/transcripts/tobi-lutke-internet-commerce/summary.md) | Tobi Lütke |
+| [Tobi Lütke's Leadership Playbook](../sources/transcripts/tobi-lutke-leadership-playbook/summary.md) | Tobi Lütke |
 
 ## History & the long arc
 
@@ -114,6 +117,8 @@ The craft of making ideas transmissible.
 |--------|--------|
 | [Several Short Sentences About Writing](../sources/books/several-short-sentences-about-writing/summary.md) | Verlyn Klinkenborg |
 | [On Writing Well](../sources/books/on-writing-well/summary.md) | William Zinsser |
+| [How to Tell Better Stories (Storyworthy)](../sources/transcripts/tell-better-stories-matthew-dicks/summary.md) | Matthew Dicks |
+| [Why Most Public Speaking Advice Is Wrong](../sources/transcripts/overcome-speaking-anxiety-tristan-de-montebello/summary.md) | Tristan de Montebello |
 
 ## Fiction
 

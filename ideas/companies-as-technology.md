@@ -17,6 +17,9 @@ related:
   - theory-of-constraints
   - the-outsider-advantage
   - self-authorization
+  - environment-over-policy
+  - software-has-a-worldview
+  - the-positional-game
 ---
 
 # Companies as Technology
