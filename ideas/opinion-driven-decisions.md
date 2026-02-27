@@ -19,6 +19,8 @@ related:
   - boldness-over-hedging
   - heartbeats-and-handcuffs
   - mission-driven-assholes
+  - the-doorman-fallacy
+  - psychological-moonshots
 ---
 
 # Opinion-Driven Decisions

@@ -24,6 +24,7 @@ related:
   - the-hedonic-treadmill
   - money-as-vaccine
   - the-yearning-octopus
+  - transaction-utility
 ---
 
 # Status Games

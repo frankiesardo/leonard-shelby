@@ -55,6 +55,7 @@ How thinking actually works, not how we wish it worked.
 | Drive | Daniel Pink |
 | [The Art of Learning](../sources/books/the-art-of-learning/summary.md) | Josh Waitzkin |
 | Atomic Habits | James Clear |
+| [Marketing Expert: The Playbook Behind Every Great Campaign](../sources/transcripts/rory-sutherland-marketing-playbook/summary.md) | Rory Sutherland |
 
 ## Systems thinking & big ideas
 

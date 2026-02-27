@@ -21,6 +21,7 @@ related:
   - type-i-vs-type-x
   - baseline-rewards
   - the-sawyer-effect
+  - the-doorman-fallacy
 ---
 
 # Products, Not Profits

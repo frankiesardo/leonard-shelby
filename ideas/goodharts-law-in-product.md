@@ -15,6 +15,8 @@ related:
   - systems-over-goals
   - the-positional-game
   - resulting
+  - the-doorman-fallacy
+  - psychological-moonshots
 ---
 
 # Goodhart's Law in Product

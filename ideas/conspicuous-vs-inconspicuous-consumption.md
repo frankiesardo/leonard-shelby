@@ -17,6 +17,7 @@ related:
   - good-and-bad-values
   - the-happiness-formula
   - the-progress-principle
+  - transaction-utility
 ---
 
 # Conspicuous vs. Inconspicuous Consumption
