@@ -6,6 +6,7 @@ const PATH_PREFIX = "/leonard-shelby";
 export default function (eleventyConfig) {
   // --- Passthrough copy ---
   eleventyConfig.addPassthroughCopy("site/css");
+  eleventyConfig.addPassthroughCopy("site/favicon.svg");
 
   // --- Ignore non-content files ---
   eleventyConfig.ignores.add("README.md");
