@@ -23,6 +23,9 @@ related:
   - vertical-depth-over-horizontal-expansion
   - the-positional-game
   - idiosyncrasies-count-double
+  - constructive-dissatisfaction
+  - solve-for-enterprise-value
+  - single-threaded-ownership
 ---
 
 # Focus Is Saying No

@@ -18,6 +18,8 @@ related:
   - drum-buffer-rope
   - concentration-of-wealth
   - dependent-events-and-statistical-fluctuations
+  - single-threaded-ownership
+  - solve-for-enterprise-value
 ---
 
 # Bottleneck

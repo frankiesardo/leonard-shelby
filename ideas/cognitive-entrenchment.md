@@ -27,6 +27,7 @@ related:
   - metaphorical-highlighting-and-hiding
   - static-vs-dynamic-societies
   - delete-before-optimizing
+  - hire-for-spikes
 ---
 
 # Cognitive Entrenchment

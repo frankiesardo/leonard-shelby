@@ -19,6 +19,7 @@ related:
   - deliberate-amateurs
   - the-intersection-of-humanities-and-technology
   - fall-in-love-with-problems
+  - hire-for-spikes
 ---
 
 # The Outsider Advantage

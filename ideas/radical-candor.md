@@ -23,6 +23,7 @@ related:
   - rock-stars-and-superstars
   - the-get-stuff-done-wheel
   - the-art-of-competing
+  - solve-for-enterprise-value
 ---
 
 # Radical Candor

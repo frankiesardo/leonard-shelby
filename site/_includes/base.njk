@@ -19,5 +19,22 @@
     <p>A digital garden.</p>
   </footer>
   <script src="/pagefind/pagefind-ui.js" type="text/javascript"></script>
+  <script>
+  var gardenUrls = {
+    ideas: [{% for idea in collections.ideas %}"{{ idea.url | url }}"{% if not loop.last %},{% endif %}{% endfor %}],
+    sources: [{% for s in collections.sourceSummaries %}"{{ s.url | url }}"{% if not loop.last %},{% endif %}{% endfor %}],
+    flashcards: [{% for card in collections.flashcards %}"{{ card.url | url }}"{% if not loop.last %},{% endif %}{% endfor %}]
+  };
+  function goRandom(key) {
+    var urls = gardenUrls[key];
+    if (urls && urls.length) window.location.href = urls[Math.floor(Math.random() * urls.length)];
+  }
+  document.querySelectorAll('nav a[data-random]').forEach(function(link) {
+    link.addEventListener('click', function(e) {
+      e.preventDefault();
+      goRandom(this.getAttribute('data-random'));
+    });
+  });
+  </script>
 </body>
 </html>

@@ -15,6 +15,7 @@ related:
   - focus-is-saying-no
   - socratic-method-in-management
   - products-not-profits
+  - hire-for-spikes
 ---
 
 # A-Players Only

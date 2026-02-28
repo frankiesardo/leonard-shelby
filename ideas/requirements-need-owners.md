@@ -14,6 +14,7 @@ related:
   - candor-as-survival-mechanism
   - alignment-vs-control
   - a-players-only
+  - single-threaded-ownership
 ---
 
 # Requirements Need Owners

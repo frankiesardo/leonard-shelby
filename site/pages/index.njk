@@ -14,16 +14,6 @@ permalink: /
   });
 </script>
 
-<div class="random-buttons">
-  <button onclick="goRandom(ideaUrls)">Random idea</button>
-  <button onclick="goRandom(flashcardUrls)">Random flashcard</button>
-</div>
-<script>
-var ideaUrls = [{% for idea in collections.ideas %}"{{ idea.url | url }}"{% if not loop.last %},{% endif %}{% endfor %}];
-var flashcardUrls = [{% for card in collections.flashcards %}"{{ card.url | url }}"{% if not loop.last %},{% endif %}{% endfor %}];
-function goRandom(list) { if (list.length) window.location.href = list[Math.floor(Math.random() * list.length)]; }
-</script>
-
 <section class="garden-overview">
   <h2>Sections</h2>
   <ul>

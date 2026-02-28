@@ -16,6 +16,7 @@ related:
   - the-five-focusing-steps
   - non-bottleneck-utilization
   - dependent-events-and-statistical-fluctuations
+  - single-threaded-ownership
 ---
 
 # Drum-Buffer-Rope

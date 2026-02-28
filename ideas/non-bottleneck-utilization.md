@@ -16,6 +16,7 @@ related:
   - dependent-events-and-statistical-fluctuations
   - the-five-focusing-steps
   - drum-buffer-rope
+  - solve-for-enterprise-value
 ---
 
 # Non-Bottleneck Utilization
