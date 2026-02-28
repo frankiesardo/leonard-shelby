@@ -18,6 +18,7 @@ related:
   - the-happiness-formula
   - the-progress-principle
   - transaction-utility
+  - user-imagery
 ---
 
 # Conspicuous vs. Inconspicuous Consumption

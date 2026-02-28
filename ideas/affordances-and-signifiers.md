@@ -17,6 +17,8 @@ related:
   - knowledge-in-the-world
   - forcing-functions
   - the-whole-customer-journey
+  - maya
+  - idiosyncrasies-count-double
 ---
 
 # Affordances and Signifiers

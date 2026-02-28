@@ -62,4 +62,5 @@ Rory Sutherland (Vice Chairman of Ogilvy) in conversation with Shane Parrish on 
 - [Conspicuous vs. Inconspicuous Consumption](../../ideas/conspicuous-vs-inconspicuous-consumption.md) — Sutherland on Veblen goods and the British sparkling wine example is a marketing practitioner's view of the same phenomenon
 - [The Intersection of Humanities and Technology](../../ideas/the-intersection-of-humanities-and-technology.md) — Jobs's "liberal arts and technology" is the product version of Sutherland's "psychology and engineering"
 - [Differentiate Even If Worse](../../ideas/differentiate-even-if-worse.md) — Sutherland's defense of Jaguar's repositioning and his broader argument that competing on the same dimension as your larger competitors is suicide
+- [Rory Sutherland — What Most People Miss (Lenny's Podcast)](../rory-sutherland-what-most-people-miss/summary.md) — companion interview covering MAYA, user imagery, idiosyncrasies, and brand-as-easy-mode
 - The [Morgan Housel](../morgan-housel-build-wealth-buy-freedom-stay-rich/summary.md) interview covers adjacent territory on wealth, compounding, and the psychology of money

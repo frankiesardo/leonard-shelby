@@ -25,6 +25,7 @@ related:
   - money-as-vaccine
   - the-yearning-octopus
   - transaction-utility
+  - user-imagery
 ---
 
 # Status Games

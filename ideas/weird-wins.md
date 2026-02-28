@@ -16,6 +16,8 @@ related:
   - latent-demand
   - protect-the-new
   - painkillers-not-vitamins
+  - maya
+  - user-imagery
 ---
 
 # Weird Wins

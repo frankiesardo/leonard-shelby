@@ -19,6 +19,7 @@ related:
   - opinion-driven-decisions
   - goodharts-law-in-product
   - differentiate-even-if-worse
+  - maya
 ---
 
 # Psychological Moonshots

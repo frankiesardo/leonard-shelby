@@ -18,6 +18,7 @@ related:
   - beginners-mind
   - protect-the-new
   - the-outsider-advantage
+  - idiosyncrasies-count-double
 ---
 
 # Differentiate Even If Worse

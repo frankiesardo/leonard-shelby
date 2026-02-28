@@ -22,6 +22,7 @@ related:
   - the-beautiful-problem
   - vertical-depth-over-horizontal-expansion
   - the-positional-game
+  - idiosyncrasies-count-double
 ---
 
 # Focus Is Saying No
