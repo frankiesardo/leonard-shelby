@@ -7,6 +7,7 @@ aliases:
   - differentiation as axiom
 sources:
   - tobi-lutke-21-years-building-shopify
+  - what-most-people-miss-about-marketing
 domains:
   - product
   - management
@@ -18,6 +19,8 @@ related:
   - beginners-mind
   - protect-the-new
   - the-outsider-advantage
+  - psycho-logic
+  - maya-most-advanced-yet-acceptable
 ---
 
 # Differentiate Even If Worse
@@ -47,4 +50,7 @@ The world belongs to the fast -- the people who iterate, adjust, and prune. You 
 - [Beginner's Mind](beginners-mind.md) -- building from scratch means accepting beginner status in exchange for trajectory
 - [Protect the New](protect-the-new.md) -- differentiated work is ugly at first and needs protection
 - [The Outsider Advantage](the-outsider-advantage.md) -- distance from the mainstream makes differentiation natural rather than heroic
+- [Psycho-Logic](psycho-logic.md) — Rory Sutherland adds the psychological mechanism: a distinctive product (even if slightly worse) creates a richer psychological frame than a generic one. The six beats the seven because it owns a specific mental slot; the generic seven owns nothing
+- [MAYA — Most Advanced Yet Acceptable](maya-most-advanced-yet-acceptable.md) — the constraint on differentiation; you can be worse *and* different, but only within the psychological tolerance window
 - Discussed in [Tobi Lütke: 21 Years of Building Shopify](../sources/transcripts/tobi-lutke-21-years-building-shopify/summary.md)
+- Also in [What Most People Miss About Marketing](../sources/transcripts/what-most-people-miss-about-marketing/summary.md)

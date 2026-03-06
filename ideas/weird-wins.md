@@ -6,6 +6,7 @@ aliases:
   - institutional discomfort as market gap
 sources:
   - a16z-anish-acharya-saas-dead-margins-still-matter
+  - what-most-people-miss-about-marketing
 domains:
   - product
   - personal-development
@@ -38,4 +39,6 @@ This connects to the historical pattern of disruptive consumer products: they al
 - [Latent Demand](latent-demand.md) — "weird" products often serve long-suppressed latent demand that prior technology (or institutional gatekeeping) never allowed to surface
 - [Protect the New](protect-the-new.md) — weird ideas need protection from premature judgment; the early-stage verdict is usually "this looks wrong," which is often signal
 - [Painkillers Not Vitamins](painkillers-not-vitamins.md) — the best weird products are painkillers for emotional/social needs that went unmet because no institution would go there
+- [Psycho-Logic](psycho-logic.md) — Rory Sutherland's comedian test is the psycho-logical complement: "if a stand-up comedian could do a routine about your product, you're onto something." The embarrassment threshold and the comedian test are the same phenomenon from two angles — what makes institutions flinch is often what makes products memorable
 - Discussed in [Is SaaS Dead? Do Margins Still Matter?](../sources/transcripts/a16z-anish-acharya-saas-dead-margins-still-matter/summary.md)
+- Also in [What Most People Miss About Marketing](../sources/transcripts/what-most-people-miss-about-marketing/summary.md)
