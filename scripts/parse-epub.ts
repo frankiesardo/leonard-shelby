@@ -57,7 +57,9 @@ function detectBoilerplateContent(content: string, bookAuthor: string): string |
   const text = content.replace(/[#*_>\-|`]/g, "").trim();
   const len = text.length;
 
-  if (/Copyright\s+©|All rights reserved/i.test(text)) return "copyright";
+  // Only check the first 1500 chars: a real copyright page leads with the notice,
+  // whereas a chapter that merely cites a figure source buries it deep in the text.
+  if (/Copyright\s+©|All rights reserved/i.test(text.slice(0, 1500))) return "copyright";
   if (/downloading this|enjoyed reading this|mailing list[\s\S]{0,200}sign up|sign up[\s\S]{0,200}mailing list/i.test(text)) return "ebook-promo";
   if (/^praise\s+for\b/im.test(text)) return "praise";
 
