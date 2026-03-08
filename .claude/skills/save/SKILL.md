@@ -59,6 +59,30 @@ Capture the JSON output — you'll need it for the summary.
 
 The raw `ch<NN>-*.md` files are **scaffolding**, not the final structure. They will be reorganized or deleted in Phase 2.
 
+### Parse quality check (EPUB only)
+
+After parsing, **always review the parser output for suspicious skips** before proceeding. The parser can falsely classify real chapter content as boilerplate — do not silently accept its output.
+
+**Red flags — stop and investigate if you see any of these:**
+- A chapter with a numbered or thematic title skipped: e.g. `skip: "2. Changing Your Mind" (copyright)`, `skip: "Chapter 1" (acknowledgments)`, `skip: "Introduction" (short-frontmatter)`
+- More than 2 content chapters skipped (beyond standard boilerplate: cover, title page, copyright, index, acknowledgments, also-by)
+- The chapter count in `source.md` is lower than expected for the book (cross-check against the TOC visible in source.md or the book's known structure)
+
+**How to investigate a suspicious skip:**
+1. Open the EPUB as a ZIP and find the file for the skipped chapter
+2. Extract ~500 chars of text to see what it actually is
+3. If it's real content: extract the full chapter and manually insert it into `source.md` at the correct position (use `---` separators to match the existing format)
+
+**Then, for each suspicious skip:**
+- If it's genuinely boilerplate (promo pages, photo credits, endnotes) → proceed
+- If it's real content that was wrongly dropped → fix it before proceeding, and **note it in your response** so the user is aware
+- If you're unsure → **ask the user** before proceeding: describe what was skipped and why it looks suspicious
+
+**Also check for transcript errors (URL sources):**
+- Garbled text, repeated phrases, or broken paragraphs may indicate a bad transcript
+- Missing sections (e.g. a YouTube transcript that cuts off early)
+- If the source quality is questionable, flag it to the user before writing the summary
+
 ---
 
 ## Phase 2: Decide Structure (books only)
